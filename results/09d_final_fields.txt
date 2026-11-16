@@ -1,0 +1,22 @@
+STEP 9d - FINAL FIELDS
+rows    : 659
+columns : 36 -> 36  (rules and AI columns replaced by 5 chosen ones)
+
+where each final column comes from
+  skills, skill_count : rules
+  min_years           : AI (Haiku), with the exact quote in years_evidence
+  degree_required     : rules
+
+skills found        : 622 rows have at least one (median 6 skills)
+min_years found     : 460 rows, empty in 199
+degree_required     :
+degree_required
+bachelor      344
+not_stated    153
+master        134
+phd            28
+
+where the two methods gave a different years answer (kept: AI)
+  114 of 659 rows. Both answers are in 09d_extraction_audit.csv
+
+check: row count same, degree values valid, years 0-20, skill_count matches skills

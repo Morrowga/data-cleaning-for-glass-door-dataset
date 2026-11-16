@@ -1,0 +1,173 @@
+STEP 7 - JOB TITLES
+rows: 672   distinct titles: 172
+
+title_family
+title_family
+data_scientist    504
+data_analyst       56
+data_engineer      54
+other              39
+ml_engineer        19
+
+seniority
+seniority
+not_stated    544
+senior         78
+lead           22
+junior         12
+manager         7
+director        7
+mid             2
+
+median salary_mid by family (rows with a family, USD per year)
+                count    median
+title_family                   
+data_analyst       56  106000.0
+data_engineer      54  113000.0
+data_scientist    504  114000.0
+ml_engineer        19  105000.0
+other              39  123500.0
+
+SENSITIVITY: how much do the medians depend on the doubtful rows?
+  (all = every row of the family;  clear = without rows whose title fits 2+ families)
+  family            rows  clear rows   median all  median clear   change
+  ml_engineer         19          19      105,000       105,000     0.0%
+  data_scientist     504         477      114,000       114,000     0.0%
+  data_engineer       54          47      113,000       113,000     0.0%
+  data_analyst        56          56      106,000       106,000     0.0%
+  other               39          39      123,500       123,500     0.0%
+  share of rows in 'other': 5.8%
+
+DATA ENGINEER TITLES WITHOUT A DATA WORD (should now be empty)
+
+TITLES IN 'other' (please look)
+    4  ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTO
+    3  Data Modeler (Analytical Systems)
+    2  Research Scientist - Patient-Centered Research (Remote)
+    2  Weapons and Sensors Engineer/Scientist
+    2  Senior Scientist - Toxicologist - Product Integrity (Stewardship)
+    2  Scientist / Group Lead, Cancer Biology
+    1  Data Modeler
+    1  Medical Lab Scientist
+    1  Human Factors Scientist
+    1  Scientist - Molecular Biology
+    1  Purification Scientist
+    1  NGS Scientist
+    1  Research Scientist Patient Preferences (Remote)
+    1  Scientist - Biomarker and Flow Cytometry
+    1  Staff Scientist- Upstream PD
+    1  Sr Scientist - Extractables & Leachables
+    1  ELISA RESEARCH SCIENTIST (CV-15)
+    1  Real World Evidence (RWE) Scientist
+    1  Computer Scientist 1
+    1  Chief Scientist
+    1  Development Scientist, Voltaren
+    1  Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift
+    1  Manager, Field Application Scientist, Southeast
+    1  COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING
+    1  COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY
+    1  Information Systems Engineering Specialist (Engineering Scientist)
+    1  Scientist/Research Associate-Metabolic Engineering
+    1  Vice President, Biometrics and Clinical Data Management
+    1  Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics
+    1  Hydrogen/Tritium Materials Scientist (Experienced)
+
+AMBIGUOUS TITLES (fit more than one family, first rule won)
+  -> data_scientist  Applied AI Scientist / Engineer   (matched: data_scientist, data_engineer)
+  -> data_engineer   Data Analyst/Engineer   (matched: data_engineer, data_analyst)
+  -> data_engineer   Data Analytics Engineer   (matched: data_engineer, data_analyst)
+  -> data_engineer   Data Engineer (Analytics, SQL, Python, AWS)   (matched: data_engineer, data_analyst)
+  -> data_engineer   Data Engineer, Enterprise Analytics   (matched: data_engineer, data_analyst)
+  -> data_scientist  Data Science All Star Program - Data Engineer Track   (matched: data_scientist, data_engineer)
+  -> data_scientist  Data Science Analyst   (matched: data_scientist, data_analyst)
+  -> data_scientist  Data Science Software Engineer   (matched: data_scientist, data_engineer)
+  -> data_scientist  Data Scientist - Image and Video Analytics   (matched: data_scientist, data_analyst)
+  -> data_scientist  Data Scientist(s)/Machine Learning Engineer   (matched: data_scientist, data_engineer)
+  -> data_scientist  Data Scientist/Data Analytics Practitioner   (matched: data_scientist, data_analyst)
+  -> data_scientist  Developer III - Data Science   (matched: data_scientist, data_engineer)
+  -> data_scientist  Machine Learning Engineer/Scientist   (matched: data_scientist, data_engineer)
+  -> data_scientist  Machine Learning Scientist / Engineer   (matched: data_scientist, data_engineer)
+  -> data_scientist  Manager / Lead, Data Science & Analytics   (matched: data_scientist, data_analyst)
+  -> data_engineer   Principal Data & Analytics Platform Engineer   (matched: data_engineer, data_analyst)
+  -> data_scientist  Senior Analyst/Data Scientist   (matched: data_scientist, data_analyst)
+  -> data_scientist  Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab   (matched: data_scientist, data_analyst)
+  -> data_scientist  Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG   (matched: data_scientist, data_engineer)
+  -> data_scientist  Software Engineer - Data Science   (matched: data_scientist, data_engineer)
+  -> data_scientist  Software Engineer - Machine Learning & Data Science (Applied Intelligence Servic   (matched: data_scientist, data_engineer)
+  -> data_scientist  Staff Data Scientist - Analytics   (matched: data_scientist, data_analyst)
+
+SENIORITY CHECK: titles per level (not_stated is left out)
+  [director] 5 titles
+      Chief Scientist
+      Director of Data Science
+      Principal Scientist/Associate Director, Quality Control and Analytical Technologies
+      VP, Data Science
+      Vice President, Biometrics and Clinical Data Management
+  [manager] 6 titles
+      Analytics Manager
+      Analytics Manager - Data Mart
+      Data Science Manager
+      Data Science Manager, Payment Acceptance - USA
+      Manager / Lead, Data Science & Analytics
+      Manager, Field Application Scientist, Southeast
+  [lead] 14 titles
+      Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift
+      Lead Data Scientist
+      Lead Data Scientist – Network Analysis and Control
+      Principal Data & Analytics Platform Engineer
+      Principal Data Scientist
+      Principal Data Scientist - Machine Learning
+      Principal Machine Learning Scientist
+      Scientist / Group Lead, Cancer Biology
+      Senior Principal Data Scientist (Python/R)
+      Staff BI and Data Engineer
+      Staff Data Scientist
+      Staff Data Scientist - Analytics
+      Staff Data Scientist - Pricing
+      Staff Scientist- Upstream PD
+  [senior] 30 titles
+      (Sr.) Data Scientist -
+      Data Scientist 3 (718)
+      Developer III - Data Science
+      Health Plan Data Analyst, Sr
+      Intelligence Data Analyst, Senior
+      Machine Learning Engineer, Sr.
+      Senior Analyst/Data Scientist
+      Senior Business Intelligence Analyst
+      Senior Clinical Data Scientist Programmer
+      Senior Data & Machine Learning Scientist
+      Senior Data Analyst
+      Senior Data Analyst - Finance & Platform Analytics
+      Senior Data Engineer
+      Senior Data Scientist
+      Senior Data Scientist - Algorithms
+      Senior Data Scientist - R&D Oncology
+      Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab
+      Senior Machine Learning Engineer
+      Senior Machine Learning Scientist - Bay Area, CA
+      Senior Research Statistician- Data Scientist
+      Senior Scientist - Toxicologist - Product Integrity (Stewardship)
+      Sr Data Analyst
+      Sr Data Engineer (Sr BI Developer)
+      Sr Data Scientist
+      Sr Scientist - Extractables & Leachables
+      Sr. Data Analyst
+      Sr. Data Scientist
+      Sr. Data Scientist II
+      Sr. ML/Data Scientist - AI/NLP/Chatbot
+      Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics
+  [junior] 9 titles
+      Associate Data Scientist
+      Business Intelligence Analyst I- Data Insights
+      Computer Scientist 1
+      Data Analyst I
+      Data Scientist - Statistics, Early Career
+      Jr. Business Data Analyst (position added 6/12/2020)
+      Jr. Data Engineer
+      Patient Safety- Associate Data Scientist
+      Scientist/Research Associate-Metabolic Engineering
+  [mid] 2 titles
+      Data Analyst II
+      Data Scientist - Statistics, Mid-Career
+
+check: row count same, original title kept, every row has a family and a level

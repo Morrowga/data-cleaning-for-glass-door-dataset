@@ -1,0 +1,1135 @@
+index,Job Title,Company Name,Job Description,true_skills,true_years,true_degree
+193,Data Scientist,SkillSoniq,"Job Description
+Client JD below:
+
+We need a technical contractor to assist on building out data cleaning and manipulation tools for our machine learning system. The contractor will sit along side our data scientists to productionize and optimize the code that we have for data ingestion and optimization, and if necessary help to build out the machine learning tools that we are using. A strong background in Python and SQL is a must as that is what our systems are built upon. Additional experience with working with Google compute and cloud services is a plus as our algorithms are being calculated on those systems. We are located in the Flatiron district.
+Company Description
+SkillSoniq hires great talent for projects within SkillSoniq or with our Clients. Below is the hiring process we follow:
+We review applications and resumes for relevant skills and experience
+Profiles that get short-listed are contacted by SkillSoniq on next steps
+You then go through a few rounds of interviews for the project
+If you get selected, you are advised on next steps and paid by SkillSoniq",,,
+482,Data Scientist,Apex Systems,"Job Description
+
+
+Job #: 1068351
+
+Our client is seeking a skilled Data Scientist to assist with a data encryption project. This project involves un-encryption of data to access for regulatory reporting, and re-encryption after reporting is complete. This includes re-writing all models and reports that use this data and inserting code into the models. Analysis of reports and data to identify any patterns of fraud or similar activities will be required.
+
+Successful candidates will have the following:
+8+ years of experience in one or a combination of the following: reporting or analytics; or 4+ years previously mentioned experience with a Master’s degree or higher that has a quantitative focus such as applied mathematics, statistics, engineering, physics, accounting, finance, economics, econometrics, computer sciences, or business/social and behavioral sciences with a quantitative emphasis
+4+ years of SAS or SQL experience
+4+ years of data warehousing experience
+
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystemsinc.com or 844-463-6178.",,,
+368,Data Scientist,Compass Consulting Group,"Job Description
+Our client is committed to unlocking the potential of biology for patients suffering from serious illnesses by discovering, developing, manufacturing and delivering innovative human therapeutics. This approach begins by using tools like advanced human genetics to unravel the complexities of disease and understand the fundamentals of human biology.
+
+Job Description:
+
+This person will be responsible for providing support to advance artificial intelligence and data analytics effort by building machine learning models, support their implementation and deployment through collaborations with stake holders.
+Build a wide range of data and analytics solutions, from descriptive to prescriptive using advance statistical and machine learning models
+Leverage large datasets to conduct end-to end analytics that include data gathering and requirements specifications, processing, analytics, ongoing deliverables, and presentations
+Interact cross-functionally with a wide variety of people and teams. Work closely with subject matter experts to identify opportunities and deliver value by developing novel, practical, scientific data-driven solutions to meet business needs
+Basic Qualifications:
+Master’ s degree
+OR
+Bachelor’ s degree & 2 years of directly related experience
+OR
+Associate degree & 6 years of directly related experience
+OR
+High school diploma / GED & 8 years of directly related experience
+Preferred Qualifications:
+M.Sc., in Engineering or Computer Sciences
+Expertise in comprehensive set of data analytics and modeling methods such as unsupervised (i.e. PCA, K-Means), supervised (i.e. PLS, tree-based algorithms and deep learning), approaches and in their application to biotechnology processes
+Expertise working with large data sets, data mining and machine learning tools
+Experience in various artificial intelligence applications
+Expertise in Python and SQL Programming Languages
+Understanding of biopharmaceuticals process, related unit operations including analytical methods and process controls.
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Independent, self-motivated, organized, able to multi-task in project environments, and skilled in communication, facilitation, and collaboration.
+Team player, prepared to work in and embrace a team-based culture that relies on collaboration for effective decision-making
+Familiarity with DevOps and good software practices (i.e. version control, continuous integration, test driven development)",,,
+652,Senior Data Scientist,GutCheck,"About Us
+
+At GutCheck, we pioneered agile market research to provide our clients with actionable insights at the speed of their business. As the marketplace rapidly evolves, we're evolving with it. By combining qualitative, quantitative, and behavioral methodologies, our team of full-service research experts synthesizes insights to help clients make more confident business decisions -- connecting them with their target consumers earlier and more often in the development process.
+
+What Makes Our Approach Different
+
+We create heroes out of our clients by providing them with contextualized insights to more efficiently and effectively connect with their target audiences. Enabled by technology and automation, we are dedicated partners who take a human-first approach to delivering powerful insights. Today, we are bringing agile to strategy: enabling brands to gather robust foundational insights in an agile, iterative way to inform key business within the demands of today's innovation timelines.
+
+Here's where you come in:
+
+As our Senior Data Scientist, you will be the primary contributor that will operationalize predictive models built with machine learning and advanced analytic technologies. GutCheck owns years of structured and unstructured data. We've started to identify patterns in our world-class market research using machine learning technologies such as TensorFlow. You will help us by providing expertise on mathematical concepts for the broader cross-functional analytics team and inspire the adoption of advanced analytics and data science across the entire breadth of our organization.
+
+You will work closely with our talented and agile Product and Engineering teams to craft scalable, well-designed solutions that address the technical and architectural challenges inherent to making sense of our data. We have a focus on quality, automation, and innovation. We encourage our Engineers to think creatively and flexibly when choosing solutions, tools, and techniques. Our team offers an environment where trust and innovation are encouraged, egos aren't accepted, and collaboration is core to our DNA.
+
+You will advocate, evangelize and build data-fueled products that help our internal and external customers gain deeper insights into direct, targeted consumer feedback. This data can and will be coupled with third-party data sources to help our clients be heroes by making well informed business decisions. You'll help research and choose which data sources will provide unique and compelling insights, and then you'll dig in and become an expert on that data. You will provide insight into leading analytic practices, design and lead iterative learning and development cycles, and ultimately produce new and creative analytic solutions that will become part of our core deliverables.
+
+For more information on the company and the GutCheck team, please go to www.gutcheckit.com
+
+This job description is not a complete list of your qualifications or position roles. GutCheck is proud to be an equal opportunity employer. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status.",,,
+339,Machine Learning Engineer,Software Engineering Institute,"What We Do:
+
+At the SEI Emerging Technology Center, we describe our work as “making the recently possible mission-practical.” We help our government customers stay at the leading edge of technology by identifying, demonstrating, extending, and applying emerging software technologies to solve real government problems. We currently work in the fields of human-machine interaction, applied artificial intelligence and machine learning, and advanced computing—areas that are changing and progressing rapidly. As we show our customers how new technologies can improve their mission capabilities through rapid prototyping and iterative development, we both rely on and shape academic and industrial research.
+
+Are you creative, curious, energetic, collaborative, technology-focused, and hard-working? Are you interested in making a difference by bringing innovation to government organizations and beyond? Apply to join our team.
+
+Position Summary:
+
+As a machine learning engineer on our team, you will build machine learning capabilities using leading-edge technologies for important and challenging government problems and needs.
+
+Requirements:
+
+BS in Computer Science or equivalent experience with eight (8) years of experience; MS in Computer Science or equivalent experience with five (5) years of experience; PhD in Computer Science or equivalent experience with two (2) years of experience.
+Flexible to travel to other SEI offices in Pittsburgh and Washington, DC, sponsor sites, conferences, and offsite meetings on occasion. Moderate (25"") travel outside of your home location.
+You will be subject to a background investigation and must be eligible to obtain and maintain a Department of Defense security clearance.
+
+
+Desired Experience:
+Technical Teamwork: You have experience participating on teams for a variety of machine learning and software development projects. You have experience working in collaborative coding environments, including open-source development projects.
+Knowledge of Department of Defense and Intelligence Community: We consider it a plus if you are familiar with DoD or Intelligence Community practices and missions.
+
+
+Duties:
+
+Building Machine Learning Models and Systems: You will work with machine learning frameworks such as TensorFlow, PyTorch, Torch, and Caffe and modern programming languages including Python, C/C , and Java. You will build and work with date pipelines, ETL processes, and backend systems. You will work with, extend, and implement state-of-the-art machine learning methods.
+Technical Experimentation: You will experiment with modern and emerging machine learning frameworks, methods, and algorithms. Our team has recently explored inverse reinforcement learning, adversarial machine learning, and custom hardware for scalable, high-performance machine learning in application domains that include computer vision, natural language processing, planning and scheduling, robot control, and engineering safe, trusted, and reliable machine learning systems.
+Knowledge, Skills and Abilities:
+Communication and Collaboration: You have strong written and verbal communication skills and can interact collaboratively and diplomatically with customers and colleagues. You grasp the big picture, direction, and goals of an effort while focusing great attention to detail. You can present complex ideas to people who may not have a deep understanding of the subject area.
+Dedication: You can meet deadlines while multi-tasking–sometimes under pressure and with shifting priorities.
+Creativity and Innovation: You are creative and curious, and you are inspired by the prospect of collaborating with researchers at Carnegie Mellon University and other universities and organizations. You quickly learn new procedures, techniques, and approaches.
+Knowledge and Learning: You possess broad technical experience and interest in computer science and applied technology such as human-computer interaction, data analytics and machine learning, advanced computing, autonomy, and adaptive systems.
+More Information
+
+Please visit “Why Carnegie Mellon” to learn more about becoming part of an institution inspiring innovations that change the world.
+
+A listing of employee benefits is available at: www.cmu.edu/jobs/benefits-at-a-glance/.
+
+Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran.",,,
+234,Sr. Data Scientist II,Argo Group US,"Data Scientist
+
+Before the dawn of everything internet, insurance was intimate and personal. You walked down the street to chat with your broker, and the risk to your business, your livelihood, was covered with a handshake. Today things are different. The average insurance policy for a mom-and-pop store trades through a dozen different hands and traverses a maze of systems and processes. Few are accountable and fewer know the whole story.
+
+Some of the problems you will solve entail understanding data, identifying patterns, quantifying the impact of ML / NLP models and designing data visualizations. We seek a data scientist to help drive a new digital AI product team on a mission to unlock the potential of data and identify new opportunities.
+
+As one of the founding members of a small, multi-disciplinary team of technologists, designers and product managers, you’ll have the freedom to make key product decisions without much oversight, and the tools and resources to build and ship ideas quickly. You’ll be a part of a startup-like environment, with the opportunity to have more control and leadership; in a company with thousands of existing customers.
+
+Who you are
+You want to use your statistical, scientific, and engineering training to craft and deploy models to transform one of the most entrenched industries.
+You paint with plots and your models don’t keep secrets.
+Image recognition is no longer an innovation to you, instead it is a routine task.
+NLP isn’t a foreign acronym and you’ve gone from strings to whiskers.
+You sail smooth in Python and always have sklearn, tensorflow, keras and pytorch on deck.
+K-means more than a curt text and Logit and Probit are not Hobbit characters.
+You have experience with relational databases such as PostgreSQL, Oracle or SQL Server, and maybe even Hadoop, Hive, Spark or Redshift.
+You strive to learn the newest and greatest techniques where BERT/ELMo are not just Sesame Street© characters.
+What you’ll own
+The foundation for advanced analytics at a global company.
+The roadmap of projects you’ll work on that tie directly to business goals and objectives.
+Manage the entire lifecycle of data projects from strategic planning to tactical activities (data collection, cleanup, analysis, model implementation).
+Sourcing new data for a firm that rarely scrapes, pulls or pushes.
+Facilitate communication throughout the development process between executive stakeholders, your users and technical teams.
+Coordinate and build strong working relations with various internal stakeholder groups, including IT, engineering, and legal.
+Minimum Qualifications
+Degree in computer science, engineering, mathematics, statistics, data science or a related technical field, or equivalent practical experience.
+3 years of work experience in data science or related field.
+Experience with statistical modeling using R, Python, or similar statistical languages.
+In depth knowledge of advanced models such as generalized linear models, penalized regression models, tree based models and neural networks
+Proven track record building business-practical models and implementing them into production.
+Familiarity with Pandas, Numpy, Scikit-learn, Keras, Tensorflow, Pytorch
+Experience with data architecture and management (PostgreSQL, Hadoop, Oracle, Hive, Spark, Redshift and/or SQL Server)
+Apply on https://argogroup.wd1.myworkdayjobs.com/Argo
+
+PLEASE NOTE: At this time, Argo Group will not sponsor an applicant for employment authorization for this position. To all recruitment agencies: Unless you have been requested to work on this position, or other positions with Argo Group, please do not forward any resumes to Argo Group employees. Argo Group is not responsible for any fees related to unsolicited resumes.
+
+We are an Equal Opportunity Employer. We do not discriminate on the basis of age, ancestry, color, gender, gender expression, gender identity, genetic information, marital status, national origin or citizenship (including language use restrictions), denial of family and medical care leave, disability (mental and physical) , including HIV and AIDS, medical condition (including cancer and genetic characteristics), race, religious creed (including religious dress and grooming practices), sex (including pregnancy, child birth, breastfeeding, and medical conditions related to pregnancy, child birth or breastfeeding), sexual orientation, military or veteran status, or other status protected by federal, state and/or local laws.
+
+Applicants: For the most convenient application experience, please use the “Apply with LinkedIn” button. If manually entering, only include your most recent or relevant job information needed for this role. For either method, please attach your most current resume. Additional job history may be obtained if selected for the interview process.",,,
+301,Data Scientist,TA Digital,"Location: Anywhere in the US or Canada | Location Preferences - New York, New Jersey, Toronto, Los Angeles, Bay Area, Phoenix, Denver, Chicago or Dallas | Travel Amount 30 - 50%
+
+TA Digital is a digital transformation agency with 30-40% growth year-over-year focused on hiring leaders within the digital marketing space to support growth and build a scalable foundation for the future. Our vision is to provide innovative digital solutions and services by continuing to expand our leadership team and hiring superstars who may feel lost or marginalized within their current organizations.
+
+If you feel:
+there are too many layers between you and decision makers
+that your current organization will not make the right decision even after you identify problems and recommend viable solutions
+you are ready for a bigger voice, larger platform or place for a stronger impact
+…then you should consider TA Digital because we are ready to talk to you!
+
+Responsibilities:
+Create/ Implement Statistical Models, Neural Network Based Models for Supervised, Unsupervised Machine Learning. (Prediction, Classification, Clustering)
+Development of Object-oriented programming knowledge, such as Java, Scala, R, Python
+Deploy AI models into production
+Build solutions such as computer vision, NLP, time series forecasting, general prediction models
+Analyze data and visualize data, providing business insights. Work with SMEs to understand the business data models
+Requirements
+Experience in design and implementation of Machine Learning/AI/Deep Learning solutions.
+At least 5 years of working experience managing data science project life cycle and actively involved in all the phases of project life cycle including data ingestion, data engineering, features engineering, statistical modelling (decision trees, regression models, neural networks, SVM, clustering,..)
+Developing models in Machine learning with NLP, Neural Networks, Recommendation engines, Reinforcement Learning,
+Exposure to AI and analytics platforms, such as Azure ML Studio, Google AI Engine, etc.
+Work experience on structured/unstructured data, SQL and NoSQL big data storage solutions, cloud computing, REST API, and cloud microservices
+Experience in building solutions such as computer vision, NLP, time series forecasting, general prediction models
+Analyse large, complex, multi-dimensional datasets with a variety of open source tools
+Implement Anomaly Detection and Optimization Techniques
+Benefits
+
+Compensation:
+
+Base Salary, Bonus, Benefits: Global Health, Dental, Vision, AD&D Insurance, Vacation / PTO / Holiday pay plus matching 401K, Tuition & Travel Expense Reimbursement as needed
+
+About us:
+
+TA Digital is the only global boutique digital transformation agency that helps organizations realize immediate and long-lasting value through exceptional user experience and data-driven methodology. For nearly two decades, we’ve helped clients overcome the lack of scale and resource diversity of small regional agencies and the quantity-not-quality approach of large system integrators. For 20 years, we have been known as a global leader that helps marketing and technology executives understand the digital ecosystem, identify operational gaps within their organization and finally ushering them into a more mature and profitable digital landscape.
+
+TA Digital has high-level strategic partnerships with digital experience platform companies like Adobe, SAP and Salesforce. TA Digital also has global partnerships with industry leaders like Sitecore, Episerver, Elastic Path, BigCommerce, AWS, Azure and Coveo. The company was also recognized in 2013, 2014, 2015, and 2019 by Inc.com 5000 list as one of the most successful technology companies in the United States.
+
+TA Digital has offices in US, Canada, UK and India. For more information, visit: www.tadigital.com
+
+EOE & OFCCP Compliant regardless of: Minority / Female / Veteran / Disabled / Sexual Orientation / Gender Identity / National Origin",,,
+228,Machine Learning Engineer,Riverside Research Institute,"Returning Candidate? Log back in to the Career Portal and click on 'Job Browsing/History' and find the job you're looking for.
+
+2020-038-INT: Machine Learning Engineer
+
+Directorate Intelligence & Defense Solutions
+Location Beavercreek, OH
+Riverside Research is seeking a full-time machine learning engineer to join a cross-functional team of artificial intelligence/machine learning (AI/ML) practitioner’s prototyping and implementing solutions for enduring customer challenges at the National Air and Space Intelligence Center (NASIC) Wright-Patterson AFB, Ohio. Candidates must be technically proficient and have real-word experience devising practical and sustainable solutions.
+
+All Riverside Research opportunities require U.S. Citizenship.
+
+Job Responsibilities:
+• Assess customer systems and processes for application of machine learning technologies
+• Create and prototype machine learning approaches to demonstrate efficacy
+• Perform basic and applied research in applying machine learning solutions to complex problems and datasets; document and present research results and the status of ongoing or emerging projects
+• Participate in a multi-disciplinary, experienced, energetic team on a rapid development schedule
+• Occasional travel may be required
+• Other duties as assigned
+
+Qualifications:
+• US citizen able to qualify for a Top Secret clearance with SCI adjudication
+• Bachelor’s degree in computer science, engineering, or related technical field with specialization in artificial intelligence / machine learning
+• Proficient with programming languages and software packages related to the development of machine learning algorithms including, but not limited to: Python, Tensorflow, PyTorch
+• Self-motivated, detail oriented, responsible team player able to work independently with minimal daily direction; effective/efficient written/verbal communication skills
+• 1-3 years experience
+• Ability to work and interact with technically and organizationally diverse personnel
+
+Desired Qualifications
+• Top Secret clearance with SCI adjudication
+• Doctorate or Master’s degree in computer science, engineering, or related technical field with specialization in artificial intelligence and 3 years
+experience
+• Experience working with or in support of Department of Defense (DoD) or intelligence community (IC)
+• Experience with one or more of the following: GPU/parallel processing such as NVIDIA’s CUDA, classification, pattern recognition, anomaly detection, pose estimation, or similar
+Riverside Research strives to be one of America’s premier providers of independent, trusted technical and scientific expertise. As we continue to add experienced, technically astute staff, we are looking for highly motivated, talented team members that can help our DoD and Intelligence Community (IC) customers continue delivery of world class programs. As a not-for-profit, technology-oriented Defense Company, we believe service to customers and support of our staff is our mission. Our goal is to serve as a destination company by providing an industry-leading, positive, and rewarding employee experience for all who join us. We aspire to be a valued partner to our customers and to earn their trust through our unwavering commitment to achieve timely, innovative, cost-effective and mission-focused solutions.
+
+All positions at Riverside Research are subject to background investigations. Employment is contingent upon successful completion of a background investigation including criminal history and identity check.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability, and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.
+
+Apply Now",,,
+632,Data Scientist,Avlino,"Job Description
+
+
+Avlino Inc. is seeking experienced data scientists to join our growing team
+of AI engineers, analysts, and quantitative developers. The role involves
+model construction, information extraction, prediction and finding solutions
+to large-scale problems for mission critical applications using large
+derived from a broad spectrum of domains for industry specific sectors. The
+ideal candidate will have comprehensive expertise in machine learning,
+time-series analysis modeling, statistical data analysis, and deep neural
+networks. Experience with dynamic programming and reinforcement learning is
+a plus.
+
+Demonstrate your experience in creating real-world artificial intelligence
+applications using pulsing customer data sets!
+
+This is a great opportunity for an experienced Data Scientist with 4+ years
+of relevant experience to work in a fast-paced environment where they can
+share their passion for numbers and AI.
+
+Responsibilities
+Develop, implement, and use a broad set of machine-learning models and
+quantitative techniques for prediction and classification for mission
+critical applications.
+To find problems in industrial and service sector applications.
+Strong background in numerical techniques, optimization, and gradient
+methods.
+Development of new machine learning algorithms and/or substantial
+modification of pre-existing techniques.
+Analysis of high-volume, noisy, heterogeneous real-time data.
+Collaborate with business analysts to transform customer needs into
+actionable insights.
+Design custom end user reports that are easy to read and interpret for
+multiple business unit audiences.
+Architect the next generation analytical platform.
+Capable of de novo implementation of mathematical models, or to avail
+widely used open source programming platforms and libraries (Scala, R,
+python, TensorFlow).
+
+Requirements
+MUST: Solid 5 years of experience in machine learning, statistical
+modeling, data mining, time-series forecasting, and neural networks.
+MUST: Solid 5 years of experience working with big data technologies
+distributed computing such as Hadoop/Spark, Map/Reduce, TensorFlow.
+MUST: Solid 5 years of experience in multiple programming languages –
+C#/.NET, C++, C, Scala, Python, R, Java.
+Experience in developing or implementing enterprise class Data Analytics
+and BI solutions.
+Extremely analytical and able to solve problems independently.
+Assesses customer requirements and translate them to appropriate
+deliverables.
+MUST: Have an analytical mind, and on point with detailed specifics.
+MUST: Education: MS/Ph.D. (Preferred) in Computer Science, Physics, or a
+related discipline.
+PLUS: Experience in the logistics or transportation industry.",,,
+230,Data Scientist,"Encode, Inc.","Senior Data Scientist Active Secret clearance Our client seeking an experienced Senior Data Scientist with a positive attitude and a willingness to take the initiative. The ideal candidate will support the daily technical activities of the cyber branch of a national government agency. You will be working to drive improvements to the quality of an international government agencyrsquos situational awareness, risk assessment, strategy, and decision making over the mid- to long-term horizon through the application of data science and analytics to improve organizational performance throughout the Alliance. About Client Our client is a global information technology company that stays on top of cutting-edge technology and works throughout many diverse industries. There are excellent opportunities to expand your skills and to work with some of the top IT talent in the industry. Job Key Responsibilities The Contractor shall contribute to the development of new deliverables and urging emerging work stands and ensure the dissemination of the resulting products. The Contractor will support the aforementioned, with focus on the following Technical expertise in Branch regarding the application of data science and analytics to strategic alternatives. Leverages various statistical techniques to identify patterns within large data sets to make predictions and enterprise- oriented suggestions. Utilizes predictive modeling to increase and optimize the effects of Warfare Development.? Strategies to identify patterns within large data sets, make predictions based on data science, and provide corresponding recommendations to senior leadership. Simplifies and communicates key findings and insights to senior leadership and draws implications for work organization-wide. Predictions based on data science. This line of effort consists of working alongside key stakeholders to develop and execute data- science strategies over the long-term. This includes both strategies for data science, e.g., how to scale the use of data science in support of every level of decision-making) and strategies informed by data science, e.g., the use of data science to support the development and translation of policy between HQ and the Command Structure. Metrics that improve agencyrsquos ability to assess effects in the mid- to long- term horizon. Doing so includes the development of comprehensive analytical and mapping capabilities to identify or predict relevant, feasible, and potential challenges and opportunities to agency and partners. Performs other job related duties as requested. In addition, the completion of the following tasks is also required to support partnership-related efforts at HQ SACT. The Contractor must be granted base access and possess a NATO SECRET clearance to complete all of the requirements Analyze emerging trends throughout the international system. Produce point papers, documents, briefings and final reports with a high degree of proficiency and efficiency as directed by established deadline. Support the implementation of findings and in ACT programs of work and, where appropriate, liaise with other NATO bodies. Populate, update and administrate the digital library. Provide support to the team for conferences and other events. Fulfill further specific tasks directed by the Branch Head or the COTR in support of SPP collaborative efforts and other partnership related work strands. Job Must Haves Four years (within the last seven years) experience conducting predictive analytics using data science (big data) and providing advice on relevant issues in the field of data science. Demonstrate experience in preparation and development of FOGO or civilian equivalent briefings, background papers, reports, and speeches. Valid NATO SECRET security clearance or national equivalent with NATO eligibility. Professional experience in the area international relations and security studies. M.A. degree in a data science or related field. SOUND LIKE YOU? For more information you can contact Gina Dilusant at (732) 637-1900 or at applyencodeinc.com mailtoapplyencodeinc.com quoting Job Reference 2649 or alternatively, apply here httpwww.encodeinc.comcareersjob2458apply.html to register your interest. About Encode We embrace the philosophy that we have (2) clients. You are onehellipthe uniquely skilled resource and the end-client is our second client. We collaborate with both you and the end-client to ensure we have a career enhancing, financially attractive assignment for you and an innovative, problem solving skilled technical resource for the end client. Things we excel at Direct client relationships Client feedback on resume submissions (3-5 days) Client feedback on interviews (2-4 days) Regular updates from dedicated Encode coverage team Quickseamless onboarding Direct deposits Benefits Qualified profit-sharing plan Let a career minded, dedicated professional work for you. Call me. Industry Information Technology Services Employment Type Contract Employee Type This role is for a federal client. Candidates must be U.S. Citizens with Active Secret Clearance Job Functions Engineering Information Technology Start asap Duration 1 years + likely extensions through 2022 Location Norfolk, VA",,,
+7,Data Scientist,iRobot,"Introduction
+
+Have you always wanted to run experiments on a global fleet of consumer robots? iRobot is looking for a data scientist to help manage a/b tests related to robot software, track performance KPIs, and share results with software teams. A strong candidate has experience in experimental design, hypothesis testing, and statistics, in addition to strong SQL and Python skills.
+
+What You Will Do:
+Guide software and product management teams in designing rigorous experiments to test the impact of new software versions.
+Dashboarding to monitor results live from the fleet.
+Test hypotheses about software performance using appropriate statistical methods.
+Develop metrics to track software performance.
+Uphold scientific best practices in experimental design and cohort selection.
+Contribute to a management system for cohort selection.
+To Be Successful You Will Have:
+At least 1 year of relevant job, internship, or co-op experience. M.S. in computer science, statistics, mathematics, physics, chemistry, biology, or social sciences is a plus.
+Very detail-oriented and eager to get your hands dirty in the data.
+Proficient in Python, SQL, and data visualization, with experience using pandas, numpy, sklearn, scipy, matplotlib, or plotly.
+Experienced in designing experiments, making and testing hypotheses, and identifying the appropriate metrics to answer a question.
+Savvy in statistical methods and able to select the right test for each situation.
+Can balance business considerations with the need for scientific rigor.
+Self-motivated and comfortable working in a fast-paced, delivery-focused environment.
+Skilled communicator who can make the complicated seem simple.
+Passionate about using data to drive decision-making!",,,
+169,Sr Data Analyst,United BioSource,"Position location: Lake Mary, FLorBlue Bell, PA
+
+Position Summary
+The Senior Data Analyst drives pharma client analytics solutions for United BioSource Corporation (UBC), supporting many of the world’s largest pharmaceutical companies to improve patient lives, support drug safety programs, and help manage new Clinical studies.
+
+Responsibilities
+
+· Build and continually improve Tableau dashboard offerings for business partners.
+
+· Monitor and analyze business performance, providing targeted dashboards and recommendations for operational improvement.
+
+· Serve as Subject Matter Expert (SME) for business data, systems and processes under team’s area of support.
+
+· Write and edit SQL code to ensure data is pulled optimally.
+
+Required Qualifications
+
+· BS in a technical field (BI, Analytics, Data Science, IS, Computer Science, etc).
+
+· Advanced SQL skills.
+
+· Advanced dashboard design skills, including 2+ years of experience with a dashboard toolset (Tableau, Qlik, Domo, Birst, etc).
+
+· 2+ years of data analysis experience.
+
+· Excellent communication and presentation ability.
+
+· Excellent project management skills.
+
+· Highly self-motivated.
+
+Preferred Qualifications
+
+· MS in a Data-related field (BI, Analytics, Data Science, etc).
+
+· Expert-level SQL skills
+
+· Expert-level Tableau skills.
+
+· Advanced R skills.
+
+· Healthcare (ideally pharma) experience.
+
+·Minimal travel is required (
+
+#LI-SF1",,,
+555,Data Scientist,HireAi,"Job Description
+As a Data Scientist, you will apply the latest data mining techniques, using statistical analysis to integrate prediction systems with products and present findings to the business. As a data scientist you will work closely with architects, engineers, account managers and data scientists within and outside the company. You will be involved from pre-sales to support. You will work on next generation algorithms development and help measure, maintain and upgrade current business.
+
+Responsibilities:
+Building algorithms and designing experiments to merge, manage, analyze, and extract data for tailored reports to colleagues, clients or management.
+Gathering, standardizing, and analyzing voluminous electronic data, such as records, general ledgers, sales and inventory data, etc.
+Creating and monitoring anomaly detection systems.
+Own complete life cycle from problem formulation to solution deployment and maintenance
+Must be able to collaborate with architects, engineers, and data scientists within and outside the company
+Building predictive models and presenting information using data visualization tools and techniques.
+Develop proven methods and strategies for the larger Data Scientist team.
+Collaborating with engineering and product development teams.
+Querying and mining large data sets to discover transaction patterns, examining financial data and filtering for targeted information that utilize both traditional and predictive/advanced analytic methodologies.
+Keeping the company current with the latest technology, techniques, and methods.
+Act as a technical thought leader in collaboration with the analytics team, helping to set the strategy and standards for data science and advanced analytics.
+Excellent interpersonal skills with ability to communicate clearly and concisely with executives, engineers, account managers, sales, business partners and data scientists.
+Qualifications
+0-10+ years of work experience in a Data Scientist role (or related field).
+3+ years of outstanding technical abilities with Java, or C/C++ development experience with statistical machine learning models
+Bachelor’s degree or higher in data relevant fields: Computer Science, Mathematics, Physics, Engineering, Statistics, etc.
+Experience with common data science toolkits, such as Python, R etc., with expert proficiency in at least one
+Experience creating, managing, and utilizing high performance relational and NoSQL databases, such as Microsoft SQL Server, Oracle, Microsoft Access, OLAP and other software.
+Experience with a business intelligence tool such as Tableau, Adobe Analytics or Google Analytics
+Experience with Spark, Kaplan, Breeze, MapReduce models a plus
+You can describe and speak in an approachable way about complex analyses and concepts within a cross-functional team. You are a great “analytic translator”. You know how to simplify technical concepts when explaining things to non-technical business leaders.
+Selecting and implementing data mining methods most relevant to company projects and desired outcomes.
+Experience with at least two of Social Network Analysis, Knowledge Graphs, Predictive Modeling, Language Processing (including NLP) is a plus
+Excellent understanding of computer science fundamentals, data structures, and algorithms
+Rounded business skills with the ability to understand customer and/or stakeholder needs
+Have a strong mathematical background and have experience with modeling complex high dimensional problems
+Experience performing petabyte scale data analysis and developing meaningful visualizations
+Must be organized, have an eye for detail, and be able to identify trends within the data and tell that story to business leaders",,,
+2,Data Scientist,Analysis Group,"Overview
+
+
+Analysis Group is one of the largest international economics consulting firms, with more than 1,000 professionals across 14 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.
+
+We are currently seeking a Data Scientist to join our team. The ideal candidate should be passionate about working on cutting edge research and analytical services for Fortune 500 companies, global pharma/biotech firms and leaders in industries such as finance, energy and life sciences. The Data Scientist will be a contributing member to client engagements and have the opportunity to work with our network of world-class experts and thought leaders.
+
+Job Functions and Responsibilities
+
+The candidate Data Scientist will help develop, maintain and teach new tools and methodologies related to data science and high performance computing. This position will also help Analysis Group in maintaining our leadership position in terms of advancing methodology and data analytics. The Data Scientist will be responsible for staying abreast of new developments in technology relating to data science, to share more broadly with Analysis Group.
+
+Key responsibilities for this position will include:
+Working with project teams to address data science/computing challenges
+Identifying opportunities for technology to enhance service offerings
+Acting as a resource and participating in client engagements and research as part of the project team
+Maintaining up-to-date knowledge of computing tools, providing technical training and helping to grow the in-house knowledge base, specifically in a Linux environment
+Presenting research at selected conferences
+Examples of activities for the Data Scientist will include:
+Developing data engineering and machine learning production systems for full stack data science projects
+Using natural language processing methodologies to work with EMR data, social media data and other unstructured data
+Optimizing procedures for managing and accessing large databases (e.g., insurance claims, electronic health records, financial transactions)
+Creating interactive analytics portals and data visualizations (e.g., using R/Shiny, Python/Flask, D3)
+Building and maintaining high performance computing (HPC) tools on grid and cloud computing environments
+Developing and reviewing software and packages in R, Python and other Object Oriented Languages
+Establishing optimized procedures for repetitive or computationally intensive tasks (C, C++, Cuda-C)
+Qualifications
+Strong credentials and experience in database management and data visualization
+Significant experience working within a Linux environment required
+Background in Statistics/Econometrics or Biostatistics
+Ideally PhD in Computer Science, Mathematics, Statistics, Economics or other relevant scientific degree with relevant experience. Other candidates with at least one year of experience in the field may also be considered
+Excellent written and verbal communication skills
+Project experience with R and/or Python
+Familiar with online/cloud computing/storage (e.g., AWS)
+Demonstrated experience working on project teams and collaborating with others
+SCIENTIFIQUE DES DONNÉES
+
+*L’utilisation du genre masculin sert uniquement à alléger le texte et est utilisé ici en tant que genre neutre
+
+Survol
+
+Groupe d’analyse ltée est l’une des plus grandes firmes de services-conseils en économie, comptant plus de 950 professionnels répartis dans 14 bureaux en Amérique du Nord, en Europe et en Asie. Depuis 1981, nous offrons notre expertise en matière de stratégie, d’économie, de finance et d’analyse dans le domaine des soins de santé aux grands cabinets d’avocats, aux sociétés Fortune Global 500 et aux agences gouvernementales du monde entier. Nos professionnels en poste conjugués à notre réseau de spécialistes affiliés issus d’universités, d’industries spécifiques et d’organismes gouvernementaux procurent à notre clientèle un savoir-faire d’une portée et d’une profondeur exceptionnelles.
+
+Nous sommes présentement à la recherche d'un Scientifique des données (« Data Scientist ») pour se joindre à notre équipe. Le candidat idéal devrait être passionné par la recherche de pointe et les services analytiques pour les entreprises Fortune 500, les entreprises pharmaceutiques et biotechnologiques mondiales et les chefs de file dans des secteurs de la finance, l'énergie et les sciences de la vie. Le Scientifique des données sera un membre contributeur aux mandats des clients et aura l'occasion de travailler avec notre réseau d'experts et de leaders d'opinion de classe mondiale.
+
+Description du poste et des responsabilités
+
+Le scientifique des données aidera à développer, maintenir et enseigner de nouveaux outils et méthodologies liés à la science des données (« Data Science ») et au HPC. Ce poste aidera également le Groupe d'analyse à maintenir sa position de chef de file en ce qui a trait à l'avancement de la méthodologie et de l'analyse des données. Le scientifique des données sera chargé de se tenir au courant des nouveaux développements technologiques liés à la science des données, afin de les partager plus largement avec le Groupe d'analyse.
+
+Les principales responsabilités de ce poste comprendront:
+
+- Collaborer avec les consultants pour relever les défis de la science des données et de sciences informatiques
+
+- Agir à titre de ressource et participer aux mandats et à la recherche en tant que membre de l'équipe de projet
+
+- Maintenir à jour les connaissances sur les outils informatiques, fournir une formation technique et aider à développer la base de connaissances interne, notamment dans un environnement Linux
+
+- Présenter la recherche à des conférences choisies
+
+Exemples de tâches du scientifique des données :
+
+- Développement de systèmes de production en ingénierie des données ainsi qu’en apprentissage machine pour des projets de science des données full stack
+
+- Utiliser des méthodologies NLP pour travailler avec les données médicales électroniques, les données des médias sociaux et d'autres données non structures
+
+- Optimiser les procédures de gestion et d'accès aux grandes bases de données (ex. réclamations d'assurance, dossiers de santé électroniques, transactions financières)
+
+- Création de portails d'analyse interactifs et de visualisations de données (par exemple, en utilisant R/Shiny, Python/Flask, D3)
+
+- Construire et maintenir des outils de calcul de haute performance (HPC).
+
+- Développement et révision de codes en R, Python et autres langages
+
+- Mise en place de procédures optimisées pour les tâches répétitives ou intensives en calcul (C, C++, Cuda-C)
+
+Qualifications requises
+
+- Solides références et expérience dans la gestion de bases de données et de la visualisation de données
+
+- Expérience de travail significative dans un environnement Linux requise
+
+- Expérience antérieure en statistique/économétrie ou bio-statistique
+
+- Idéalement, être titulaire d'un doctorat en sciences informatiques, en mathématiques, en statistique, en économie ou d'un autre diplôme scientifique pertinent et posséder une expérience pertinente. Les candidats ayant au moins un an d'expérience dans le domaine peuvent également être considérés.
+
+- Excellentes aptitudes de communication écrite et verbale
+
+- Expérience de projet avec R et/ou Python
+
+- Familiarité avec l'informatique en ligne/info nuagique et le stockage (AWS)
+
+- Expérience de travail démontrée au sein d'équipes de projet et de collaboration avec d'autres personnes
+
+­
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities.
+Please view Equal Employment Opportunity Posters provided by OFCCP here.
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41 CFR 60-1.35(c)",,,
+236,Data Scientist,Surya Systems,"Position Data Scientist Location San Francisco, CA Duration Long Term At least 7+ years of experience in applied data science, analytics, data storytelling. Write well documented code that can be shared and used across teams, and can scale to be used in existing products. SQL, Advanced Python or R (descriptive predictive models), Tableau Visualization. Working knowledge of Hadoop, BigQuery, Presto, Vertica Apply your expertise in quantitative analysis, data mining, and the presentation of data to uncover unique actionable insights about customer service, health of public conversation and social media Inform, influence, support, and execute analysis that feeds into one of our many analytics domains - Customer analytics, product analytics, business operation analytics, cost analytics, media analytics, people analytics Select and deselect analytics priorities, insights and data based on ability to drive our desired outcomes Own the end to end process, from initiation to deployment, and through ongoing communication and collaboration, sharing of results to partners and leadership Mentor and create sense of community and learning environments for our global team of data analysts Soft skills Ability to communicate findings clearly to both technical and non-technical audiences and to effectively collaborate within cross-functional teams Working knowledge of agile framework and processes. You should be comfortable managing work plans, timelines and milestones You have a sense of urgency, move quickly and ship things Bonus Points You're experienced in metrics and experiment-driven development Experience in statistical methodology (multivariate, time-series, experimental design, data mining, etc.) Thanks Regards... G Naveen Kumar Surya Systems, Inc 120 E Uwchlan Avenue Suite 203 Exton, PA 19341 Email GavvalaNsuryasys.com mailtoGavvalaNsuryasys.com Desk 215-344-2345",,,
+114,Data Scientist,Noblis,"Responsibilities
+
+
+As a data scientist within our team, you will be working with our clients to design, create, evaluate, and maintain solutions using your experience and expertise in data science and machine learning. In your role you will work with various teams to identify, manage, research, develop, and present data analytics projects and solutions for various national security and intelligence missions.
+
+Our team consists of developers, scientists, engineers, researchers, and analysts that have served federal, state, and local government clients on high-consequence problems in data analytics and AI/ML for over 20 years. Our team is engaged across multiple federal government customers and has been instrumental in making our customers’ programs successful.
+
+Client Engagement
+• Begin developing relationships one level up and two levels down. Identify and support opportunities to expand project scope beyond current deliverable and actively share information about clients’ emerging support needs and trends with team members and management. · Participate on proposals
+Qualifications
+
+
+Required Qualifications:
+
+- Bachelor's Degree in a STEM field such as: computer science, statistics, data analytics, computer engineering, mathematics, and physics
+
+- Minimum 5 years hands on experience working with data science methods such as: statistical modeling, information retrieval, graph analysis, data mining, machine learning, and data visualization
+
+- Experience with the following programming languagess: Python, SQL, Bash, Scala, Java
+
+- Familiarity with the Hadoop framework, specifically Apache Spark, Apache Kafka, and Hive
+
+- Ability to work with datasets of many different sizes and formats, including any necessary ETL and data preprocessing
+
+- Machine Learning experience with packages/tools such as: Spark ML, TensorFlow, Scikit-learn, Keras
+
+- Data Visualization & Collaboration with Jupyter Notebooks, Apache Zeplin, Tableau, matplotlib
+
+- Knowledge of Agile practices and ability to work in a cross functional team environment
+
+- Clearance: Active TS with the ability to obtain an SCI
+
+Desired Qualifications:
+
+- MS/PhD specializing in data science, data analytics, machine learning, or artificial intelligence
+
+- Strong collaboration and communication skills.
+
+- Ability to present material to audiences of differing technical aptitude
+
+- Cyber security domain knowledge, or experience developing data analytics for cyber analysts
+
+- Currently possess DHS Suitability
+
+- Experience with Cloud Computing services such as AWS
+
+Overview
+
+
+Noblis and our wholly owned subsidiary, Noblis ESI, are solving difficult problems that help our government and our country. We bring the best of scientific thought, management, and engineering expertise with a reputation for independence and objectivity. We support a wide range of government and industry clients in the areas of national security, intelligence, transportation, healthcare, environmental sustainability, and enterprise engineering. Learn more at Noblis -About Us
+
+Why work at a Noblis company?
+
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public.
+
+Noblis has won numerous workplace awards. Noblis maintains a drug-free workplace and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.",,,
+172,Data Scientist,C3.ai,"C3.ai is a leading enterprise AI software provider for accelerating digital transformation. The comprehensive and proven C3 AI Suite uses a model-driven abstraction layer to enable organizations to develop, deploy, and operate enterprise scale AI applications 40x to 100x faster than alternative approaches. www.c3.ai
+
+As a Data Scientist, you will participate in the definition of new analytics capabilities able to provide our customers with the information they need to make proper decisions to support our customers in operating the internet of things (IoT). In addition, you will help find the appropriate machine learning / data mining algorithms to answer these questions. Finally, you will be responsible for implementing this into the product and making it available to our customers.
+
+Qualified candidates will have an in-depth knowledge of most common machine learning techniques and their application. You will also understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.
+
+Your Responsibilities:
+Driving adoption of Deep Learning systems into next-generation of C3.ai products.
+Designing and deploying Machine Learning algorithms for industrial applications such as fraud detection and predictive maintenance.
+Collaborating with data and subject matter experts from C3.ai and its customer teams to seek, understand, validate, interpret, and correctly use new data elements.
+Requirements:
+MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields.
+Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning).
+Strong mathematical background (linear algebra, calculus, probability and statistics).
+Experience with scalable ML (MapReduce, streaming).
+Ability to drive a project and work both independently and in a team.
+Smart, motivated, can do attitude, and seeks to make a difference.
+Excellent verbal and written communication.
+Preferred
+Experience with JavaScript and prototyping languages such as Python and R. Experience with Java and Scala is a plus.
+Knowledge in electrical engineering and cyber-physical systems is a plus.
+A portfolio of projects (GitHub, papers, etc.) is a plus.
+C3.ai provides a competitive compensation package and excellent benefits including:
+Competitive salary, generous stock options, 401K, medical, dental, and vision benefits. At the office, we offer a fully stocked kitchen with catered breakfast and lunch, table tennis and pool table, free membership at our on-site gym, Friday evening social hours with food, drink and music and a fun team of great people.
+C3.ai is proud to be an Equal Opportunity and Affirmative Action Employer. We do not discriminate on the basis of any legally protected characteristics, including disabled and veteran status.",,,
+66,Data Scientist,Via Transportation,"As a Data Scientist, you'll utilize advanced quantitative & statistical analysis techniques to drive business model innovation for Via, and work closely with our senior management to help drive decisions.
+
+What You'll Do
+Adeptly interpret and utilize mass quantities of data to generate innovative hypotheses & insights, and present these insights to the different stakeholders
+Use sophisticated statistical methods to solve problems, leveraging up-to-date academic research and tools
+Quantitatively test hypotheses about customer and driver behavior using large sets of proprietary data; leverage results to increase conversion and retention at every touch point
+Design and implement novel experiments to better understand current operation as well as expansion to new markets
+Who You Are
+Obsessed with data; analytical and rigorous, with a thorough understanding of statistics and machine learning
+Extraordinary communicator with demonstrated writing and editing skills.
+Passionate about elegant visualization; you understand the importance of graphic techniques in communicating a quantitative idea effectively
+Have a deep understanding of business concepts within strategy, operations, and marketing
+Have a PhD in statistics, machine learning, physics, math, systems biology, or highly quantitative fields in social sciences, including 2+ years of graduate-level research experience (or the equivalent).
+Have experience with predictive modeling and statistical analysis techniques in a business environment
+Demonstrate mastery in some or all of the following: SQL, Python, R, and Tableau
+We're Via, and we build technology that changes the way the world moves. Our guiding principle is simple: we know that the future of transportation is safe, dynamic, shared public mobility the kind that reduces carbon emissions across congested cities, compliments existing transit infrastructure, and provides everyone with accessible, efficient, and affordable ways of getting around. Through intelligently designed operating systems and sophisticated routing algorithms, we build localized and customizable solutions for each and every one of our global partners (100 and counting, last we checked)
+
+Long story short: we're very proud to be championing the transportation evolution of cities around the world and modernizing mobility. Ready to join the ride?
+
+Via offers above market compensation packages and benefits, including equity, health insurance, and relocation assistance.
+
+Via is an equal opportunity employer.",,,
+132,Data Engineer,Direct Agents,"Who We Are:
+
+2-time winner of Crain's 100 Best Places to Work, Direct Agents is a data-driven digital marketing agency with offices in NY and LA.
+
+Established in 2003, we are an independent company, and our business has been built on adapting and driving change since the very beginning. Fueled by the grit and hustle of our diverse team, we’re inspired by experimentation and seek to push the boundaries on innovative approaches to advertising. Our teams are committed to growing and innovating alongside clients like Colgate, Walker & Co., Belkin, The CW, Wacoal, and more.
+
+Together, we think differently and we continue to shape the digital space into the future…
+
+We are the Shapers of the Digital World. Join us and become a shaper of change!
+
+As a Data Engineer, you will create tangible value by helping to develop innovative data and tech systems for current and future clients. The work you do directly contributes to our ability to improve holistic business and marketing strategies aimed to meet and exceed client expectations.
+
+You will have the opportunity to work on leading-edge AI/ML, data automation, and predictive analytics projects including: bidding algorithms, image recognition, attribution modeling, performance forecasting, propensity scoring, and much more. The position requires fostering close working relationships with internal marketing teams as well as clients.
+
+What You’ll Do:
+Create automated data systems using APIs, Selenium, web scrapers, etc.
+Set up and maintain database ecosystems
+Build advanced data models to provide granular and predictive insights
+Develop AI systems to perform advanced operations based upon data inputs
+Visualize data in an easily digestible format
+Supplying internal teams with datasets to be used for strategic optimizations
+Maintain data integrity and work with teams to troubleshoot discrepancies
+Stay abreast of latest industry topics, trends, news, methodologies, and tools
+What You’ll Need:
+Bachelor's or Master’s Degree in Mathematics/Computer Science/Engineering/Finance or related field
+Advanced Python skillset
+Strong Statistical and/or Machine Learning background
+Strong knowledge of database structures and SQL
+Excellent quantitative skills and attention to detail
+Experience using Power BI data visualization software is a plus
+Highly motivated to identify and develop solutions to complex problems
+Strong time management skills – ability to prioritize and meet deadlines
+Diligent work ethic. Must be self-motivated and able to take the initiative to get the job done
+Digital Marketing experience is preferred but definitely not required
+What You’ll Get:
+Competitive pay & health benefits.
+Weekly social, wellness, and team building events
+Access to health benefits and many other perks like One Medical
+An amazing values based company culture ripe with collaboration, encouragement and camaraderie
+Monthly education and training in digital advertising
+Access to the best in class marketing technology and methodology
+Ability to innovate and make an impact with your ideas in real-time
+A fast tracked path to growth based on what you put into the role and your passion for learning in the company
+Check out our Culture Videos:
+
+Welcome to Direct Agents: https://www.youtube.com/watch?v=EC-LBxTw0To
+
+DA 2019 Culture in Review: https://www.youtube.com/watch?v=rP12YTMF4Dg",,,
+469,"VP, Data Science",7Park Data,"We are looking for a VP, Data Science to lead all of our Data science and R&D efforts to discover the information hidden in vast amounts of data, and help us build incredible data products. You will be joining other extremely passionate data science, product folks and engineers that share a common interest in distributed systems, performance, scale, and solving problems with software and data. Our technologies power the insights for financial service and corporate giants.
+
+Compensation package includes highly competitive salary, bonus, equity interest and the valuable business experiences, challenges and excitement of a fast growing technology startup company.
+
+Responsibilities
+Lead, nurture and grow a very talented data science team
+Lead discovery processes with stakeholders to identify the product requirements and the expected outcome
+Manage multiple projects in parallel and oversee their completion from start to finish, setting goals and project milestones
+Conceptualize and plan leading-edge analytic and quantitative tools and modeling techniques to help 7Park Data’ clients gain insights and improve decision-making
+Review internal and external analytical techniques, identify what data is available and relevant and source the necessary data
+Collaborate with the Engineering team to deploy solutions to production
+Make strategic recommendations to technology, product, and senior management
+Be the voice of data science internally and represent 7Park externally
+Requirements
+Master’s Degree from top tier university in Computer Science, Statistics, Mathematics, Economics or similar quantitative discipline. PhD preferred
+Minimum 8+ Years of relevant professional experience with a proven track record of leveraging analytics and large amounts of data to drive significant business impact
+Extensive experience with data exploration, data cleaning, implementation of advanced statistical and machine learning algorithms (e.g., time-series analysis and forecasting, clustering, and advanced classification and regression techniques such as decision trees, neural networks, deep learning, and ensemble algorithms), as well as rigorous model validation and evaluation
+Excellent interpersonal and leadership skills with the ability to develop and guide team members to deliver actionable results
+Fluency in R or Python
+Modeling/mining large data sets using Apache Spark, Databricks",,,
+82,Data Engineer,Object Partners,"Job Description
+
+Why consider OPI, and why do people dig working here?
+Variety of consulting; new technologies, projects, and people on a regular basis.
+Stability; we’ve been around since 1996 and have a diverse mix of clients and technologies to keep us busy, very busy. And we keep a bench. If you’re not on a project, you’re writing software for our internal business functions or you’re learning new technologies. It’s in our benefit to make our consultants as marketable as possible. That’s good for your career.
+No politics or management; we don’t get in the way. Why sit in meetings all day when you can code and be productive?
+Awesome benefits; free healthcare for your entire family (yes, free), 24 days of PTO + 10 days of sick time, quarterly profit sharing bonuses, you get paid OT, company trips (to Mexico), 3 company lake cabins/homes, various quarterly company events, new Macbook Pro’s, free beer/soda, chips, candy, and so much more.
+You work with the best. Do an Object Partners search on LinkedIn and see the types of talent we hire. You truly get to work with intelligent, passionate engineers that share the same goal of building great software the right way.
+Low company overhead. It all means more money back into our consultants pockets (profit sharing) or company trips and events to share in the financial success.
+
+Qualifications
+
+Architecture and design of highly available/scalable distributed systems.
+Design and development of streaming data platforms using Kafka Streams, Spark, Flink, Storm, Beam or Cloud Dataflow.
+Experience with functional/event-driven programming.
+NoSQL technologies such as ElasticSearch or Cassandra.
+Messaging technologies such as RabbitMQ, Kafka or Kinesis.
+SQL on Hadoop technologies such as Hive, Impala or Presto.
+Cloud services such as AWS, Azure, GCP or OpenStack.
+JVM languages such as Java, Groovy, Kotlin or Scala.
+Service frameworks such as Spring Boot, Ratpack, Vert.x, or Play.
+Knowledge of data analytics, visualization and governance.
+Knowledge of operating big data production solutions at scale.
+Knowledge of CI/CD pipelines and DevOps culture.
+Passion for software development. Someone that loves what they do, that aren’t just in it for a paycheck. Do you have dev projects going on at home at all times?
+New projects, new teams, new technologies means having to adjust and learn all the time. You might get thrown on a DevOps project as well, so having the ability to jump in and get your feet wet without hesitation is important. If you don’t want to grow and learn, we’re not a fit.
+Positive, can-do attitude. We can teach the technology, but we can’t teach how to approach client challenges with a positive, helpful demeanor. The best consultants aren’t the most technical (although that sure helps), it’s the consultant that will do whatever it takes to see a client be successful, no matter what they throw at you.",,,
+557,Data Scientist,ICW Group,"PURPOSE OF THE JOB
+
+The purpose of this job is to provide analyses of internal and external data sources in support of key business functions. The Data Scientist performs data analysis to support portfolio management and operations goals.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Provides quantitative analysis for portfolio management decisions.
+Uses advanced data mining techniques to discover patterns, insights, and trends in ICW data.
+Collaborates with other scientists and ICW groups to ensure effective execution of data-drive initiatives.
+Collects, aggregates, and analyzes data from multiple internal and external sources for use in advanced analytics.
+Writes and maintains code to build and maintain data pipelines for production models.
+Develops high quality, replicable predictive and descriptive analytics for business use.
+Analyzes, refines, and documents functional requirements for modeling projects.
+Drives insights into business performance optimization.
+Evaluates complex business and system requirements to create detailed business user requirements, system documentation, workflow procedures, and data modeling.
+Develops an understands the business issues and data challenges of the organization in order to provide meaningful insights.
+Communicates findings and insight to stakeholders and provide business strategy recommendations for optimizing business performance.
+Evaluates the business and end user data requirements and develops analytical and reporting solutions to address those needs.
+Understands and translates business requirements into functional requirements.
+Improves workflows and business processes in assigned business units.
+Aids in the analysis of current business processes; makes recommendations to management for new, more efficient, workflows, and processes.
+Develops or assists with developing functional specifications and system design specifications for assigned projects.
+Uses analytics and metrics to improve processes and provide data-driven forecasts of potential costs, risks, and profits of new business initiatives.
+Provides reporting solutions and responds to ad-hoc report requests across multiple business areas.
+SUPERVISORY RESPONSIBILITIES
+
+This role does not have supervisory responsibilities.
+
+EDUCATION AND EXPERIENCE
+
+Bachelor's degree from four-year college or university preferred with a major or emphasis in Mathematics, Data, Computer Science or related field. Minimum 3 years of related technical experience and/or training required or equivalent combination of education and experience. Or Master’s degree plus one-year experience in related discipline. Insurance industry experience preferred.
+
+CERTIFICATES, LICENSES, REGISTRATIONS
+
+None required.
+
+KNOWLEDGE AND SKILLS
+
+Demonstrated experience with statistical modeling techniques, especially generalized linear models, cluster analysis, latent class analysis, and factor analysis. Demonstrated experience and knowledge of machine learning techniques, including random forests, gradient boosted machines, extreme gradient boosting, and support vector machines.
+
+Knowledge of and experience with contemporary model validation methods, including cross validation and nested cross validation. Knowledge of databases and database methodology; experience with SQL Server is a plus. NoSQL database experience is beneficial. Knowledge of data warehouse principles, data modeling, and other business intelligence architecture methods is desirable. Experience with contemporary reporting tools is desired.
+
+Demonstrated knowledge and experience with open source analytics platforms, such as Python and/or R. Working knowledge in analytic platforms such as Sagemaker, TensofFlow and Keras a plus. Process and model documentation using Markdown or other electronic means and experience using Git and GitLab are desired.
+
+PHYSICAL REQUIREMENTS
+
+Office environment– no specific or unusual physical or environmental demands and employees are regularly required to sit, walk, stand, talk, and hear.
+
+COMPETENCIES
+
+This position maps to the Individual Contributor level. Additional competencies required: None.
+
+WORK ENVIRONMENT
+
+This position operates in an office environment and requires the frequent use of a computer, telephone, copier, and other standard office equipment.",,,
+618,Data Scientist,Axiologic Solutions,"Position Description
+
+
+Data Scientist
+Location
+
+
+National Capital Region, VA
+
+Job Code
+
+122
+
+# of openings
+
+1
+
+Apply Now
+
+Overview:
+
+Based in Northern, VA, Axiologic Solutions LLC has opportunities for you to become part of our high-quality team that delivers innovative solutions to key federal clients. We are currently seeking a Data Scientist to oversee and manage complex, state of the art, new unique programs and projects related to information technology.
+
+Responsibilities:
+Develop and presents issues, conclusions, and recommendations to senior leadership based on reviews and evaluations.
+Directs and conducts analysis of requirements pertaining to Agency programs and objectives.
+Examines policies to identify those affecting programs and determines approaches to resolving issues
+Identify problem areas, define the nature and scope of the problem and objectives sought.
+Work with a team to design, implement, and maintain new systems.
+Provide guidance to the customer on best-practices.
+Perform other duties as assigned.
+Qualifications:
+Must have an active/current TS/SCI and be able to pass a CI Poly.
+Approximately ten (10) years of experience in information systems development, focused on processing large volume, near-real time data feeds to meet data analytics and security requirements.
+Experience and knowledge of tools associated with counterintelligence and HUMINT collectors.
+Bachelor's Degree in computer science, information systems management, mathematics, engineering, or other relevant discipline.
+Knowledge of web services feeds.
+Demonstrated work experience in architecting new system solutions using current technologies, as well as transitioning existing systems into modern technologies without negatively impacting operational and compliance requirements.
+Demonstrated experience performing data assessment, data engineering, modeling and analytics to enable new methodologies for end user analysts, data scientists, etc.
+Demonstrated experience as a SME to prioritize and meet tactical and strategic requirements for frameworks and systems to process data.
+Demonstrated experience in information systems development across the IT lifecycle, with a focus on systems to perform high volume and velocity data processing on disparate data types/formats.
+Demonstrated experience architecting and delivering automated and scalable data process monitoring and data quality systems and processes.
+Must be a diverse thinker and be able to work in a large group setting.
+Write and edit technical documents and reports;
+Write, edit, and produce contents for contract deliverables: reports, training materials, presentation slides, letters, fact sheets, diagrams, and capability.
+Effectively communicate project expectations to team members and stakeholders in a timely and clear fashion.
+Communicate formally and informally through existing forums to stakeholders at all levels, including senior leadership.
+AWS, Atlassian Suite products like Jira/Confluence and AWS Cloud experience desired.
+Work Environment:
+This is a full-time position, requiring 40 hours per week Monday through Friday within the contract hours of 6:00 a.m. to 6:00 p.m.
+Travel Requirements:
+Travel may be required both inside and outside the Washington National Capital Region (NCR).
+Equal Opportunity Employer–minorities/females/veterans/individuals with disabilities/sexual orientation/gender identity.
+
+Applicants with a physical or mental disability, who require a reasonable accommodation for any part of the application or hiring process, may e-mail their request to Jennifer.chavira@axiologicsolutions.com, call 571-758-3780, or visit our office at 8280 Willow Oaks Corp. Dr. Suite 450, Fairfax Virginia for assistance. Determinations on request for reasonable accommodation will be made on a case-by-case basis.",,,
+65,Data Engineer,Bayview Asset Management,"POSITION SUMMARY
+
+
+The candidate will be joining the research team at Bayview Asset Management, which develops and implements statistical models for the valuation of mortgage assets. This role will be to develop, maintain, and enhance the various databases used within the Research group, and to also make the monthly data loading processes more efficient.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+
+Initial projects will include:
+Improve/maintain/create various data loading/data cleaning packages to ensure data integrity and speed
+Integrate data from multiple sources to meet business requirements
+Ad hoc data analysis/data query projects
+Collaborate with IT/Traders to achieve project goals
+Longer term projects may include:
+Improve data surveillance and develop data visualization tools
+Automated data mining
+REQUIRED SKILLS/KNOWLEDGE/ABILITIES
+Understanding of Relational Database Structures
+Ability to communicate ideas in both technical and user-friendly language
+Strong scientific programming skills/strong quantitative skills, and a high aptitude for problem solving
+A passion for analyzing data
+DESIRED SKILLS/KNOWLEDGE/ABILITIES
+Experience working with C#/C++ or Python
+Experience working with SAS or R
+Statistical analysis and modeling
+EDUCATION AND EXPERIENCE
+
+
+This is a mid-level position; however more qualified individuals are also encouraged to apply.
+Candidates typically possess an undergraduate degree in a hard science, computer science, applied math, physics, statistics, and engineering. Master’s degree a plus
+3-5 years of hands on experience in database development
+Experience with Microsoft SQL Server/SSIS
+An understanding of finance and economics is preferred but not required
+Prior experience analyzing mortgages is a plus but not required",,,
+628,Data Scientist,Geotab,"Geotab, a global leader in IoT and connected transportation, is one of the
+fastest-growing technology companies in North America and a certified Grea
+Place to Work. Each day, Geotab processes billions of data points from ove
+2 million connected vehicles, extracting actionable insights to help empower
+businesses to better manage their fleets. Recognized as the world s #1
+commercial telematics provider, Geotab s solutions are used by more than
+40,000 customers in over 130 countries around the globe. Geotab understands
+that telematics is critical to helping create safer and more sustainable
+drivers, businesses and communities and actively works to help businesses
+improve driver behavior, reduce greenhouse gas emissions and create safer roads
+for all. Global demand for telematics is increasing and Geotab is leading the
+way. Are you ready to join us? To see what it s like to be a Geotabber,
+follow us @InsideGeotab on Instagram, Twitter or Facebook today!
+
+Who_We_Are_Looking_For
+
+We are looking for Data Scientists who can help us discover value out of our
+rich and large datasets. Our ideal team member will have the mathematical and
+statistical expertise you d expect, but a natural curiosity and creative mi
+that s not so easy to find. As you mine, interpret and clean our data, we
+will rely on you to ask questions, connect the dots and uncover opportunities
+that lie hidden within, all with the ultimate goal of realizing the data s
+full potential. You will join a team of data specialists, but will slice a
+dice data using your own methods, creating new visions for the future. If
+you are a Data Scientist or a Data Science aspirant who knows how to extract
+meaning from and interpret data - we would like to hear from you!
+
+What_Are_The_Details_Of_This_Position
+
+As a Data Scientist you will be a crucial part of producing innovative
+analytics from Geotab s big data environment. Geotab s systems process
+40 billion data records per day from over 2 million vehicles in 100+ countries
+across the globe. We believe that there is collective value in the massive
+amount of data arising from all of our sensors across the globe. And most
+importantly, we believe this data can be used to improve safety,
+infrastructure, and productivity for our customers. You will work with our team
+of data scientists and engineers who have curated our data repository and have
+created a series of near real-time and historical datasets categorized under
+Weather, Urban Infrastructure and Location Analytics. You will leverage data
+mining techniques, Machine Learning, Deep Learning, Neural Networks and other
+Artificial Intelligence and statistical analysis tools to build models and high
+quality prediction systems to help our customers make informed and smarter
+decisions. You will work closely with Data Analysts, Data Engineers,
+Professional Services, Data Privacy & Governance, firmware as well as other
+internal departments such as Software Development and Solutions Engineering to
+achieve these objectives.
+
+Geotab Data Scientists share a common passion for finding simple solutions for
+complex problems. You do too!
+
+Our_Technology_Stack
+
+We leverage the Google Cloud Platform (GCP) as our big-data environment. Most
+of our development work happens in Python, leveraging various big data and data
+science tools in GCP (e.g. Dataflow) as well as from the open-source community
+(e.g. JupyterLab).
+
+Python Modules : numpy, scipy, theano, keras, pytorch, pandas, matplotlib,
+xgboost, scikit-learn, nltk, seaborn, networkx, osmnx
+
+Big Data Tools : JupyterLab, TensorFlow, Apache Spark , Beam, Dataflow, Airflow
+
+Google BigQuery, Kafka, Kubernetes
+
+PostgreSQL
+
+Duties_And_Tasks/Essential_Functions
+o Interact with Geotab s BigData Infrastructure on Google Bigquer
+using Python and SQL
+o Process, cleanse, and verify the integrity of data used for
+analysis
+o Select features and build and optimize classifiers using machine
+learning techniques
+o Use machine learning packages like scikit-learn and Tensorflow to
+develop ML models, features for ML models and visualize features
+o Interface with product managers, data engineers and software
+developers to gather requirements
+o Own the design, development, and maintenance of ongoing metrics,
+reports, analysis, dashboards, etc and deliver complete analytics/
+reporting solutions to drive key business decisions
+o Use data mining, model building, and other analytical techniques to
+develop and maintain customer segmentation and predictive models
+o Make recommendations for new metrics, techniques, and strategies to
+improve Geotab product suite
+o Support a platform providing ad-hoc and automated access to large
+datasets
+
+Experience/Skills_Required
+o Graduate or Postgraduate Degree in Computer Science, Software/
+Electronics/Electrical Engineering or any other related field
+o We welcome applicants from a range of experience levels with
+excellent understanding of Python and SQL
+o Experience with using parallelization tools like Apache Beam and
+Spark, and scheduling tools like Airflow is nice to have
+o Advanced pattern recognition and predictive modeling or Graph Data
+Modeling experience is a bonus
+o Experience with developing machine learning models and in feature
+engineering is a plus
+o Experience working with Google Compute Engine and Google Bigquery
+is nice to have
+o A keen interest to make a positive impact in the community that we
+live in by developing data driven smart city insights and urban
+analytics
+
+What makes our staff passionate about Geotab?
+
+Table Tennis at the office - bring your own bat!
+
+Great accommodation (brand new office building, height-adjustable desks)
+
+Light breakfast served daily
+
+Hot lunches or fresh sandwiches served every Friday
+
+Geotab-sponsored sports teams and social events
+
+Full medical benefits and 4% company matching RSP (full-time employees only)
+
+Our_Core_Values
+
+Geotab is shaping the future of telematics. Using leading technology, we
+embrace change and challenge the status quo. To stay ahead of the curve, we
+keep Geotabbers energized with data bootcamps, course subsidies, Friday
+lunches, and more. We believe collaboration leads to innovation; our teams
+stretch across floors, cities and continents. All employees, from the CEO to
+the summer students, maintain an open-door policy. Whether we re fine-tunin
+our products, or boosting our office culture, we re building a foundation f
+long-term success. To us, this means safer roads, more efficient fleets and a
+team of dynamic Geotabbers!
+
+Geotab encourages applications from all qualified candidates. Geotab is
+committed to accommodating persons with disabilities throughout the interview,
+selection and employment process. If you require accommodation at any stage of
+the application process or want more information about our accommodation
+policies and practices, please contact us at (416) - 434 4309.",,,
+491,Data Analyst,Nolij Consulting,"Nolij Consulting LLC is a certified Women-Owned Small Business (WOSB) that provides information technology services in test and evaluation (T&E), enterprise architecture (EA), electronic health record (EHR) modernization, infrastructure operations and maintenance (O&M), data analytics and visualization, and agile transformation. Our mission is to understand the challenges and goals of our clients, address them with innovative solutions, and work together to achieve project success. Were eager to hear from candidates like you that can join and contribute to our team.
+
+Nolij Consulting has an opening for a Data Analyst to join our team based in Falls Church
+
+Requirements:
+Must have good interpersonal and communication skills both verbal and written.
+Must have strong time management and organizational skills, attention to detail and ability to multitask.
+Must have a good understanding of data structure and management.
+Must be organized, self-motivated, and self-directed.
+Note: Since this position is for a Federal Project, a candidate must possess US Citizenship to obtain Clearance.
+Desired Skills:
+A fair understanding of SQL, Python and R is a plus.
+Experience in developing Pivot Tables/Charts as well as complicated formula is desirable.
+BI Dashboards
+QLIK OR Tableau
+Excel:
+V lookup
+Data Validation
+Data Clean up
+Education:
+Must have a bachelors degree (in a similar discipline preferred) in any related field.
+Do you like the idea of being a driver on a team of distinction? If so, we want to hear from you. To apply, go tohttps://www.nolijconsulting.com/careers/
+
+Nolij is an EEO/Affirmative Action employer and encourages all qualified applicants to apply.",,,
+529,Data Scientist - Image and Video Analytics,The Mom Project,"Company Industry: Technology
+Opportunity: The Mom Project is helping to source candidates for the above client who is looking for a Data Scientist - Image and Video Analytics
+Commitment Level: 40 hours per week, on-site, 10% travel
+
+Our Customer is a data storage company. They help maximize humanity’s potential by delivering world-class, precision-engineered data solutions developed through sustainable and profitable partnerships. They honor their people’s craftsmanship, take great pride in successfully collaborating with their partners, and care deeply about customers and their data. Their solutions help protect memories, business intelligence, communication records, and so much more.
+
+Overview:
+We are seeking a Staff Data Scientist - Image and Video Analytics to support the Operations & Technology Advanced Analytics Group.
+
+What You’ll Do:
+• This role is to facilitate the advancement of modern analytical techniques across Seagate organizations
+• Leverage and/or develop innovative data mining and machine learning methods to solve novel and diverse business problems
+• Focus on image/video analytics, edge computing projects by applying techniques in machine learning, deep learning, and statistical algorithms
+• Develop data science solutions for analytics challenges in the areas of Edge Computing, IoT sensors, Industry 4.0, Prognostics and Health Management, and other technical areas
+• Quantify the effectiveness and value of innovations with subject matter experts
+• Provide technical advice and coaching to the junior analytics staff
+
+About you:
+• Evangelist and an assessor in promoting new ways of diving into complex issues while assessing current practices and identifying areas where training or knowledge would help
+• Strong oral and written communication skills
+• Strong business mindset with the ability to condense complex analysis and technical concepts into clear and concise takeaways for business leaders
+• Self-starter with the ability to drive initiatives and influence
+• Ability to work alone as well as in a team environment
+• Collaborative attitude and a global mindset with an ability to work well with native and non-native English speakers
+• Demonstrated leadership skills along with the ability to lead a team; mentor junior staff and closeout technical projects
+
+Must Haves:
+• 8 years of experience
+• Proven track record in solving industrial image and video analytics problems; computer vision and a willingness of deep learning of industry standards is required.
+• Hands-on experience in developing and deploying image and video analytics solutions
+• Good understanding of image/video analytics lifecycle from image/video data gathering, processing, model development, verification, deployment, and model updating
+• High proficiency in Python
+• Hands-on skills in machine learning, deep learning, statistical algorithms, data mining, data structures, and data engineering
+• Proven track record in delivering analytics solutions using TensorRT, Time Series Analysis, Keras, Tensorflow, CNN, GAN, and RNN techniques
+• Kubernetes/Docker; Microservices deployment and design patterns, RESTful web services, web applications, and dashboard development
+• Hadoop, Spark, and cloud computing infrastructures
+• Ability to deploy data science solutions in cloud analytics infrastructure, AWS
+• Ability to participate in conference calls outside of regular local work hours
+
+Education:
+Bachelor’s Degree
+
+Desired Education:
+Masters or PhD
+
+Hours & Location:
+Standard M-F, 40 hours/week. The position will be starting in Longmont, CO. There is no remote capability for this role.",,,
+570,Data Scientist,Mars,"Back to search results
+Previous job
+
+Next job
+
+JOB DESCRIPTION
+
+A BIT ABOUT OUR DATA SCIENCE & ANALYTICS TEAM
+
+Kinship’s Data Science & Analytics team is core to our strategy. We’re using digital, data and customer insights to transform our business by finding answers to problems that we’ve often never asked ourselves before. Our vast data assets are being combined to build a 360° view of Pets and Pet Owners to not only power Kinship’s businesses but also influence the next great ideas in the Petcare space. This role will be key in helping us understand the power of our data, and how this translates into value for our company, Pets, and Pet Owners. Frequently the projects will be ambiguous, but that’s part of the fun; you will determine the best way to leverage our data to tell the right story for any given audience.
+
+HOW YOU’LL CREATE A BETTER WORLD FOR PETS
+Apply data science approaches to understand and predict pet and pet owner behaviors
+Use machine learning techniques, visualizations, & statistical analysis to gain insight into various data sets – some readily available, and some you create and curate yourself
+Collaborate with internal and external teams to ensure we focus on pet-centric product and service recommendations
+Support new pet technology businesses and partners by generating actionable insights from our data assets
+Develop compelling stories that provide insight into the drivers of business performance and Pet/Pet Owner behavior
+WHO WE NEED TO CHART THE FUTURE OF PET CARE
+
+We strive to hire people who are:
+
+Optimistic. Those who’s boundlessly energy and enthusiasm for what’s next shines through in everything they do. We seek to work with people who are intrinsically happy, and who will drive our vision and purpose while managing the complexities of our businesses.
+
+Purposefully Inquisitive. Those who are courageous and use their deep business insights to cultivate innovation. We want the trailblazers in tech. Those who are entrepreneurs at heart, ask the tough questions, adapt quickly to new situations, and analyze data in new ways to push our big ideas forward.
+
+Open to All. Those who are inclusive leaders, committed to learning, and leveraging our differences as strengths. We hire people who are naturally collaborative and thrive in a flat and flexible organization. Those who are thoughtful communicators, and seek to foster meaningful relationships across our community of diverse partners.
+
+And for this role, we hope you have the following skills we require to round out our team:
+Exceptional written & verbal communication, coupled with critical thinking skills.
+Truly inspired by, and want to live, our purpose of creating a better world for pets.
+1+ years’ experience in a data science role handling varied and complex data
+Proficiency in machine learning modeling and statistical thinking (random forest, decision trees, supervised and unsupervised modeling, etc.)
+Hands-on experience with Python is required; Familiarity with PySpark is also desirable
+Comfortable with ambiguity, with a passion for collaboration to achieve objectives
+A Bachelor’s degree in quantitative field (economics, statistics, business, computer science) or equivalent experience
+If you also had these experiences, you’d knock it out of the dog park:
+Passion for growing and strengthening a business using data driven approaches
+Familiarity with cloud-based computing services e.g. AWS, Databricks, etc.
+Enjoys explaining how models and systems work to both non-technical and technical stakeholders.",,,
+649,Data Science Software Engineer,Klaviyo,"We love programming and the excitement that comes with building something people use. We are the kind of people that love talking to users and can find the balance between solving a problem quickly and thinking about how your code will work in the future. We love to move fast, keep learning and get stuff done.
+
+Our data science team is still in its early days and you'll have a big impact on our direction and how we operate. You'll be central to researching, developing and shipping products that help our customers learn and grow from their data. For this role, we're looking for people who have developed split brains--software engineers who have become great at writing machine learning code or data scientists who have become great software developers.
+
+Technologies we use (not comprehensive!):
+Python
+
+Numpy, Scipy, Pandas
+
+Aurora, Cassandra, Kafka
+
+HTML, JavaScript, React
+
+SageMaker
+
+How you will make a difference:
+
+
+Analyze large data sets (we're collecting billions of individual actions every month).
+Build products that enable our customers to grow faster and communicate more effectively with their customers.
+Develop machine learning models and pipelines for research and production.
+
+Who You Are:
+
+
+Have experience implementing machine learning models, data pipelines and testing frameworks for research and production use.
+Have demonstrated a measurable impact based on the models you've created. It's not always easy getting a model correct, we love talking about places we got stuck and work as a team to think through ideas that could unblock us.
+Have experience processing cloud-scale data using parallel, elastic, streaming and similar techniques.
+Enjoy tuning and validating machine learning models and take a rigorous approach.
+Understand how to profile code and optimize performance.
+Aspire to correctness (e.g. in your code, in drawing conclusions from data)
+Have a bachelor's or advanced degree in computer science, applied math, statistics or other relevant quantitative discipline, or equivalent industry experience.
+
+Get to know Klaviyo
+
+Klaviyo is the world's leading owned marketing platform known for accelerating revenue for online businesses using the channels they own like email, web, and mobile. Enabling companies to leverage these owned marketing channels, Klaviyo makes it easy to store, access, analyze and use transactional and behavioral data to power highly-targeted customer and prospect communications. And unlike other marketing platforms, Klaviyo doesn't force companies to compromise between advanced functionality or ease of use - so companies of all sizes are able to maximize their sales quickly. That's why over 28,000+ innovative companies like Unilever, Custom Ink and Eventbrite sell more with Klaviyo.",,,
+364,Data Scientist,Quick Base,"Company Description:
+Whats it like to work at Quick Base? Well, our company, our market and our customers are growing fast. This means all Quick Base employees are engaged in interesting and challenging work, we have the opportunity to try new and different things and lots of room for career advancement (1/3 of our employees are in a new role from 1 year ago!). We work with exceptional colleagues and foster an environment that empowers those closest to the work to make decisions and provide each other the support to move quickly and learn as we go. Quick Base combines the excitement and pace of a startup with the stability and work/life balance of a market leader. Find out if Quick Base is for you!
+The Team:
+At Quick Base, we believe that exceptional employees are the key not only to our success, but also to our customers success. Our teams are small, diverse, nimble, and highly-empowered to drive company excellence. Each team owns its own commitments and outcomes. Our employees enjoy interesting challenges, learn fast, and strive to do the best work of their life.
+About the Role:
+The Quick Base Analytics team serves all aspects of our business and uses advanced business intelligence and data techniques to help drive our strategy, operations, and make better business decisions. Were looking for a talented and creative Data Scientist to join this team to help with model building, intelligent targeting and data matching, as well as developing reports. This is an opportunity to help with large initiatives including integrating data sources across the enterprise, developing and incorporating predictive analytics into business processes, and helping with common data definitions and quality. This position will also involve day to day data and list creation across the entire business.
+Responsibilities:
+Accessing and synthesizing data using appropriate tools and technology while leveraging knowledge of data sources, data quality and business context
+Applying advanced analytical/statistical methods to provide stakeholders with analysis, insight and direction that informs strategic corporate decisions
+Translating analytical findings and insights into the language of business stakeholders and confidently presenting them to all levels of the organization, including C-Level leadership
+Ensuring that data findings are appropriately visualized in a way that will resonate with stakeholders and clearly highlight implications
+Collaborating with C-Level leadership to create analytic models and developing Key Performance Indicators dashboards/reports
+Developing reusable code and algorithms to wrangle and classify existing data
+Evangelizing data stewardship, pursuing data quality and driving data issues to resolution
+Developing and maintaining a standardized and reliable metrics pipeline to empower stakeholders and decision makers with timely and accurate data and accompanying insights
+Joining data from disparate sources to create meaningful and impactful analyses
+Independently working with business stakeholders with limited managerial oversight
+Leveraging industry best practices with the evolving analytics infrastructure
+Qualifications:
+Experience translating business questions into analytic frameworks and analytic results into business recommendations
+Knowledge of statistical methodologies and experience using statistical/analytical tools
+Experience in data requirement elicitation, consolidation, validation, report/dashboard creation and quality assurance
+Ability to work with diverse data sets and distill business insights
+Experience with machine learning approaches to problem solving including NLP, Clustering, Decision Trees, Regressions and Neural Networks.
+Advanced proficiency and experience with Python (pandas, scikit-learn) and T-SQL.
+Advanced Microsoft Excel proficiency
+Proficiency with data visualization tools such as Tableau and Microsoft Power BI
+Experience effectively bridging business and technical teams
+Must have: MS in Applied Math, Statistics or Quantitative Finance, plus at least 3 years of experience as a Data Scientist, Data Insights Analyst or similar role performing quantitative and qualitative business analysis",,,

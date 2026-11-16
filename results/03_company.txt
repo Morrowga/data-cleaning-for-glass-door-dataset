@@ -1,0 +1,15 @@
+STEP 3 - COMPANY NAME
+rows                                  : 672
+names with a glued rating             : 622
+  glued number equals Rating column   : 619
+  glued number is different           : 3
+names without a glued rating          : 50
+distinct company names, before -> after: 432 -> 432
+
+ROWS TO REVIEW (glued number differs from Rating; Rating column is kept)
+index  company                          glued  Rating
+  167  Autodesk                           4.0     4.2
+  179  Buckman                            3.5     3.6
+  308  Kollasoft Inc.                     3.2     5.0
+
+check: Rating column unchanged, no empty names, no line breaks left

@@ -1,0 +1,34 @@
+STEP 10 - VALIDATE
+rows checked: 659
+
+check                                failed
+rating between 1 and 5                    0
+salary min <= max                         0
+salary mid between min and max            0
+salary between $10K and $500K             0
+size min <= max                           0
+revenue min <= max                        0
+founded between 1700 and 2020             0
+company age not negative                  0
+job state is a US state                   0
+headquarters state is a US state          0
+remote rows have no city                  0
+title family allowed                      0
+seniority allowed                         0
+years 0-20                                0
+years has a quote                         0
+degree allowed                            0
+job title not empty                       0
+company name not empty                    0
+description not empty                     0
+index is unique                           0
+
+failed checks in total : 0  (rows affected: 0)
+
+SUSPICIOUS BUT POSSIBLE (counted only, not in the review file)
+  company older than 150 years : 19
+  salary max above $300K       : 21
+  salary range wider than 2x   : 0
+  0 years of experience stated : 15
+
+saved -> results/10_review.csv

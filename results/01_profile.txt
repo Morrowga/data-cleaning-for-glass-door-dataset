@@ -1,0 +1,36 @@
+STEP 1 - PROFILE
+file   : Uncleaned_DS_jobs.csv
+rows   : 672
+columns: 15
+
+MISSING VALUES (counting -1, Unknown, N/A and blanks)
+column               missing  percent  unique  example
+Competitors              501    74.6%     108  EmblemHealth, UnitedHealth Group, Aetna
+Revenue                  240    35.7%      14  Unknown / Non-Applicable
+Founded                  118    17.6%     103  1993
+Industry                  71    10.6%      58  Insurance Carriers
+Sector                    71    10.6%      23  Insurance
+Rating                    50     7.4%      32  3.1
+Size                      44     6.5%       9  1001 to 5000 employees
+Headquarters              31     4.6%     229  New York, NY
+Type of ownership         31     4.6%      13  Nonprofit Organization
+index                      0     0.0%     672  0
+Job Title                  0     0.0%     172  Sr Data Scientist
+Salary Estimate            0     0.0%      30  $137K-$171K (Glassdoor est.)
+Job Description            0     0.0%     489  Description  The Senior Data Scientist i
+Company Name               0     0.0%     432  Healthfirst 3.1
+Location                   0     0.0%     207  New York, NY
+
+DUPLICATES
+same Job Title + Company Name + Location: 179 repeated rows
+same Job Description          : 183 repeated rows
+completely identical rows (ignoring the index column): 13
+
+TEXT LENGTH
+Job Description  min 71  median 3349  max 10524
+
+THINGS LATER STEPS WILL FIX
+Company Name has the rating glued on (contains a new line): 622
+Salary has 'Employer Provided'                            : 20
+Location without a comma (Remote, a state, a country)      : 23
+Distinct job titles                                        : 172

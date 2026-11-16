@@ -1,0 +1,21 @@
+STEP 2 - MISSING VALUES
+rows   : 672
+columns: 15 -> 14  (dropped: Competitors)
+
+column               placeholders before  empty after
+index                                  0            0
+Job Title                              0            0
+Salary Estimate                        0            0
+Job Description                        0            0
+Rating                                50           50
+Company Name                           0            0
+Location                               0            0
+Headquarters                          31           31
+Size                                  44           44
+Founded                              118          118
+Type of ownership                     31           31
+Industry                              71           71
+Sector                                71           71
+Revenue                              240          240
+
+check: every real value is unchanged, and every placeholder is now empty

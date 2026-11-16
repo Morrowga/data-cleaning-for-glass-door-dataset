@@ -1,0 +1,660 @@
+index,Job Title,skills_rules,skills_ai,min_years_rules,min_years_ai,years_quote,degree_rules,degree_ai
+0,Sr Data Scientist,AWS|Azure|Machine learning|Statistics,Machine learning|Statistics|AWS|Azure,,,,bachelor,bachelor
+1,Data Scientist,SQL|Hadoop|Machine learning|Statistics,SQL|Hadoop|Machine learning|Statistics,12,12.0,12-15 years related experience,bachelor,bachelor
+2,Data Scientist,Python|R|C++|AWS|NLP|Machine learning|Statistics,Python|R|C++|AWS|Machine learning|NLP|Statistics,,1.0,at least one year of experience in the field,phd,not_stated
+3,Data Scientist,Python|SQL|MATLAB|Git|TensorFlow|PyTorch|Deep learning|Machine learning|Statistics,Python|SQL|MATLAB|Machine learning|Deep learning|Git|TensorFlow|PyTorch|Statistics,,,,bachelor,bachelor
+4,Data Scientist,Python|SQL|R|SAS|Machine learning|Statistics,Python|SQL|R|SAS|Machine learning|Statistics,,,,not_stated,master
+5,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|AWS|TensorFlow|Scikit-learn|NLP|Machine learning,Python|Scala|Java|Hadoop|Spark|AWS|TensorFlow|Scikit-learn|NLP|Machine learning,3,3.0,3+ years experience recommended,bachelor,bachelor
+6,Data Scientist / Machine Learning Expert,Python|R|C++|Git|PyTorch|Scikit-learn|Machine learning|Statistics,Python|R|C++|Machine learning|Scikit-learn|PyTorch|Git|Statistics,,,,not_stated,master
+7,Data Scientist,Python|SQL|Scikit-learn|Pandas|NumPy|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|Statistics,1,1.0,"At least 1 year of relevant job, internship, or co-op experience",master,not_stated
+8,Staff Data Scientist - Analytics,,,,,,not_stated,not_stated
+9,Data Scientist,Python|SQL|TensorFlow|PyTorch|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|NLP|Deep learning|TensorFlow|PyTorch|Statistics,3,3.0,3+ years full time employment,master,master
+10,Data Scientist,Python|R|Java|AWS|TensorFlow|Keras|NLP|Deep learning|Machine learning|Statistics,Python|R|Java|AWS|TensorFlow|Keras|NLP|Deep learning|Machine learning|Statistics,,,,not_stated,not_stated
+11,Data Scientist,Python|SQL|R|Spark|TensorFlow|Keras|Scikit-learn|Pandas|Machine learning|Statistics,Python|R|Spark|TensorFlow|Keras|Pandas|Scikit-learn|SQL|Machine learning|Statistics,,,,not_stated,not_stated
+12,"Data Scientist - Statistics, Early Career",Machine learning|Statistics,Machine learning|Statistics,2,0.0,PhD with 0 years of experience,bachelor,bachelor
+13,Data Modeler,Python|SQL|Tableau,SQL|Python|Tableau,3,3.0,A minimum of 3 years’ experience in SAP Data Management and Governance,bachelor,bachelor
+14,Data Scientist,Python|R|AWS|GCP|Git|Scikit-learn|Pandas|Machine learning|Statistics,Python|R|Git|Machine learning|Statistics|AWS|GCP|Pandas|Scikit-learn,3,3.0,3+ years of experience in a social policy field post Masters,master,master
+15,Experienced Data Scientist,Python|SQL|R|Java|C++|MATLAB|Spark|Hadoop|AWS|TensorFlow|NumPy|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|NumPy|MATLAB|Tableau|AWS|Machine learning|Statistics|Deep learning|TensorFlow|Spark|Hadoop|Java|C++,10,10.0,10+ years of professional work experience in a quantitative field,master,master
+16,Data Scientist - Contract,Python|TensorFlow|PyTorch|Scikit-learn|Machine learning,Python|Scikit-learn|TensorFlow|PyTorch|Machine learning,,,,not_stated,not_stated
+17,Data Scientist,Python|SQL|R|Java|Scala|C++|MATLAB|Hadoop|Hive|Azure|Scikit-learn|Machine learning|Statistics|Power BI,Python|SQL|R|Java|Scala|C++|MATLAB|Hadoop|Hive|Azure|Scikit-learn|Machine learning|Tableau|Power BI,5,5.0,5+ years of relevant working experience,bachelor,bachelor
+18,Data Analyst II,Excel,SQL|Excel,3,3.0,3 years industry work experience,master,not_stated
+19,Medical Lab Scientist,,,1,1.0,Minimum of 1 year of experience,bachelor,bachelor
+20,Data Scientist,Machine learning|Statistics,Machine learning,,,,not_stated,not_stated
+21,Data Scientist/Machine Learning,Python|Spark|Hadoop|Hive|Docker|Git|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|Hadoop|Hive|Spark|Pandas|NumPy|Scikit-learn|Docker|Git|Machine learning|Deep learning,3,3.0,3+ years of full-time experience,bachelor,bachelor
+22,Human Factors Scientist,Statistics,Statistics,,,,phd,phd
+23,Business Intelligence Analyst I- Data Insights,,SQL,,,,not_stated,not_stated
+24,Data Scientist,SQL|R|SAS|Statistics,R|SQL|SAS,,,,bachelor,bachelor
+25,Data Scientist,Python|SQL|PyTorch|Keras|Scikit-learn|Pandas|Deep learning|Machine learning,Python|SQL|Scikit-learn|Pandas|Deep learning|Machine learning|Keras|PyTorch,3,3.0,3+ years real world experience in a data science or equivalent role,not_stated,not_stated
+26,Data Scientist - Risk,Python|R|SAS|Spark|Hadoop|Kafka|AWS|TensorFlow|Statistics|Tableau|Power BI|Excel,Python|R|SAS|TensorFlow|Hadoop|Spark|Kafka|Tableau|Power BI|Excel|AWS|Statistics,5,5.0,5+ years of experience of hands-on data science role,bachelor,bachelor
+27,Data Scientist-Human Resources,Python|SQL|R|SAS|MATLAB|Spark|Hadoop|Hive|Machine learning|Statistics|Power BI,Python|SQL|R|SAS|MATLAB|Spark|Hadoop|Hive|Power BI|Machine learning|Statistics,5,5.0,5-8 years of relevant experience,bachelor,bachelor
+28,Data Scientist,Python|R|SAS|NLP|Machine learning|Statistics|Tableau,Python|SQL|R|SAS|Tableau|Statistics|Machine learning|NLP,10,10.0,10 years of relevant experience,bachelor,bachelor
+29,Data Scientist,Spark|Hive|TensorFlow|Machine learning|Statistics,Spark|Hive|TensorFlow|Machine learning|Statistics,2,2.0,Minimum 2 years experience as a Data Scientist,master,master
+30,Data Scientist,Python|R|C++|AWS|NLP|Machine learning|Statistics,Python|R|C++|Machine learning|NLP|Statistics|AWS,,1.0,at least one year of experience,phd,not_stated
+31,Data Scientist / Machine Learning Expert,Python|R|C++|Git|PyTorch|Scikit-learn|Machine learning|Statistics,Python|R|C++|Machine learning|Statistics|Scikit-learn|PyTorch|Git,,,,not_stated,master
+32,Data Scientist,Python|SQL|R|NLP|Machine learning,Python|SQL|R|NLP|Machine learning,5,5.0,5-7 years model building and analytical experience,master,master
+33,Senior Research Statistician- Data Scientist,R|SAS|Statistics,R|SAS|Statistics|Machine learning,5,5.0,"5 years P&C insurance, modelling and project leader experience",master,master
+34,Data Engineer,Java|C++|AWS|Docker|Kubernetes,Java|C++|AWS|Docker|Kubernetes,5,5.0,plus 5 years of experience,bachelor,bachelor
+35,Associate Data Scientist,SQL|Spark|Hadoop|Git|Machine learning|Excel,SQL|Git|Spark|Hadoop|Machine learning,6,6.0,6+ years IT experience,bachelor,bachelor
+36,Business Intelligence Analyst,Python|SQL|R|Tableau|Power BI|Excel,Python|SQL|R|Tableau|Power BI|Excel,,,,not_stated,not_stated
+37,Data Scientist,Python|SQL|R|AWS|Git|Machine learning|Statistics,Python|SQL|R|Git|Machine learning|Statistics|AWS,,2.0,2+ years applying statistical and machine-learning methods,bachelor,bachelor
+38,Data Scientist,Python|SQL|R|Java|C++|SAS|Spark|Hadoop|Hive|AWS|Machine learning|Statistics,Python|SQL|R|Java|SAS|C++|Spark|Hadoop|Hive|AWS|Machine learning|Statistics,10,3.0,3-9 years of relevant experience,bachelor,bachelor
+39,Senior Analyst/Data Scientist,Python|SQL|R|Statistics|Tableau,Python|SQL|R|Statistics|Tableau,,3.0,at least three years of related work experience,bachelor,bachelor
+40,Data Analyst,Python|SQL|R|Statistics|Excel,Excel|SQL|R|Python|Statistics,,,,bachelor,bachelor
+41,Machine Learning Engineer,Python|R|Java|Spark|AWS|Azure|Machine learning,Python|Java|AWS|Azure|Machine learning|R|Spark,2,2.0,Minimum 2+ years of professional development experience,bachelor,bachelor
+42,Data Analyst I,SQL|Statistics,SQL,3,3.0,3-5 years,bachelor,bachelor
+43,Scientist - Molecular Biology,,,3,3.0,3+ years of relevant research experience,phd,phd
+44,Data Scientist,Python|Deep learning|Machine learning|Statistics,Python|Machine learning|Deep learning|Statistics,2,2.0,2+ years of experience in Data Science or Machine Learning,master,master
+45,"Computational Scientist, Machine Learning",Python|TensorFlow|PyTorch|Keras|Deep learning|Machine learning,Python|Scikit-learn|Keras|TensorFlow|PyTorch|Deep learning|Machine learning,,,,phd,phd
+46,Senior Data Scientist,Machine learning|Statistics,Machine learning|Statistics,5,5.0,Have worked in a data science role for 5+ years,bachelor,bachelor
+47,Data Scientist,Python|R|Java|C++|MATLAB|NLP|Machine learning|Excel,Python|C++|Java|MATLAB|Excel|NLP|Machine learning,,,,not_stated,not_stated
+48,Data Scientist,Python|R|Machine learning|Statistics|Tableau,Python|R|Tableau|Machine learning,2,2.0,Minimum 2 years of relevant working experience,bachelor,bachelor
+49,Data Scientist,Python|SQL|Scikit-learn|Pandas|NLP|Machine learning|Statistics|Tableau|Power BI|Excel,Python|SQL|Pandas|Scikit-learn|NLP|Machine learning|Statistics|Tableau|Power BI|Excel,3,3.0,at least 3 years of experience,master,master
+50,Data Analyst,Python|SQL|R|Machine learning|Statistics|Tableau,Python|SQL|R|Tableau|Machine learning,,,,bachelor,not_stated
+51,Data Scientist,Python|SQL|R|Java|Scala|Spark|TensorFlow|Deep learning|Machine learning,Python|R|Java|Scala|Spark|SQL|TensorFlow|Machine learning|Deep learning,3,3.0,3+ years experience,master,master
+52,Data Scientist,Python|R|Spark|TensorFlow|NLP|Machine learning|Statistics,Python|R|Spark|TensorFlow|NLP|Machine learning,5,5.0,5+ years of industry experience in applying AI/ML,phd,phd
+53,Jr. Data Engineer,SQL|Statistics,SQL,,0.0,0+ years of relevant experience,bachelor,bachelor
+54,E-Commerce Data Analyst,SQL|Excel,SQL|Excel,3,3.0,3-5 years of experience,bachelor,bachelor
+55,Data Analytics Engineer,SAS|Statistics|Tableau,SAS|Tableau|Statistics,,5.0,Five (5) years of experience in a previous analytics role,bachelor,bachelor
+56,Senior Data Scientist,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,4,4.0,minimum BS plus 4 years' experience,bachelor,bachelor
+57,Product Data Scientist - Ads Data Science,Python|R|Java|Scala|C++|Machine learning|Statistics,Python|R|Machine learning|Statistics,,,,master,not_stated
+58,Data Scientist,Python|SQL|R|SAS|Spark|Hive|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,Python|SQL|R|SAS|Pandas|NumPy|Scikit-learn|Machine learning|Deep learning|NLP|Statistics|Spark|Hive|TensorFlow|PyTorch,3,3.0,3+ years of professional experience in Data Science or Applied Machine Learning required,bachelor,bachelor
+59,Data Scientist - Intermediate,Python|Machine learning|Statistics,Python|Machine learning|Statistics,,,,master,master
+60,Data Analyst,Python|SQL|Statistics|Excel,SQL|Python|R|Excel,,,,bachelor,bachelor
+61,Machine Learning Engineer,Python|C++|Deep learning|Machine learning,Python|C++|Machine learning|Deep learning,,,,bachelor,bachelor
+62,Data Scientist,Python|SQL|Scikit-learn|Pandas|NumPy|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|Statistics,1,1.0,"At least 1 year of relevant job, internship, or co-op experience",master,not_stated
+63,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|AWS|TensorFlow|Scikit-learn|NLP|Machine learning,Python|Java|Scala|Spark|Hadoop|AWS|TensorFlow|Scikit-learn|NLP|Machine learning,3,,,bachelor,bachelor
+64,Global Data Analyst,SQL|Tableau|Power BI|Excel,SQL|Tableau|Power BI|Excel,,,,bachelor,bachelor
+65,Data Engineer,Python|SQL|R|C++|SAS|Statistics,Python|SQL|R|C++|SAS|Statistics,3,3.0,3-5 years of hands on experience in database development,master,bachelor
+66,Data Scientist,Python|SQL|R|Machine learning|Statistics|Tableau,Python|SQL|R|Tableau|Statistics|Machine learning,2,,,master,phd
+67,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|Tableau|Python|R|Statistics,5,5.0,5+ years of experience,not_stated,not_stated
+68,Data & Machine Learning Scientist,Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Deep learning|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Deep learning|Git|Docker|AWS,2,2.0,2+ years full time employment or postdoctoral experience,master,master
+69,Data Scientist - Machine Learning,Python|R|Spark|Kafka|Docker|Git|TensorFlow|PyTorch|Keras|NumPy|Deep learning|Machine learning,Python|R|TensorFlow|PyTorch|Keras|NumPy|Spark|Kafka|Docker|Git|Machine learning|Deep learning|Statistics,5,5.0,5+ years experience developing and deploying scalable ML models,phd,phd
+70,Data Engineer (Remote),Python|Java|Spark|Hadoop|AWS|Docker|Git|Machine learning|Statistics,Python|SQL|Spark|Hadoop|AWS|Git|Machine learning|Deep learning|NLP|Statistics,3,3.0,3+ years of engineering experience,not_stated,not_stated
+71,"Data Scientist, Applied Machine Learning - Bay Area",Python|SQL|AWS|Git|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|Machine learning|AWS|Git,2,2.0,2+ years full time employment experience,not_stated,bachelor
+72,Principal Data Scientist,Python|R|MATLAB|Spark|Hadoop|Hive|AWS|Azure|GCP|Machine learning|Statistics,Python|R|MATLAB|Spark|Hadoop|Hive|AWS|Azure|GCP|Machine learning,,,,not_stated,bachelor
+73,Business Data Analyst,SQL|Tableau|Excel,SQL|Tableau|Excel|Power BI,3,3.0,3+ years in business analytics based roles within a business unit or dealer exposure,bachelor,bachelor
+74,Purification Scientist,,,3,3.0,Minimum 3 years of industry experience,bachelor,bachelor
+75,Data Analyst,Python|SQL|R|Statistics|Tableau|Power BI|Excel,SQL|Excel|Tableau|Python|R,2,2.0,2+ years’ experience in a data analyst role required,bachelor,bachelor
+76,"Data Engineer, Enterprise Analytics",Python|SQL|Java|AWS|Machine learning|Statistics|Excel,Python|SQL|Java|AWS|Machine learning|Statistics|Excel,7,7.0,7+ years’ experience in a data engineering,bachelor,bachelor
+77,Data Scientist,Python|R|Git|Machine learning|Statistics,Python|R|Git|Machine learning|Statistics,,,,master,not_stated
+78,Data Scientist,Python|SQL|R|SAS|Machine learning|Statistics,SQL|SAS|R|Python|Machine learning,3,3.0,3+ years of Data Modeling or similar experience.,bachelor,bachelor
+79,Data Scientist 3 (718),Python|Machine learning|Statistics,Python|Machine learning|Statistics,1,1.0,Ph.D. plus 1-3 years experience,master,bachelor
+80,"Real World Science, Data Scientist",Python|SQL|R|SAS|MATLAB|Hadoop|Machine learning|Statistics,Python|SQL|R|SAS|MATLAB|Hadoop|Machine learning|Statistics,,,,master,master
+81,Data Scientist,,,,,,not_stated,not_stated
+82,Data Engineer,SQL|Java|Scala|Spark|Hadoop|Hive|Kafka|AWS|Azure|GCP,Kafka|Spark|Hadoop|Hive|AWS|Azure|GCP|Java|Scala,,,,not_stated,not_stated
+83,Data Scientist - Image and Video Analytics,Python|Spark|Hadoop|AWS|Docker|Kubernetes|TensorFlow|Keras|Deep learning|Machine learning|Statistics,Python|Keras|TensorFlow|Docker|Kubernetes|Hadoop|Spark|AWS|Machine learning|Deep learning|NLP,8,8.0,8 years of experience,bachelor,bachelor
+84,Data Scientist,Python|SQL|Spark|AWS|TensorFlow|Deep learning|Machine learning|Statistics,Python|SQL|Spark|AWS|TensorFlow|Machine learning|Deep learning|Statistics,3,3.0,3+ years of relevant experience,bachelor,bachelor
+85,"Data Science Manager, Payment Acceptance - USA",Python|SQL|R|Machine learning|Statistics,Python|SQL|R|Statistics|Machine learning,5,5.0,5-7+ years of data science experience,master,not_stated
+86,Data Analyst,,SQL,,3.0,three years of related data analysis experience,bachelor,bachelor
+87,Data Scientist / Applied Mathematician,Python|SQL|AWS|GCP|TensorFlow|PyTorch|Scikit-learn|Pandas|Deep learning|Machine learning|Statistics,Python|SQL|Pandas|Scikit-learn|TensorFlow|PyTorch|Deep learning|Machine learning|AWS|GCP,,,,bachelor,bachelor
+88,Machine Learning Engineer,Python|Kafka|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|Kafka|Machine learning,,,,bachelor,bachelor
+89,Data Scientist,Python|Spark|AWS|Machine learning|Statistics,Python|Spark|AWS|Machine learning|Statistics,1,1.0,1+ years’ experience in a data science role,bachelor,bachelor
+90,Patient Safety- Associate Data Scientist,Python|SQL|R|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|Machine learning|Statistics|Deep learning|NLP|Git,,,,not_stated,not_stated
+91,Machine Learning Engineer,Python|SQL|R|Java|Scala|Spark|Hadoop|Hive|Kafka|AWS|Machine learning|Statistics,Python|SQL|R|Java|Scala|Statistics|Hadoop|Hive|Spark|Kafka|AWS|Machine learning,,,,bachelor,bachelor
+92,Senior Data Scientist,Python|SQL|R|Java|Scala|SAS|Spark|Hadoop|Hive|Kafka|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Scala|SAS|Spark|Hadoop|Hive|Kafka|Tableau|Power BI|Machine learning|Statistics,,,,bachelor,bachelor
+93,(Sr.) Data Scientist -,Python|SQL|R|C++|SAS|Machine learning|Statistics,Python|R|SQL|SAS|C++|Machine learning|Statistics|Deep learning,,,,bachelor,master
+94,Data Scientist,Python|R|AWS|GCP|Git|Scikit-learn|Pandas|Machine learning|Statistics,R|Python|Git|Machine learning|Statistics|AWS|GCP|Pandas|Scikit-learn,3,3.0,3+ years of experience in a social policy field,master,master
+95,Staff Data Scientist - Analytics,,,,,,not_stated,not_stated
+96,Data Analytics Engineer,Python|SQL|R|Scala|Spark|Machine learning|Statistics,Python|SQL|R|Scala|Spark|Machine learning,8,2.0,2+ years of data analytics experience,bachelor,bachelor
+97,"Data Scientist, Kinship - NYC/Portland",Python|Spark|Azure|Machine learning|Statistics,Python|Spark|Azure|Machine learning|Statistics,4,4.0,4+ years’ experience in a data science role,bachelor,bachelor
+98,Senior Data Scientist,TensorFlow|Machine learning,TensorFlow|Machine learning,,,,not_stated,not_stated
+99,Applied Technology Researcher / Data Scientist,R|Tableau,Python|R|Tableau|Machine learning|Statistics|Deep learning,,4.0,You have at least four years of experience in the use of emerging technologies for development.,master,master
+100,Data Scientist,Python|R|Java|Scala|C++|Spark|Hadoop|TensorFlow|Machine learning|Statistics,Python|R|Java|Scala|C++|Spark|Hadoop|TensorFlow|Machine learning|Deep learning|Statistics,4,5.0,Solid 5 years of experience in machine learning,master,not_stated
+101,Machine Learning Engineer,Python|SQL|Java|C++|Spark|Hadoop|AWS|Docker|TensorFlow|Deep learning|Machine learning|Statistics,Python|Docker|AWS|Hadoop|Spark|TensorFlow|Machine learning|Deep learning|Statistics|NLP,3,3.0,3-15 years’ experience,not_stated,not_stated
+102,Health Data Scientist - Biomedical/Biostats,Python|R|MATLAB|TensorFlow|Keras|Deep learning|Machine learning|Statistics,Python|R|MATLAB|TensorFlow|Keras|Machine learning|Deep learning|Statistics,2,2.0,with 2+ years of industry experience,master,master
+103,Senior Data Scientist,Python|SQL|R|Java|Scala|SAS|MATLAB|Spark|Hadoop|Hive|TensorFlow|Scikit-learn|Pandas|Machine learning|Statistics,Python|SQL|R|Java|Scala|SAS|MATLAB|Spark|Hadoop|Hive|Scikit-learn|Pandas|TensorFlow|Statistics|Machine learning,,,,bachelor,bachelor
+104,Staff Data Scientist,,,,,,not_stated,not_stated
+105,Data Scientist,Python|SQL|R|SAS|MATLAB|Machine learning|Tableau|Power BI|Excel,Python|SQL|R|SAS|MATLAB|Machine learning|Tableau|Power BI|Excel,5,5.0,minimum of 5 years of experience,bachelor,bachelor
+106,Sr Data Engineer (Sr BI Developer),SQL|Hadoop,SQL|Hadoop,5,5.0,5 years of work experience as ETL/CUBE Developer,bachelor,bachelor
+107,Data Engineer,Python|SQL|Snowflake|AWS|Docker|Machine learning,Python|SQL|AWS|Snowflake|Docker|Machine learning,2,2.0,"2+ years experience in Data Platform Administration, Engineering, or related field",not_stated,not_stated
+108,Lead Data Scientist,Python|R|Java|SAS|Hadoop|AWS|Azure|Machine learning|Statistics|Excel,Python|R|Java|SAS|Hadoop|AWS|Azure|Excel|Statistics|Machine learning,6,6.0,Typically 6-10 years work experience,master,master
+109,Data Scientist,Python|Java|C++,Python,,3.0,Three years of experience,bachelor,bachelor
+110,RFP Data Analyst,Spark|Excel,Excel,5,5.0,5-7 years of financial service experience is required.,master,bachelor
+111,Data Analyst,SQL|Statistics|Tableau|Excel,SQL|Tableau|Excel|Statistics,3,3.0,3-5 years experience with querying large complex data sets with SQL on relational databases,bachelor,bachelor
+112,Data Scientist (TS/SCI),Python|SQL|R|Java|C++|Machine learning|Statistics,Python|SQL|R|Java|C++|Machine learning|Deep learning,4,4.0,Requires 4-8 years of relevant experience.,bachelor,bachelor
+113,Data Engineer,Python,Python,3,3.0,3+ years of experience working in data architecture or a related field,master,not_stated
+114,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|Hive|Kafka|AWS|TensorFlow|Keras|Scikit-learn|Machine learning|Statistics|Tableau,Python|SQL|Java|Scala|Hadoop|Spark|Kafka|Hive|Machine learning|TensorFlow|Scikit-learn|Keras|Statistics|Tableau|AWS,5,5.0,Minimum 5 years hands on experience,bachelor,bachelor
+115,Data Scientist,Python|SQL|R|Git|Machine learning|Statistics,Python|SQL|R|Git|Machine learning|Statistics|Deep learning,3,,,bachelor,bachelor
+116,Software Engineer - Data Science,Python|R|Java|Scala|Spark|Hadoop|TensorFlow|Scikit-learn|Pandas|Machine learning|Statistics|Excel,Python|R|Java|Scala|Scikit-learn|Pandas|Hadoop|Spark|TensorFlow|Machine learning|Statistics,,,,bachelor,bachelor
+117,Data Analyst/Engineer,Python|SQL|Azure|Statistics,SQL|Python|Git|Airflow|Azure|Docker|Kubernetes|Excel|Power BI|Tableau|Machine learning|Statistics|Scikit-learn,7,7.0,7+ years of strong development experience,bachelor,bachelor
+118,NGS Scientist,,,6,6.0,"6+ years of full-time, hands-on NGS experience",master,master
+119,Data Engineer,Python|SQL|R|Java|Scala|Kafka,Python|SQL|Java|Kafka,4,4.0,4+ years of experience in a Data Engineering role,not_stated,not_stated
+120,Data Scientist,Python|SQL|R|Statistics|Tableau|Excel,SQL|Python|R|Tableau|Excel,3,1.0,"1 year of experience with a Master's Degree in computer science, information systems management, mathematics, operations research, statistics, or engineering",bachelor,bachelor
+121,Senior Data Engineer,Python|Scala|Spark|Kafka|Airflow|Machine learning|Statistics,Python|Scala|Spark|Kafka|Airflow,5,5.0,5+ years or equivalent experience,not_stated,not_stated
+122,Senior Data Scientist,Python|R|Java|AWS|TensorFlow|Keras|NLP|Deep learning|Machine learning|Statistics,Python|NLP|Deep learning|Machine learning|Statistics|TensorFlow|Keras|AWS|R|Java,2,2.0,Experience with Python (2+ years).,not_stated,not_stated
+123,Data Engineer,Python|Java|Spark|Hadoop|AWS|Docker|Git|Machine learning|Statistics,Python|SQL|Spark|Hadoop|Pandas|Git|AWS|Docker|Machine learning|Statistics|Deep learning,3,3.0,3+ years of engineering experience,not_stated,not_stated
+124,Business Intelligence Analyst,Python|SQL|R|Machine learning|Statistics|Tableau|Excel,Python|SQL|R|Tableau|Excel|Statistics|Machine learning,2,2.0,At least 2 years of experience in a technically- or business-oriented role,not_stated,not_stated
+125,Sr. ML/Data Scientist - AI/NLP/Chatbot,Python|Spark|Kafka|AWS|TensorFlow|Scikit-learn|NumPy|NLP|Machine learning|Statistics,Python|Machine learning|NLP|NumPy|Scikit-learn|TensorFlow|AWS|Spark|Kafka,3,3.0,3+ years experiences building data science-driven solutions,master,master
+126,Data Scientist,Python|SQL|R|Spark|TensorFlow|Keras|Scikit-learn|Pandas|Machine learning|Statistics,Python|R|Spark|TensorFlow|Keras|Pandas|Scikit-learn|SQL|Machine learning|Statistics,,,,not_stated,not_stated
+127,Data Scientist,Python|SQL|TensorFlow|PyTorch|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Deep learning|NLP|TensorFlow|PyTorch,3,3.0,3+ years full time employment,master,master
+128,Data Engineer,Python|Java|Spark|Hadoop|AWS|Docker|Git|Machine learning|Statistics,Python|SQL|Spark|Hadoop|AWS|Git|Machine learning|Deep learning|NLP|Statistics,3,3.0,3+ years of engineering experience,not_stated,not_stated
+129,Sr. ML/Data Scientist - AI/NLP/Chatbot,Python|Spark|Kafka|AWS|TensorFlow|Scikit-learn|NumPy|NLP|Machine learning|Statistics,Python|NumPy|Scikit-learn|TensorFlow|Machine learning|NLP|AWS|Spark|Kafka|Deep learning|Statistics,3,3.0,3+ years experiences building data science-driven solutions,master,master
+130,Data Scientist,SQL|Snowflake|Machine learning|Statistics,SQL|Snowflake|Machine learning|Statistics,,,,not_stated,not_stated
+131,Senior Data Engineer,Python|SQL|Spark|Hadoop|Airflow|AWS,Python|SQL|AWS|Airflow|Spark|Hadoop,1,1.0,1+ years of experience with AWS data solutions,not_stated,not_stated
+132,Data Engineer,Python|SQL|Machine learning|Statistics|Power BI,Python|SQL|Machine learning|Statistics|Power BI,,,,bachelor,bachelor
+133,Data Scientist,Python|SQL|R|Spark|Machine learning|Statistics|Tableau,Python|SQL|R|Spark|Machine learning|Statistics|Tableau|Deep learning,2,2.0,2+ year experience as a data scientist,not_stated,bachelor
+134,Machine Learning Engineer,Machine learning,Machine learning,,,,not_stated,not_stated
+137,Data Scientist,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,,,,master,master
+138,Data Analyst,Python|Spark|Hadoop|Git|Scikit-learn|Pandas|NumPy|Machine learning|Statistics|Tableau,Python|Pandas|NumPy|Scikit-learn|Statistics|Machine learning|Git|Tableau|Hadoop|Spark,,1.0,at least a year of data analytics or data science experience,bachelor,bachelor
+139,Data Engineer,Java|Scala|Spark|Hadoop|Kafka,Spark|Hadoop|Kafka|Java|Scala,1,1.0,Have 1-3 years of experience,bachelor,bachelor
+140,Data Integration and Modeling Engineer,SQL,SQL,2,2.0,2 to 5 years of software development experience,bachelor,bachelor
+141,Tableau Data Engineer 20-0117,SQL|Snowflake|Statistics|Tableau|Power BI,Tableau|SQL|Snowflake,3,3.0,at least 3 years equivalent work experience,bachelor,bachelor
+142,Senior Data Scientist,Python|SQL|R|Spark|Hadoop|Hive|Airflow|AWS|Machine learning|Statistics|Tableau,Python|SQL|R|Spark|Hadoop|Hive|Airflow|AWS|Tableau|Machine learning|Statistics,4,4.0,4+ years of industry experience in data science broadly,bachelor,bachelor
+143,AI Data Scientist,Python|R|Machine learning,Python|R|Machine learning,8,8.0,Minimum of 8 years of experience in a technical field,phd,not_stated
+144,Machine Learning Engineer,Python|C++|TensorFlow|PyTorch|Keras|Deep learning|Machine learning,Python|C++|Machine learning|Deep learning|TensorFlow|PyTorch|Keras,,,,bachelor,bachelor
+145,Research Scientist Patient Preferences (Remote),SAS|Excel,SAS|Excel,5,1.0,more than one year experience in relevant field,master,master
+146,Data Scientist,SQL|R|SAS|Statistics,SAS|SQL|R|Statistics,1,1.0,1 or more years of experience,master,master
+147,Scientist - Biomarker and Flow Cytometry,,,3,3.0,master with 3+ years of experience in related field,master,master
+148,Data Scientist,SQL|R|Machine learning|Statistics,R|SQL|Machine learning|Statistics,,,,bachelor,bachelor
+149,Analytics Manager,SQL|Statistics|Tableau,SQL|Tableau,,5.0,Min 5-year experiences as analytics team lead or manager,bachelor,bachelor
+150,Data Scientist,Python|SQL|R|Hadoop|Keras|Scikit-learn|Deep learning|Machine learning|Statistics|Excel,Python|SQL|R|Hadoop|Scikit-learn|Keras|Machine learning|Deep learning|Statistics|Excel,,5.0,5 plus years data manipulation and statistical modeling experience,master,master
+151,Staff Scientist- Upstream PD,,,,,,not_stated,not_stated
+152,Data Engineer,Python|SQL|Spark|Hadoop|Hive|Airflow|Snowflake|AWS|GCP|Machine learning|Excel,Python|SQL|AWS|GCP|Snowflake|Airflow|Hadoop|Spark|Hive|Machine learning,5,5.0,5+ years of data warehousing or data engineering experience,bachelor,bachelor
+153,Sr Scientist - Extractables & Leachables,,,4,12.0,a minimum of 12 years experience,bachelor,bachelor
+154,ELISA RESEARCH SCIENTIST (CV-15),Statistics,,2,2.0,"Minimum 2 years of industry-based experience, post Ph.D.",phd,phd
+155,Sr Data Scientist,Python|SAS|MATLAB|Machine learning|Statistics|Excel,Python|MATLAB|SAS|Excel|Statistics|Machine learning,3,,,master,master
+156,Data Scientist,Python|R|Java|AWS|TensorFlow|Keras|NLP|Deep learning|Machine learning|Statistics,Python|R|Java|Machine learning|Deep learning|NLP|TensorFlow|Keras|AWS|Statistics,,,,not_stated,not_stated
+157,Experienced Data Scientist,Python|SQL|R|Java|C++|MATLAB|Spark|Hadoop|AWS|TensorFlow|NumPy|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|NumPy|MATLAB|Tableau|AWS|Machine learning|Statistics|Deep learning|TensorFlow|Spark|Hadoop|Java|C++,10,10.0,10+ years of professional work experience in a quantitative field,master,master
+158,Machine Learning Engineer,Python|R|Java|C++|TensorFlow|PyTorch|Keras|Deep learning|Machine learning|Statistics,Python|R|Java|C++|TensorFlow|PyTorch|Keras|Machine learning|Deep learning,2,2.0,2+ years experience coding GANs to produce desired results.,master,not_stated
+159,Data Scientist,SAS|Machine learning|Statistics,Machine learning|Statistics|Deep learning,15,15.0,Masters Degree in a related discipline and 15 years of overall related experience.,master,master
+160,Data Scientist,Python|SQL|Spark|Hive|AWS|GCP|TensorFlow|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Spark|Hive|AWS|GCP|TensorFlow|Scikit-learn|Machine learning|Deep learning|NLP|Statistics,2,2.0,2-4 years of data science experience,not_stated,not_stated
+161,Say Business Data Analyst,Python|SQL|R|AWS|Machine learning|Statistics|Tableau|Excel,SQL|Excel|AWS|Tableau|Statistics|Machine learning|Python|R,,,,not_stated,not_stated
+162,Geospatial Data Scientist,,AWS,8,8.0,8 years of relevant experience,bachelor,bachelor
+163,Data Analyst,Python|SQL|R|Statistics|Excel,SQL|R|Python,3,3.0,You have 3 to 4 years of experience,bachelor,bachelor
+164,Computational Scientist,,,3,3.0,3+ years of experience with HPC science or engineering programs,bachelor,not_stated
+165,Data Scientist,Python|SQL|R|Azure|Machine learning|Statistics|Power BI,Python|SQL|R|Statistics|Power BI|Machine learning|Deep learning|Azure,5,5.0,Bachelor’s degree with 5 years of work experience,bachelor,bachelor
+166,Senior Data Analyst,Python|SQL|R|Spark|Hadoop|Hive|Git,Python|SQL|R|Git|Hadoop|Spark|Hive,2,2.0,2+ years in an Analyst role,not_stated,not_stated
+167,Senior Data Analyst,Python|SQL|R|Java|Scala|SAS|Spark|Hadoop|Hive|Kafka|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Scala|SAS|Hadoop|Hive|Spark|Kafka|Tableau|Power BI|Machine learning,,,,master,master
+168,Data Engineer,Python|SQL|Java|Scala|C++|Spark|Hadoop|Kafka|AWS|Statistics,Python|SQL|Java|Scala|C++|Spark|Hadoop|Kafka|AWS|Statistics,5,5.0,5+ years of experience,bachelor,bachelor
+169,Sr Data Analyst,SQL|R|Tableau,SQL|R|Tableau,2,2.0,2+ years of data analysis experience,bachelor,bachelor
+170,Data Scientist,Machine learning|Statistics|Excel,Machine learning|Statistics|Excel,3,3.0,Bachelor’s degree and 3 years of work experience,bachelor,bachelor
+171,"Machine Learning Scientist - Bay Area, CA",Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Deep learning|Git|Docker|AWS,2,,,master,master
+172,Data Scientist,Python|R|Java|Scala|Git|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|Deep learning|Machine learning|Statistics,,,,master,master
+173,Senior Data Scientist - Algorithms,Python|Scala|Hadoop|Git|Scikit-learn|Pandas|Machine learning|Statistics,Python|Scala|Hadoop|Git|Machine learning|Deep learning|Scikit-learn|Pandas|Statistics,7,7.0,7+ years experience as a data scientist,master,master
+174,Data Analyst,Python|SQL|Excel,Python|SQL|Excel,,,,bachelor,bachelor
+175,Senior Data & Machine Learning Scientist,Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Deep learning|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Deep learning|Git|Docker|AWS,5,5.0,5+ years full time employment or postdoctoral experience,master,master
+176,Data Engineer,Python|SQL|R|AWS|Azure,SQL|Azure|AWS|Python|R,,,,not_stated,not_stated
+177,"Data Scientist - Statistics, Early Career",Machine learning|Statistics,Statistics|Machine learning,2,2.0,BS/BA with 2 years of experience,bachelor,bachelor
+178,Data Scientist,Python|SQL|R|Java|Scala|C++|MATLAB|Hadoop|Hive|Azure|Scikit-learn|Machine learning|Statistics|Power BI,Python|SQL|R|Java|Scala|C++|MATLAB|Hadoop|Hive|Azure|Power BI|Scikit-learn|Machine learning|Deep learning,5,5.0,5+ years of relevant working experience,bachelor,bachelor
+179,Machine Learning Engineer,Python|TensorFlow|PyTorch|Machine learning,Python|TensorFlow|PyTorch|Machine learning,1,1.0,1-3 years experience,bachelor,bachelor
+180,Research Scientist - Patient-Centered Research (Remote),SAS|Statistics|Excel,SAS|Excel|Statistics,5,5.0,more than 5 years’ experience,master,master
+181,Jr. Business Data Analyst (position added 6/12/2020),Statistics,,,,,bachelor,bachelor
+182,Sr. Data Scientist II,Python|SQL|R|Spark|Hadoop|Hive|TensorFlow|PyTorch|Keras|Scikit-learn|Pandas|NumPy|NLP|Statistics,Python|R|Hadoop|Hive|Spark|Pandas|NumPy|Scikit-learn|Keras|TensorFlow|PyTorch|NLP|Machine learning|Statistics,3,3.0,3 years of work experience in data science or related field,not_stated,bachelor
+183,Data Scientist,Python|R|C++|TensorFlow|PyTorch|Keras|Deep learning|Statistics,Python|R|C++|TensorFlow|PyTorch|Keras|Machine learning|Deep learning|Statistics,3,3.0,A minimum of 3 years of related experience is required.,bachelor,bachelor
+184,Senior Data Analyst,Python|SQL|R|Statistics|Tableau,Python|R|SQL|Tableau,,,,not_stated,not_stated
+185,Lead Data Scientist,Python|SQL|R|Spark|Hadoop|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,Python|SQL|R|Hadoop|Spark|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,7,7.0,7+ years working with data and relevant computational frameworks and systems,master,master
+186,Production Engineer - Statistics/Data Analysis,Python|R|MATLAB|Statistics,Python|R|MATLAB|Statistics,,0.0,0-2 years of relevant and related experience.,bachelor,bachelor
+187,Statistical Scientist,Python|R|SAS|GCP|Deep learning|Machine learning|Statistics,SAS|R|Python|Machine learning|Deep learning|Statistics,2,2.0,2+ years relevant industry experience,phd,master
+188,Computational Behavioral Scientist,Python|SQL|R|Java|C++|MATLAB|Machine learning|Statistics,Python|R|Java|C++|MATLAB|Machine learning|Statistics,5,5.0,5+ years combined experience,not_stated,master
+189,Principal Data Scientist - Machine Learning,Python|R|Scala|Spark|Hadoop|AWS|GCP|Machine learning,Python|SQL|R|Scala|Hadoop|Spark|AWS|GCP|Machine learning|Deep learning|NLP,,,,master,master
+190,Principal Machine Learning Scientist,Python|SQL|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Machine learning|NumPy|Pandas|Scikit-learn,4,4.0,4+ years industry experience shipping production machine learning models.,master,master
+191,Data Engineer,Python|Java|AWS|GCP,Python|Java|AWS|GCP,,,,not_stated,not_stated
+192,Principal Data Scientist,Python|R|Machine learning|Statistics|Excel,Python|R|Machine learning|Statistics,,,,master,master
+193,Data Scientist,Python|SQL|Machine learning,Python|SQL|Machine learning|AWS,,,,not_stated,not_stated
+194,Senior Data Scientist - R&D Oncology,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,2,2.0,Minimum 2+ years of experience,master,master
+195,Data Scientist,Python|SQL|Spark|Kafka|AWS|Pandas|Machine learning|Statistics,Python|SQL|Pandas|AWS|Spark|Kafka|Machine learning|Statistics,,,,not_stated,bachelor
+196,"Health Plan Data Analyst, Sr",,,5,5.0,5-8 years of business/ data analysis experience,bachelor,bachelor
+197,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",Statistics,Machine learning,12,12.0,A minimum of 12 years of experience,bachelor,bachelor
+198,Analytics - Business Assurance Data Analyst,SQL|Tableau|Excel,Excel|Tableau|SQL,2,2.0,2 - 3 years of relevant experience,bachelor,not_stated
+199,Data Scientist - Contract,Python|TensorFlow|PyTorch|Scikit-learn|Machine learning,Python|Scikit-learn|TensorFlow|PyTorch|Machine learning,,,,not_stated,not_stated
+200,Data Scientist,SQL|R|SAS|Statistics,R|SQL|SAS,,,,bachelor,bachelor
+201,Data Scientist,Python|Statistics|Excel,Python|Excel|Statistics|Machine learning,3,3.0,3+ years of experience in a consulting role in the IC,bachelor,bachelor
+202,Machine Learning Engineer,Python|MATLAB|Machine learning,Python|MATLAB|Machine learning,,,,bachelor,bachelor
+203,Data Engineer,Python|SQL|Java|Hadoop|Hive|Kafka,Python|SQL|Java|Hadoop|Hive|Kafka,,,,bachelor,bachelor
+204,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",,,,,,not_stated,not_stated
+205,Data Engineer,Python|Java|Kafka|AWS|Statistics|Excel,Python|Java|Kafka|AWS,2,2.0,"2+ years of experience as a developer, analyst, or engineer.",bachelor,bachelor
+206,Data Science Instructor,Machine learning,Machine learning|Deep learning,15,15.0,15+ years of experience in data science or a related field,not_stated,not_stated
+207,Senior Business Intelligence Analyst,SQL|Power BI,SQL|Power BI,6,6.0,6+ years of experience working in software engineering,bachelor,bachelor
+208,In-Line Inspection Data Analyst,,Excel,,3.0,Minimum of 3-years’ experience analyzing ILI data,not_stated,not_stated
+209,Data Scientist - TS/SCI FSP or CI Required,Python|R|Scala|Spark|Git|Machine learning,Python|R|Scala|Spark|Machine learning,,,,bachelor,bachelor
+210,Data Scientist,SQL|MATLAB|Git|TensorFlow|PyTorch|Deep learning|Machine learning|Statistics,Python|SQL|MATLAB|Git|TensorFlow|PyTorch|Machine learning|Deep learning,,,,bachelor,bachelor
+211,Senior Data Scientist,Python|SQL|R|Java|C++|Docker|Machine learning|Statistics,Python|SQL|R|Java|C++|Docker|Machine learning|Deep learning|Statistics,8,8.0,8 years of professional experience as a Data Scientist,bachelor,bachelor
+212,Data Scientist - TS/SCI Required,Python|Spark|Kafka|Docker|Scikit-learn|Pandas|NumPy|Machine learning,Python|Machine learning|Spark|Kafka|Docker|Pandas|NumPy,3,3.0,3+ years of experience as a Data Scientist,bachelor,bachelor
+213,Data Science Software Engineer,Python|Kafka|Pandas|NumPy|Machine learning|Statistics,Python|Pandas|NumPy|Kafka|Machine learning,,,,bachelor,bachelor
+214,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Python|Java|C++,Python|Java|Git,,0.0,0-5 years of experience,bachelor,bachelor
+215,AI Ops Data Scientist,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|Docker|Kubernetes|NLP|Machine learning,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|GCP|Docker|Kubernetes|Machine learning|NLP,2,2.0,More than 2 years of experience,bachelor,bachelor
+216,"Intelligence Data Analyst, Senior",Python,Power BI|Python,,,,not_stated,not_stated
+217,Analytics Manager - Data Mart,SQL|Tableau,SQL|Tableau,,7.0,seven years of experience performing data analysis and manipulation,bachelor,bachelor
+218,Data Modeler (Analytical Systems),SQL|Scala|Spark|Hadoop|Kafka|Snowflake,SQL|Hadoop|Spark|Kafka|Scala,8,8.0,"8+ years experiences with data analytics, data modeling, and database design.",bachelor,bachelor
+219,"Senior Machine Learning Scientist - Bay Area, CA",Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Git|Docker|AWS|Statistics|Deep learning,5,5.0,5+ years of relevant industry or postdoctoral experience.,phd,phd
+220,Report Writer-Data Analyst,SQL,SQL,,,,bachelor,not_stated
+221,Data Scientist/Machine Learning,Python|Spark|Hadoop|Hive|Docker|Git|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|Hadoop|Hive|Spark|NumPy|Pandas|Scikit-learn|Machine learning|Deep learning|NLP|Docker|Git|SQL,3,3.0,3+ years of full-time experience,bachelor,master
+222,Data Scientist - Risk,Python|R|SAS|Spark|Hadoop|Kafka|AWS|TensorFlow|Statistics|Tableau|Power BI|Excel,Python|R|SAS|TensorFlow|Hadoop|Spark|Kafka|Tableau|Power BI|Excel|AWS|Statistics,5,5.0,5+ years of experience of hands-on data science role,bachelor,bachelor
+223,Data Engineer,Python|SQL|R|AWS|Azure,Python|SQL|R|AWS|Azure,,,,not_stated,not_stated
+224,Staff Data Scientist - Pricing,Python|SQL|R|Statistics,Python|SQL|R|Machine learning|Statistics,5,5.0,5+ years of experience,not_stated,not_stated
+225,Data Scientist,Python|SQL|R|Machine learning|Statistics,Python|SQL|R|Machine learning|Statistics,,,,not_stated,not_stated
+226,Data Scientist,Python|SQL|R|Spark|Hadoop|Hive|NLP|Machine learning|Statistics,Python|SQL|R|Spark|Hadoop|Hive|NLP|Machine learning|Statistics,2,2.0,minimum 2 years of hands on experience in data sciencemachine learning,master,master
+227,Data Scientist,Python|R|MATLAB|Machine learning|Statistics,Python|R|MATLAB|Machine learning,,5.0,At least a 5-year experience in data science,bachelor,bachelor
+228,Machine Learning Engineer,Python|TensorFlow|PyTorch|Machine learning,Python|TensorFlow|PyTorch|Machine learning,1,1.0,1-3 years experience,bachelor,bachelor
+229,Equity Data Insights Analyst - Quantitative Analyst,Python|R|MATLAB|Machine learning|Statistics|Tableau,Python|R|MATLAB|Statistics|Machine learning|Tableau,3,,,bachelor,bachelor
+230,Data Scientist,Statistics|Excel,Statistics,,4.0,Four years (within the last seven years) experience conducting predictive analytics,not_stated,master
+231,Research Scientist - Patient-Centered Research (Remote),SAS|Statistics|Excel,SAS|Excel|Statistics,5,1.0,more than one year experience in relevant field,master,master
+232,Data Scientist,Python|R|C++|TensorFlow|PyTorch|Keras|Deep learning|Statistics,Python|R|C++|Machine learning|Deep learning|TensorFlow|PyTorch|Keras|Statistics,3,3.0,A minimum of 3 years of related experience is required.,bachelor,bachelor
+233,Operations Data Analyst,,Excel,2,2.0,2 to 5 years of experience,not_stated,not_stated
+234,Sr. Data Scientist II,Python|SQL|R|Spark|Hadoop|Hive|TensorFlow|PyTorch|Keras|Scikit-learn|Pandas|NumPy|NLP|Statistics,Python|SQL|R|Spark|Hadoop|Hive|Pandas|NumPy|Scikit-learn|Keras|TensorFlow|PyTorch|NLP|Machine learning|Statistics,3,3.0,3 years of work experience in data science or related field,not_stated,bachelor
+235,Data Scientist,SQL|C++|SAS|Statistics|Excel,SQL|SAS|C++|Excel|Statistics,,,,not_stated,bachelor
+236,Data Scientist,Python|SQL|R|Hadoop|Statistics|Tableau,SQL|Python|R|Tableau|Hadoop|Statistics,7,7.0,At least 7+ years of experience,not_stated,not_stated
+237,Data Scientist,Python|R|Java|Scala|Spark|Hadoop|Hive|Machine learning,Python|R|Java|Scala|Hadoop|Hive|Spark|Machine learning,1,,,master,master
+238,Senior Data Analyst,Python|SQL|R|Statistics|Tableau,SQL|Python|R|Tableau,,,,not_stated,not_stated
+239,Data Scientist,Python|TensorFlow|Scikit-learn|Pandas|NumPy,Python|TensorFlow|Scikit-learn|Pandas|NumPy,2,2.0,Experience 2-8 years,not_stated,not_stated
+240,Data Scientist,Python|SQL|PyTorch|Keras|Scikit-learn|Pandas|Deep learning|Machine learning,Python|SQL|Scikit-learn|Pandas|Deep learning|Machine learning|Keras|PyTorch,3,3.0,3+ years real world experience in a data science or equivalent role,not_stated,not_stated
+241,Senior Research Statistician- Data Scientist,R|SAS|Statistics,R|SAS|Statistics|Machine learning,5,5.0,"5 years P&C insurance, modelling and project leader experience",master,master
+242,Software Data Engineer,Python|Airflow|AWS|Docker|Kubernetes,Python|Airflow|Docker|Kubernetes|AWS,1,1.0,At least 1-2 years of professional experience programming in Python,bachelor,bachelor
+243,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,5,2.0,The company will also accept a Master's degree and 2 years of experience.,bachelor,bachelor
+244,Real World Evidence (RWE) Scientist,Python|SQL|R|Statistics,R|SQL|Python|Statistics,3,3.0,3+ years relevant work experience,bachelor,bachelor
+245,Data Scientist,Python|SQL|R|Git|NLP|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|Tableau|NLP|Deep learning|Machine learning|Statistics,3,3.0,at least 3 years of relevant industry experience,master,master
+246,Data Scientist,Python|SQL|R|Pandas|NumPy|Deep learning|Machine learning|Statistics,Python|SQL|R|Machine learning|Deep learning|Statistics|NumPy|Pandas,1,1.0,1 year of experience delivering solutions in at least two of the following,bachelor,bachelor
+247,Data Scientist,Python|SQL|R|SAS|Spark|Hive|TensorFlow|PyTorch|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|SAS|Spark|Hive|TensorFlow|PyTorch|Scikit-learn|Machine learning|Deep learning|NLP|Statistics,,,,bachelor,bachelor
+248,Data Scientist,Python|R|Statistics,Python|R,3,3.0,3+ years of experience doing quantitative analysis,bachelor,bachelor
+249,Computer Scientist 1,Python|Java|C++|MATLAB|Machine learning,Python|MATLAB|C++|Java|Machine learning,,,,bachelor,bachelor
+250,Lead Data Scientist,Python|SQL|R|Spark|Hadoop|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,Python|SQL|R|Hadoop|Spark|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,7,7.0,7+ years working with data and relevant computational frameworks and systems,master,master
+251,Data Scientist,SQL|Statistics,SQL|Statistics,5,5.0,5+ years,not_stated,not_stated
+252,Data Scientist,Python|SQL|R|Java|SAS|Machine learning|Statistics,Python|SQL|R|Java|SAS|Machine learning|Statistics|Excel,7,7.0,7-10 Years of experience applying advanced analytics,bachelor,bachelor
+253,Data Scientist,Python|R|Machine learning|Statistics|Excel,Python|R|Machine learning|Statistics,,6.0,At least six years of professional work experience,master,master
+254,Data Scientist,Python|R|Statistics,Python|R|Machine learning|Statistics,3,3.0,3-5 years of overall experience,not_stated,not_stated
+255,Data Scientist,Python|SQL|AWS|PyTorch|NLP|Deep learning|Machine learning|Statistics,Python|SQL|AWS|PyTorch|Machine learning|Deep learning|NLP|Statistics,2,2.0,2 years professional experience,bachelor,bachelor
+256,Environmental Data Science,SQL|R|MATLAB|Statistics,SQL|R|MATLAB|Statistics,2,2.0,MS with 2 years’ experience,bachelor,bachelor
+257,Computational Behavioral Scientist,Python|SQL|R|Java|C++|MATLAB|Machine learning|Statistics,Python|SQL|R|Java|C++|MATLAB|Machine learning,5,5.0,5+ years combined experience,not_stated,master
+258,Data Scientist,Python|SQL|TensorFlow|Scikit-learn|NLP|Machine learning|Excel,SQL|Excel|Python|Scikit-learn|NLP|TensorFlow|Machine learning,2,4.0,4+ years of experience in data analysis and / or software development,bachelor,bachelor
+259,Staff BI and Data Engineer,Python|SQL|Spark|Statistics|Tableau,Python|SQL|Tableau|Spark,3,3.0,At least 3 years of hands-on experience,bachelor,bachelor
+260,Principal Machine Learning Scientist,Python|SQL|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Machine learning|Pandas|NumPy|Scikit-learn,4,4.0,4+ years industry experience shipping production machine learning models.,master,master
+261,Principal Data Scientist - Machine Learning,Python|R|Scala|Spark|Hadoop|AWS|GCP|Machine learning,Python|SQL|R|Scala|Hadoop|Spark|AWS|GCP|Machine learning|Deep learning|NLP|Tableau|Power BI|Statistics,,,,master,master
+262,Data Scientist-Human Resources,Python|SQL|R|SAS|MATLAB|Spark|Hadoop|Hive|Machine learning|Statistics|Power BI,Python|SQL|R|SAS|MATLAB|Spark|Hadoop|Hive|Power BI|Machine learning|Statistics,5,5.0,5-8 years of relevant experience,bachelor,bachelor
+263,Associate Data Scientist,SQL|Spark|Hadoop|Git|Machine learning|Excel,SQL|Spark|Hadoop|Git|Machine learning,6,6.0,6+ years IT experience,bachelor,bachelor
+264,"Data Scientist - Statistics, Mid-Career",Machine learning|Statistics,Machine learning|Statistics,5,1.0,PhD with 1 year of experience,bachelor,bachelor
+265,Director of Data Science,Python|SQL|R|Java|C++|AWS|NLP|Statistics,Python|SQL|R|Java|C++|AWS|NLP|Statistics,,3.0,at least three years of relevant experience in the field,phd,master
+266,Data Scientist,Python|SQL|R|Statistics|Tableau|Excel,SQL|R|Python|Tableau|Excel|Pandas,,2.0,Minimum of two (2) or more years of experience in Data Science,not_stated,bachelor
+267,Data Scientist,Python|Spark|Hadoop|Hive|AWS|Machine learning,Python|Hadoop|Hive|AWS|Spark|Machine learning,,,,bachelor,bachelor
+268,Data Scientist,Python|SQL|R|Hadoop|Statistics|Tableau,Python|SQL|R|Hadoop|Tableau|Statistics,,,,bachelor,bachelor
+269,"Data Engineer, Digital & Comp Pathology",Python|SQL|AWS,Python|SQL|AWS,6,6.0,6+ years of industry experience as a software engineer,master,master
+270,Data Engineer,Python|Java|AWS|GCP,Python|Java|AWS|GCP,,,,not_stated,not_stated
+271,"Manager / Lead, Data Science & Analytics",Python|SQL|R|C++|SAS|MATLAB|AWS|Azure|TensorFlow|Keras|Scikit-learn|Machine learning|Statistics|Tableau|Power BI|Excel,Python|SQL|R|SAS|MATLAB|Azure|AWS|Excel|Power BI|Tableau|Scikit-learn|TensorFlow|Keras|Statistics|Machine learning,5,5.0,Minimum of 5 years of relevant work-related experience,master,master
+272,Data Scientist,Python|SQL|R|AWS|Machine learning|Statistics|Tableau,SQL|Python|R|AWS|Machine learning|Statistics|Tableau,,,,bachelor,bachelor
+273,Data Scientist,Python|SQL|R|SAS|Spark|Git|Deep learning,Python|SQL|R|SAS|Git|Spark|NLP|Deep learning,,4.0,Minimum four years of experience,bachelor,bachelor
+274,Data Scientist,Python|SQL|Machine learning,Python|SQL|GCP|Machine learning,,,,not_stated,not_stated
+275,Data Scientist,Python|R|Java|C++|MATLAB|Machine learning|Statistics,Python|R|Java|C++|MATLAB|Machine learning|Statistics,,,,bachelor,bachelor
+276,Diversity and Inclusion Data Analyst,Statistics|Tableau,Tableau|Statistics,,3.0,Three years of related experience,bachelor,bachelor
+277,Data Scientist,Python|SQL|R|Java|Scala|Spark|Hadoop|TensorFlow|Keras|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|Java|Scala|Spark|Hadoop|Tableau|TensorFlow|Keras|Machine learning|Deep learning,,3.0,Master's Degree with three \(3\) to five \(5\) years of experience,bachelor,bachelor
+278,Data Scientist,Machine learning|Statistics,Statistics|Machine learning,2,2.0,for 2+ years professionally or academically,bachelor,bachelor
+279,Data Scientist,R|Spark|Scikit-learn|NLP|Machine learning|Statistics,R|Spark|Machine learning|NLP|Scikit-learn|Statistics,3,3.0,3 years of experience in data analytics or data science,master,master
+280,Data Scientist,Python|SQL|Java|AWS|Azure|GCP|Tableau,Python|Java|SQL|AWS|Azure|GCP|Tableau,4,4.0,4+ years of Python or Java development experience,bachelor,bachelor
+281,Data Scientist,Python|SQL|R|Statistics|Tableau|Power BI,Python|SQL|R|Power BI|Tableau,3,1.0,1 3 years experience in a data science role.,bachelor,bachelor
+282,Data Scientist,TensorFlow|Deep learning|Statistics,TensorFlow|Deep learning|Git|Statistics,8,8.0,Experience: 8+ Years,not_stated,not_stated
+283,Senior Analyst/Data Scientist,Python|SQL|R|Statistics|Tableau,Python|SQL|R|Statistics|Tableau,,3.0,with at least three years of related work experience,bachelor,bachelor
+284,Data Scientist,Python|SQL|R|NLP|Machine learning,Python|SQL|R|NLP|Machine learning|Deep learning,5,5.0,5-7 years model building and analytical experience,master,master
+285,Data Scientist,TensorFlow|Deep learning|Statistics,TensorFlow,8,8.0,8+ Years,not_stated,not_stated
+286,Senior Data Scientist - R&D Oncology,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,2,2.0,Minimum 2+ years of experience,master,master
+287,Data Scientist,Python|SQL|Spark|Hadoop|Hive|Kafka,Python|SQL|Spark|Hadoop|Hive|Kafka,,3.0,"Three (or more) years of experience working as a data engineer, ETL developer and/or data warehouse DBA.",bachelor,bachelor
+288,Data Scientist,Python|SQL|Spark|Kafka|AWS|Pandas|Machine learning|Statistics,Python|SQL|AWS|Pandas|Statistics|Spark|Kafka|Machine learning,,,,not_stated,bachelor
+289,Data Scientist,Python|SQL|Statistics,Python|R|SQL|Statistics,3,3.0,3+ years of hands-on experience analyzing and interpreting data,not_stated,bachelor
+290,Data Scientist,Python|SQL|R|AWS|Azure|GCP|Tableau|Power BI,Python|SQL|R|AWS|Azure|GCP|Tableau|Power BI,,,,not_stated,not_stated
+291,Data Scientist,Python|R|Machine learning|Statistics,Python|R|SQL|Machine learning|Statistics,2,2.0,At least 2 years of experience in IT as Data scientist,bachelor,bachelor
+292,Data Scientist Machine Learning,Python|TensorFlow|PyTorch|Deep learning|Machine learning|Statistics,Python|Pandas|Scikit-learn|TensorFlow|Keras|PyTorch|Deep learning|Machine learning|NLP,8,8.0,with at least 8 years of experience,bachelor,bachelor
+293,Data Scientist,Python|SQL|Spark|Snowflake|AWS|Git|TensorFlow|PyTorch|Keras|Scikit-learn|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|Scikit-learn|Tableau|Git|Spark|Snowflake|AWS|PyTorch|Keras|TensorFlow|Machine learning|Statistics,,,,not_stated,bachelor
+294,Data Scientist,Python|SQL|SAS|Statistics,Python|SQL|R|SAS|Statistics,5,5.0,5+ years’ statistical data analysis experience,bachelor,bachelor
+295,Data Scientist,Python|SQL|R|Java|Statistics,Python|SQL|R|Java|Statistics,,5.0,At least five (5) years of FTE experience,not_stated,not_stated
+296,Data Scientist,Python|SQL|R|Java|Scala|Spark|NLP|Deep learning,Python|SQL|R|Java|Scala|Spark|NLP|Deep learning|Machine learning,,,,not_stated,not_stated
+297,Data Analyst,SQL|Machine learning|Tableau|Power BI,SQL|Tableau|Power BI|Machine learning,5,5.0,5+ years of data analysis experience is required,master,bachelor
+298,Data Scientist,Python|SQL|Spark|Kafka|TensorFlow|PyTorch|Machine learning,Python|SQL|Kafka|Spark|TensorFlow|PyTorch|Machine learning,4,4.0,Over four years of experience,not_stated,not_stated
+299,Data Scientist,,,,,,not_stated,not_stated
+300,Data Scientist,Python|SQL|R|SAS|Hadoop|Azure|Statistics,Python|SQL|R|SAS|Hadoop|Azure|Statistics,10,10.0,More than 10+ years of experience,bachelor,bachelor
+301,Data Scientist,Python|SQL|R|Java|Scala|AWS|Azure|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|Java|Scala|Azure|Deep learning|Machine learning|NLP|Statistics,5,5.0,At least 5 years of working experience,not_stated,not_stated
+302,Data Scientist,Python|R|Spark|Hadoop|Hive|NLP|Machine learning|Statistics,Python|SQL|R|Hadoop|Hive|Spark|Machine learning|Statistics|NLP|Deep learning,4,4.0,4-6 years of experience,master,master
+303,Data Scientist,Machine learning|Statistics,Statistics,,,,not_stated,not_stated
+304,Data Scientist,Python|R|SAS|NLP|Machine learning|Statistics|Tableau,Python|SQL|R|SAS|Tableau|Machine learning|Statistics|NLP,10,10.0,10 years of relevant experience,bachelor,bachelor
+305,Chief Scientist,Python|Machine learning,Python|Machine learning,,,,phd,phd
+306,Data Scientist,Python|SQL|R|SAS|Git|TensorFlow|PyTorch|Keras|NLP|Machine learning|Statistics|Tableau,Python|SQL|R|SAS|Machine learning|NLP|Keras|TensorFlow|PyTorch|Statistics|Tableau|Git,3,1.0,PhD with 1+ years of experience,bachelor,bachelor
+307,Data Scientist,Python|R|Machine learning|Statistics,R|Python|Statistics|Machine learning,3,,,phd,not_stated
+308,Data Scientist,Python|R|Java|Scala|Git|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|Machine learning|Deep learning|Statistics,,,,master,master
+309,Data Scientist,,,,10.0,Ten (10) years of experience as a Data Scientist,bachelor,bachelor
+310,Data Scientist,Python|R|Java|Scala|Spark|Hadoop|Hive|TensorFlow|PyTorch|Keras|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|Spark|Hadoop|Hive|Scikit-learn|NLP|Machine learning|Deep learning|Statistics|PyTorch|TensorFlow|Keras,5,8.0,8 plus years of relevant experience,bachelor,bachelor
+311,"Health Plan Data Analyst, Sr",,,5,5.0,5-8 years of business/ data analysis experience,bachelor,bachelor
+312,"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",Statistics,Machine learning|Statistics,12,12.0,A minimum of 12 years of experience,bachelor,bachelor
+313,Data Scientist,Python|R|SAS|Machine learning|Statistics|Tableau,SQL|R|Python|SAS|Machine learning|Tableau|Statistics,3,3.0,3-5 years of practical experience,bachelor,bachelor
+314,Senior Data Scientist,Python|SQL|Spark|AWS|Machine learning|Statistics,Python|SQL|AWS|Spark|Machine learning,2,2.0,2+ years experience building and deploying machine learning models in production,not_stated,bachelor
+315,Data Scientist,Python|Java|Scala|C++|Spark|Hadoop|Hive|TensorFlow|Machine learning|Statistics,Python|Hadoop|Spark|Hive|Java|Scala|C++|TensorFlow|Machine learning,2,2.0,2+ years of experience dealing with big datasets,bachelor,bachelor
+316,Data Scientist,Python|SQL|R|Machine learning,Python|R|SQL|Machine learning,1,1.0,1 - 5 years in Data Analytics,bachelor,bachelor
+317,Data Scientist,Python|R|Machine learning|Statistics|Tableau|Excel,Python|R|Excel|Tableau|Machine learning|Statistics,,,,not_stated,not_stated
+318,Analytics - Business Assurance Data Analyst,SQL|Tableau|Excel,SQL|Excel|Tableau,2,2.0,2 - 3 years of relevant experience,bachelor,not_stated
+319,Data Scientist,SQL|R|MATLAB|Hive|NumPy|Machine learning|Statistics,Machine learning|R|NumPy|MATLAB|SQL|Hive|Statistics,,,,not_stated,not_stated
+320,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,5,5.0,ÂAtÂleast 5 years relevant experience required.,not_stated,not_stated
+321,"Development Scientist, Voltaren",Statistics,Statistics,5,2.0,at least 2 years with a masters degree,bachelor,bachelor
+322,Data Scientist,Excel,Excel,5,5.0,minimum of 5 years of related experience,bachelor,bachelor
+323,Data Scientist,Python|R|Machine learning|Statistics|Tableau,Python|R|Tableau|Machine learning,2,2.0,Minimum 2 years of relevant working experience,bachelor,bachelor
+324,Data Scientist,Python|R|Java|C++|MATLAB|NLP|Machine learning|Excel,Python|Java|C++|MATLAB|Excel|Machine learning|NLP,,,,not_stated,not_stated
+325,Data Engineer,Python|SQL|Java|Hadoop|Hive|Kafka,Python|SQL|Java|Hadoop|Hive|Kafka,,,,bachelor,bachelor
+326,Data Scientist,SQL|Azure|Machine learning|Statistics,Azure|Statistics|Machine learning,,,,not_stated,not_stated
+327,Data Scientist,Python|R|Machine learning|Statistics,Python|R|Statistics|Machine learning,3,3.0,A minimum of 3 years of Data Science experience,not_stated,master
+328,Data Scientist,Python|SQL|Spark|AWS|Git|Statistics,Python|SQL|AWS|Git,,,,bachelor,bachelor
+329,Data Scientist,Python|SQL|AWS|Git|NLP|Machine learning|Statistics|Excel,Python|SQL|Excel|Git|Statistics|Machine learning|NLP|AWS,,,,not_stated,not_stated
+330,Machine Learning Engineer,Python|MATLAB|Machine learning,Python|MATLAB|Machine learning,,,,bachelor,bachelor
+331,Principal Data & Analytics Platform Engineer,Python|SQL|Scala|Spark|Hive|AWS|Azure|Docker,Python|SQL|Scala|Spark|Hadoop|Hive|Docker|Kubernetes|AWS|Azure,7,7.0,Bachelors degree and 7 years of cloud engineering/architecture experience is required.,bachelor,bachelor
+332,Machine Learning Engineer/Scientist,TensorFlow|PyTorch|Machine learning,Machine learning|TensorFlow|PyTorch,,3.0,At least three years experience building ML infrastructure and production models in an industrial setting.,not_stated,not_stated
+333,Data Scientist,Python|SQL|AWS|Git|Machine learning|Statistics|Excel,Python|SQL|Excel|Git|AWS|Machine learning|Statistics,,,,not_stated,not_stated
+334,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",,,,,,not_stated,not_stated
+335,Data Scientist,Machine learning|Statistics|Excel,Machine learning|Statistics|Excel,3,3.0,Bachelor s degree and 3 years of work experience,bachelor,bachelor
+336,Data Scientist,Python|SQL|R|Git|Deep learning|Machine learning|Statistics,Python|R|SQL|Statistics|Machine learning|Deep learning|Git,1,1.0,1 - 2 years,bachelor,bachelor
+337,Data Scientist,SQL,SQL,8,8.0,8 years experience,bachelor,bachelor
+338,Data Scientist,Python|R|Java|Scala|Machine learning,Python|R|Java|Scala|Machine learning,,,,not_stated,not_stated
+339,Machine Learning Engineer,Python|Java|TensorFlow|PyTorch|NLP|Machine learning,Python|Java|Machine learning|TensorFlow|PyTorch,,2.0,PhD in Computer Science or equivalent experience with two (2) years of experience,bachelor,bachelor
+340,Data Analyst - Unilever Prestige,Python|SQL|R|SAS|Snowflake|Tableau,Python|SQL|R|SAS|Snowflake|Tableau|Machine learning,3,3.0,3+ years of experience in developing Analytics/BI applications and analyzing data,bachelor,bachelor
+341,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|Python|R|Tableau|Machine learning|Statistics,5,5.0,5+ years as a data scientist,not_stated,not_stated
+342,"VP, Data Science",Python|R|Spark|Deep learning|Machine learning|Statistics,Python|R|Spark|Machine learning|Deep learning|Statistics,8,8.0,Minimum 8+ Years of relevant professional experience,master,master
+343,Data Scientist,Python|R|Spark|TensorFlow|NLP|Machine learning|Statistics,Python|R|Spark|TensorFlow|NLP|Machine learning,5,5.0,5+ years of industry experience in applying AI/ML,phd,phd
+344,Data Scientist,Python|Deep learning|Machine learning|Statistics,Python|Machine learning|Deep learning|Statistics,2,2.0,2+ years of experience in Data Science or Machine Learning,master,master
+345,Senior Business Intelligence Analyst,SQL|Power BI,SQL|Power BI,6,6.0,6+ years of experience working in software engineering,bachelor,bachelor
+346,Data Scientist,,,,,,not_stated,not_stated
+347,Data Engineer - Kafka,Python|R|Java|C++|SAS|Spark|Hadoop|Kafka|AWS|Kubernetes|Deep learning|Machine learning|Statistics,Python|R|Java|C++|SAS|Spark|Hadoop|AWS|Kafka|Kubernetes|Machine learning|Deep learning|Statistics,,,,bachelor,bachelor
+348,Data Scientist,Python|R|Java|Scala|Spark|Hadoop|Hive|TensorFlow|PyTorch|Keras|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|Spark|Hadoop|Hive|Scikit-learn|Machine learning|Deep learning|Statistics|PyTorch|TensorFlow|Keras|NLP,5,7.0,7 plus years of relevant experience,bachelor,bachelor
+349,Data Scientist,Machine learning,Machine learning,,,,master,master
+350,Data Scientist,SQL|AWS,SQL|AWS|Machine learning|Git|Docker|Kubernetes|Scikit-learn|Pandas|NumPy|Python|Java|Scala|Spark|Hadoop|Hive|Kafka|Airflow|Snowflake|Azure|GCP|TensorFlow|PyTorch|Keras|NLP|Deep learning|Statistics|Tableau|Power BI|Excel|R|C++|SAS|MATLAB,,,,master,not_stated
+351,Data Scientist,Machine learning,Machine learning,,,,not_stated,not_stated
+352,Decision Scientist,Spark|Statistics,Statistics,10,10.0,Have 10 years of experience in the defense industry,bachelor,bachelor
+353,Data Scientist,Python|Spark|AWS|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|AWS|Spark|Machine learning|Statistics,5,5.0,5+ years of work experience,master,master
+354,Data Science All Star Program - Data Engineer Track,Python|SQL|Java|Scala|Spark|Hadoop|Hive|AWS|Azure|Kubernetes|Machine learning|Statistics,Python|SQL|Scala|Java|Spark|Hadoop|Hive|Kubernetes|AWS|Azure|Machine learning|Statistics,1,1.0,1+ years’ professional experience,master,master
+355,Data Scientist - TS/SCI FSP or CI Required,Python|R|Scala|Spark|Git|Machine learning,Python|R|Scala|Spark|Machine learning|Deep learning,,,,bachelor,bachelor
+356,Data Analyst,Python|SQL|R|Tableau|Excel,SQL|Python|R|Tableau|Excel,,,,bachelor,bachelor
+357,Data Scientist,Python|R|Scala|Spark|AWS|Machine learning|Statistics,Python|R|Scala|AWS|Spark,3,3.0,Minimum 3+ years experience applying data science techniques,bachelor,bachelor
+363,Senior Data Scientist,Python|SQL|R|Java|C++|Docker|Machine learning|Statistics,Python|SQL|R|Java|C++|Docker|Machine learning|Deep learning|Statistics,8,8.0,8 years of professional experience as a Data Scientist,bachelor,bachelor
+364,Data Scientist,Python|SQL|Scikit-learn|Pandas|NLP|Machine learning|Statistics|Tableau|Power BI|Excel,Python|SQL|Pandas|Scikit-learn|NLP|Machine learning|Statistics|Tableau|Power BI|Excel,3,3.0,at least 3 years of experience,master,master
+365,Data Scientist,Python|SQL|R|Java|Scala|Spark|TensorFlow|Deep learning|Machine learning,Python|R|Java|Scala|Spark|SQL|TensorFlow|Machine learning|Deep learning,3,3.0,3+ years experience,master,master
+366,Data Scientist,Python|SQL|R|Java|C++|Spark|Hadoop|Git|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|Java|C++|Spark|Hadoop|Git|Tableau|Machine learning|Deep learning|Statistics,4,10.0,10 years of experience in data science or a related field,bachelor,bachelor
+367,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Python|Java|C++,Python|Java|Git,,0.0,0-5 years of experience,bachelor,bachelor
+368,Data Scientist,Python|SQL|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Deep learning|Statistics,2,,,bachelor,bachelor
+369,Data Science Software Engineer,Python|Kafka|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|Kafka|Machine learning,,,,bachelor,bachelor
+370,AI Ops Data Scientist,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|Docker|Kubernetes|NLP|Machine learning,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|GCP|Docker|Kubernetes|Git|Machine learning|NLP,2,2.0,More than 2 years of experience,bachelor,bachelor
+371,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,,,,bachelor,bachelor
+372,Data Scientist,Python|Java|C++|Hadoop|Hive|Machine learning,Python|Java|C++|Hadoop|Hive|Machine learning,5,3.0,a Master's with 3 yrs of experience,bachelor,bachelor
+373,Data Scientist,Python|SQL|R|Machine learning|Statistics,R|Python|SQL|Machine learning|Statistics,,,,master,not_stated
+374,Scientist - Machine Learning,Machine learning,Machine learning|Deep learning,2,0.0,0 2 years relevant postdoctoral experience,phd,phd
+375,Data Scientist,Python|R|SAS|Machine learning|Statistics,Python|R|SAS|Machine learning,3,3.0,Master's degree in Statistics and 3 years of related experience,master,master
+376,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|R|Python|Tableau|Statistics,5,5.0,5+ years of experience,bachelor,bachelor
+377,Sr. Data Scientist,Python|SQL|Machine learning|Statistics,Python|SQL|Machine learning,,,,bachelor,bachelor
+378,Data Scientist,Python|SQL|R|Machine learning,Python|SQL|R|Machine learning,,,,not_stated,not_stated
+379,Data Scientist,Python|SQL|Java|Scala|Kafka|Docker|Kubernetes|NLP|Machine learning|Statistics,Python|SQL|R|Java|Scala|Kafka|Docker|Kubernetes|NLP|Machine learning|Statistics,,,,not_stated,not_stated
+380,Analytics Manager - Data Mart,SQL|Tableau,SQL|Tableau,,7.0,seven years of experience performing data analysis and manipulation,bachelor,bachelor
+381,Data Modeler (Analytical Systems),SQL|Scala|Spark|Hadoop|Kafka|Snowflake,SQL|Hadoop|Spark|Kafka|Scala,8,8.0,"8+ years experiences with data analytics, data modeling, and database design",bachelor,bachelor
+382,Applied AI Scientist / Engineer,Python|SQL|MATLAB|TensorFlow|Keras|Deep learning|Machine learning|Statistics,Python|SQL|MATLAB|Statistics|Machine learning|Deep learning|TensorFlow|Keras|PyTorch,3,3.0,3-5 years of expereince,master,not_stated
+383,"Data Engineer (Analytics, SQL, Python, AWS)",Python|SQL|Spark|Hive|AWS|Git,Python|SQL|Spark|Hive|AWS,,5.0,Five years of experience supporting business technology systems required.,bachelor,not_stated
+384,Senior Data Analyst - Finance & Platform Analytics,Python|SQL|R|Statistics|Tableau,SQL|Tableau|Python|R|Statistics,8,8.0,8+ years of domain experience,bachelor,bachelor
+385,Senior Data Scientist,Machine learning|Statistics,Machine learning|Statistics,5,5.0,5+ years,bachelor,bachelor
+386,Market Research Data Scientist,R|SAS|Statistics|Excel,R|SAS|Excel|Statistics,,,,not_stated,not_stated
+387,IT Partner Digital Health Technology and Data Science,,,10,10.0,10+ years IT/Industry Experience.,bachelor,bachelor
+388,Data Scientist,Python|SQL|R|Java|C++|Spark|NLP|Machine learning|Statistics|Tableau,Python|R|Java|C++|Spark|Tableau|Machine learning|Statistics|NLP,3,0.0,0-10+ years of work experience,bachelor,bachelor
+390,"Senior Machine Learning Scientist - Bay Area, CA",Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Statistics|Git|Docker|AWS,5,5.0,5+ years of relevant industry or postdoctoral experience,phd,phd
+391,"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",Python|C++|MATLAB|TensorFlow|Keras|Machine learning,Python|R|MATLAB|Keras|TensorFlow|Machine learning|C++,,,,bachelor,bachelor
+392,Senior Clinical Data Scientist Programmer,R|SAS|GCP|Statistics|Power BI|Excel,SAS|R|Excel|Power BI,7,7.0,A minimum of 7 years SAS and/or ETL programming experience in a business environment required,bachelor,bachelor
+393,Data Engineer,Python|SQL,Python|SQL,3,3.0,Minimum of 3 years experience.,bachelor,bachelor
+394,Computer Vision / Deep Learning Scientist,AWS|Docker|TensorFlow|PyTorch|Keras|Deep learning|Machine learning|Statistics,PyTorch|TensorFlow|Keras|Deep learning|Machine learning|Statistics|AWS|Docker,,,,phd,phd
+395,Data Solutions Engineer - Data Modeler,Python|SQL|Kafka|Snowflake|Power BI,SQL|Python|Snowflake|Kafka|Power BI,5,5.0,"5+ years experience with DBMS (MySQL, SQL Server, Postgres, Oracle, Teradata, Snowflake, DB2)",bachelor,bachelor
+396,Data Scientist,Machine learning,Machine learning,,,,master,not_stated
+397,Data Scientist (TS/SCI w/ Poly),Python|Git|Machine learning,Python|Git|Machine learning,8,8.0,Requires 8 years of relevant experience.,bachelor,bachelor
+398,Weapons and Sensors Engineer/Scientist,Python|Java|C++|MATLAB,Python|C++|Java|MATLAB,3,3.0,with 3+ years of applicable experience,bachelor,bachelor
+399,Applied Computer Scientist,Git,Git,,,,bachelor,bachelor
+400,Senior Data Analyst,Python|SQL|R|Java|Machine learning|Statistics,Python|SQL|R|Java|Machine learning,,5.0,Position requires five (5) years of related experience.,bachelor,bachelor
+401,Cloud Data Engineer (Azure),SQL|Azure|Statistics|Tableau|Power BI,SQL|Machine learning|Statistics|Tableau|Power BI|Azure,5,5.0,5 years’ experience working in a cloud computing with Azure experience required,bachelor,bachelor
+402,"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift",Statistics,Statistics,6,4.0,4+ years of relevant experience in a clinical laboratory desired for the Certified Lead roles that are not responsible for New York or California sample testing.,bachelor,bachelor
+403,Sr. Data Analyst,SQL|Statistics|Tableau|Power BI|Excel,SQL|Power BI|Tableau|Excel,4,4.0,Minimum of 4-5 years’ experience,bachelor,bachelor
+404,Senior Scientist - Toxicologist - Product Integrity (Stewardship),R,,2,2.0,minimum 2 years of industry experience,master,master
+405,Senior Machine Learning Engineer,Spark|Hive|AWS|Azure|GCP|TensorFlow|PyTorch|Machine learning,Machine learning|AWS|Azure|GCP|TensorFlow|PyTorch|Spark|Hive,,,,not_stated,not_stated
+406,Product Data Scientist - Ads Data Science,Python|R|Java|Scala|C++|Machine learning|Statistics,Python|R|Machine learning|Statistics|Java|Scala|C++,,,,master,not_stated
+407,Data Scientist,Python|SQL|R|SAS|Spark|Hive|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,Python|SQL|R|SAS|Spark|Hive|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|NLP|Machine learning|Statistics,3,3.0,3+ years of professional experience in Data Science or Applied Machine Learning required,bachelor,bachelor
+408,Data Scientist,Python|R|Java|Scala|Spark|Hadoop|TensorFlow|NLP|Deep learning|Machine learning|Tableau,Python|R|Scala|Java|Hadoop|Spark|Tableau|Machine learning|Deep learning|TensorFlow|NLP,,,,bachelor,not_stated
+409,Data Scientist,Java|Scala|AWS|Docker,Scala|Java|AWS|Docker,,,,not_stated,not_stated
+410,Data Scientist,Python|R|C++|Machine learning|Statistics,Python|R|Statistics|Machine learning|Deep learning,,,,phd,master
+411,Data Scientist,Python|SQL|R|Java|Scala|Spark|Hadoop|Snowflake|AWS|TensorFlow|Machine learning|Statistics,Python|SQL|R|Java|Scala|Spark|Hadoop|AWS|Snowflake|TensorFlow|Machine learning|Statistics,5,5.0,5+ years of experience in Data Science.,bachelor,bachelor
+412,Data Scientist,Python|R|Java|Scala|C++|Spark|Hadoop|Hive|NLP|Machine learning|Statistics|Tableau,Python|R|Java|Scala|C++|Hadoop|Hive|Spark|Tableau|NLP|Machine learning|Statistics|Deep learning,2,2.0,2+ years’ experience,master,master
+413,Data Scientist,Python|SQL|Java|Scala|Azure|Machine learning|Statistics,Python|SQL|Java|Scala|Azure|Machine learning|Statistics,5,5.0,5+ years of experience as a Data Scientist,bachelor,bachelor
+414,Data Scientist,Python|SQL|R|Java|C++|SAS|MATLAB|Machine learning|Statistics|Tableau,Python|SQL|R|Java|C++|SAS|MATLAB|Tableau|Machine learning,3,3.0,At least 3 years relevant experience,master,master
+415,Data Scientist,Python|SQL|Java|SAS|Statistics,Python|SQL|SAS|Java|Machine learning|Statistics,10,10.0,10 years of experience as an intelligence analyst,not_stated,not_stated
+416,Data Scientist,Python|SQL|MATLAB|NLP|Machine learning,Python|Machine learning|NLP|MATLAB|SQL|Git,3,3.0,"3+ years of Software Development using Python, Matlab or similar",bachelor,bachelor
+417,Data Scientist,Python|R|Hadoop|Docker|Deep learning|Machine learning|Tableau,Python|Hadoop|Machine learning,2,2.0,2+ years of experience with data science and analytics,bachelor,bachelor
+418,Data Scientist,Python|SQL|R|Java|SAS|Machine learning|Statistics,Python|SQL|R|Java|SAS|Machine learning|Statistics,6,6.0,Minimum 6 years related experience.,bachelor,bachelor
+419,Data Scientist,Python|SQL|R|Java|Scala|C++,Python|SQL|R|Java|Scala|C++|Machine learning,5,5.0,5+ years of hands-on experience as a Data Scientist,not_stated,not_stated
+420,Data Scientist,Python|SQL|Spark|Hadoop|Hive|Machine learning|Statistics,Python|SQL|Hadoop|Spark|Hive|Machine learning|Statistics,3,3.0,3+ years of experience applying machine learning techniques to build models integrated into applications,master,master
+421,Analytics - Business Assurance Data Analyst,SQL|Tableau|Excel,SQL|Tableau|Excel,2,2.0,2 - 3 years of relevant experience,bachelor,not_stated
+422,Data Scientist,Python|SQL|Spark|Hadoop|AWS|Azure|GCP|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|NLP|Deep learning|Statistics|Pandas|NumPy|Scikit-learn|GCP|AWS|Azure|Spark|Hadoop,8,8.0,8+ years of experience as a data scientist.,master,master
+423,Data Scientist,Python|Java|Scala|C++|Spark|Hadoop|Hive|TensorFlow|Machine learning|Statistics,Python|Java|C++|Scala|Hadoop|Spark|Hive|TensorFlow|Machine learning,2,2.0,2+ years of experience dealing with big datasets using tools that run on Hadoop,bachelor,bachelor
+424,Data Scientist,Python|Java|SAS|Machine learning|Statistics,Python|SAS|Java|Machine learning|Statistics,3,3.0,3 to 6 years of practical experience in data science,bachelor,bachelor
+425,Data Scientist,SQL|R|MATLAB|Hive|NumPy|Machine learning|Statistics,R|SQL|Hive|NumPy|MATLAB|Machine learning|Statistics,,,,not_stated,not_stated
+426,Data Scientist,Python|Statistics|Excel,Python|Excel|Statistics|Machine learning,3,3.0,3+ years of experience in a consulting role in the IC,bachelor,bachelor
+427,Data Scientist,Python|SQL|R|Machine learning|Statistics|Tableau,Python|SQL|R|Tableau|Statistics|Machine learning,2,,,master,phd
+428,Senior Data Scientist,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,4,4.0,minimum BS plus 4 years' experience,bachelor,bachelor
+429,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,5,5.0,ÂAtÂleast 5 years relevant experience required.,not_stated,not_stated
+430,Data Scientist,Python|Docker,Python|Docker|Machine learning,,,,bachelor,bachelor
+431,Data Scientist,Excel,Excel,5,5.0,minimum of 5 years of related experience,bachelor,bachelor
+432,Data Engineer,Python|SQL|Java|Hadoop|Hive|Kafka,Python|SQL|Java|Hadoop|Hive|Kafka,,,,bachelor,bachelor
+433,Data Scientist,Python|SQL|R|Statistics|Tableau|Excel,Python|SQL|R|Tableau|Excel,3,3.0,3-5 years of Database Marketing and Data Mining experience,bachelor,bachelor
+434,Data Scientist,Statistics,Statistics,,2.0,Two years' work experience,bachelor,bachelor
+435,Data Scientist,Python|SQL,Python|SQL,2,2.0,2-5 years experience,phd,master
+436,Data Scientist - Machine Learning,Python|R|Spark|TensorFlow|Keras|Scikit-learn|Pandas|Machine learning|Statistics,Python|R|Scikit-learn|Keras|TensorFlow|Pandas|Spark|Machine learning|Statistics,5,5.0,5+ year experience,master,master
+437,Data Scientist,Python|SQL|AWS|Git|NLP|Machine learning|Statistics|Excel,Python|SQL|Excel|Git|Machine learning|Statistics|NLP|AWS,,,,not_stated,not_stated
+438,Data Scientist,,,3,3.0,REQUIRED 3+ years Data Science experience,not_stated,not_stated
+439,Data Scientist,Python|R|Machine learning|Statistics,Python|R|Machine learning|Statistics,,,,master,master
+440,Data Scientist,Python|R|C++|AWS|NLP|Deep learning|Machine learning|Statistics,Python|R|C++|Statistics|Machine learning|Deep learning|AWS,5,5.0,5+ years of hands-on experience in data science,master,master
+441,Data Scientist,Python|SQL|R|Java|Scala|C++|Hadoop|Statistics|Tableau,Python|SQL|R|Java|Scala|C++|Hadoop|Tableau|Machine learning|Statistics,,,,bachelor,bachelor
+442,Data Scientist,SQL|Statistics|Excel,SQL|Excel|Statistics,6,6.0,Minimum 6 years experience,bachelor,bachelor
+443,Data Scientist,Python|R|Java|C++|Machine learning|Statistics,Python|R|Java|Machine learning,5,5.0,at least 5 years of related experience,master,master
+444,Data Scientist,Python|SQL|R|Scala|C++|MATLAB|Spark|Hadoop|Hive|Docker|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|C++|SQL|MATLAB|Spark|Hadoop|Docker|Machine learning|Statistics|Deep learning,1,1.0,You have 1-2 years of industry data science experience,not_stated,bachelor
+445,Machine Learning Engineer/Scientist,TensorFlow|PyTorch|Machine learning,Machine learning|TensorFlow|PyTorch,,3.0,At least three years experience building ML infrastructure,not_stated,not_stated
+446,Data Scientist - Intermediate,Python|Machine learning|Statistics,Python|Machine learning|Statistics,,,,master,master
+447,Principal Data Scientist,Python|R|MATLAB|Spark|Hadoop|Hive|AWS|Azure|GCP|Machine learning|Statistics,Python|R|MATLAB|Spark|Hadoop|Hive|AWS|Azure|GCP|Machine learning,,,,not_stated,bachelor
+448,Data Scientist,Python|R|Java|C++|SAS|Machine learning|Statistics|Tableau|Power BI,Python|R|SAS|Java|C++|Statistics|Machine learning|Tableau|Power BI,3,3.0,"3 years experience in data analytics, advanced statistical analysis, or predictive analytics required",master,master
+449,"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",,,,,,not_stated,not_stated
+450,Data Scientist,Python|SQL|R|Java|Scala|C++|Spark|Hadoop|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|Java|Scala|C++|Spark|Hadoop|Hive|Machine learning|Statistics|NLP|Deep learning,,6.0,Six or more years of relevant work experience,bachelor,bachelor
+451,Data Scientist,Python|SQL|R|Java|Scala|Spark|AWS|NLP|Machine learning,Python|SQL|R|Java|Scala|Spark|AWS|Machine learning|NLP,10,,,not_stated,not_stated
+452,Data Scientist- Industrial Discrete Sector Industry,Python|NumPy|Machine learning|Statistics,Python|NumPy|Machine learning|Deep learning|Statistics,2,2.0,2+ years of data engineering and data science experience,master,master
+453,Data Scientist,Python|SQL|R|SAS|Hadoop|Machine learning|Statistics|Tableau,Python|SQL|R|SAS|Hadoop|Tableau|Machine learning|Statistics,5,5.0,Minimum of 5 years of demonstrated experience in statistics and statistical software,bachelor,bachelor
+454,Data Scientist,Python|SQL|Hive|Statistics,Python|SQL|Hive|Statistics,2,2.0,2+ years work experience,bachelor,bachelor
+455,Data Scientist,Python|SQL|R|Git|Deep learning|Machine learning|Statistics,Python|R|SQL|Statistics|Machine learning|Deep learning|Git,1,1.0,1 - 2 years,bachelor,bachelor
+456,Data Scientist,Python|R|Java|SAS|Machine learning|Statistics|Tableau|Excel,Python|R|Java|SAS|Excel|Tableau|Machine learning|Statistics,,5.0,Five years' experience with SAS,master,master
+457,Data Scientist,Python|R|Java|Scala|Machine learning,Python|R|Java|Scala|Machine learning,,,,not_stated,not_stated
+458,Machine Learning Engineer,Python|Java|TensorFlow|PyTorch|NLP|Machine learning,Python|Java|C++|TensorFlow|PyTorch|Machine learning|NLP,,2.0,PhD in Computer Science or equivalent experience with two (2) years of experience,bachelor,bachelor
+459,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|Hive|Kafka|AWS|TensorFlow|Keras|Scikit-learn|Machine learning|Statistics|Tableau,Python|SQL|Scala|Java|Spark|Hadoop|Hive|Kafka|AWS|TensorFlow|Scikit-learn|Keras|Machine learning|Tableau,5,5.0,Minimum 5 years hands on experience,bachelor,bachelor
+460,Data Scientist,Python|SQL|R|Statistics|Tableau|Power BI|Excel,Python|SQL|R|Excel|Tableau|Power BI,3,3.0,"3-5 years experience with programming languages such as R, Python, SQL, etc.",not_stated,not_stated
+461,Data Scientist,Python|SQL|GCP|TensorFlow|Deep learning|Machine learning,Python|SQL|Machine learning|TensorFlow|Deep learning|GCP,4,4.0,4+ years of work experience,not_stated,not_stated
+462,Data Scientist,Python|SQL|Spark|Hadoop|AWS|Machine learning|Statistics,Python|SQL|Spark|Hadoop|AWS|Machine learning|Statistics,7,7.0,7+ years of programming/systems analysis experience,bachelor,bachelor
+463,Data Analyst - Unilever Prestige,Python|SQL|R|SAS|Snowflake|Tableau,Python|SQL|R|SAS|Snowflake|Tableau|Machine learning,3,3.0,3+ years of experience in developing Analytics/BI applications and analyzing data,bachelor,bachelor
+464,Data Scientist,Python|SQL|R|Machine learning|Statistics,Python|R|SQL|Machine learning,,,,not_stated,master
+465,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|Python|R|Tableau|Machine learning|Statistics,5,5.0,5+ years as a data scientist,not_stated,not_stated
+466,Data Scientist,Python|SQL|R|Tableau|Excel,SQL|R|Excel|Python|Tableau,5,5.0,5+ years of actuarial experience,not_stated,not_stated
+467,Data & Machine Learning Scientist,Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Deep learning|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Deep learning|Git|Docker|AWS,2,2.0,2+ years full time employment or postdoctoral experience,master,master
+468,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|Tableau|Python|R|Statistics,5,5.0,Seasoned data scientist with 5+ years of experience,not_stated,not_stated
+469,"VP, Data Science",Python|R|Spark|Deep learning|Machine learning|Statistics,Python|R|Spark|Machine learning|Deep learning|Statistics,8,8.0,Minimum 8+ Years of relevant professional experience,master,master
+470,Senior Business Intelligence Analyst,SQL|Power BI,SQL|Power BI,6,6.0,6+ years of experience working in software engineering,bachelor,bachelor
+471,Data Scientist,Python|SQL|R|Statistics|Tableau|Power BI|Excel,SQL|Excel|Statistics|Tableau|Power BI|Python|R,3,3.0,3+ years of DoD experience in an analytical role,master,master
+472,Data Engineer - Kafka,Python|R|Java|C++|SAS|Spark|Hadoop|Kafka|AWS|Kubernetes|Deep learning|Machine learning|Statistics,Python|R|Java|C++|SAS|Spark|Hadoop|Kafka|AWS|Kubernetes|Machine learning|Deep learning|Statistics,,,,bachelor,bachelor
+473,Data Scientist,Python|SQL|Machine learning|Statistics,Python|SQL|Machine learning|Statistics,,,,not_stated,not_stated
+474,Data Scientist,,,,,,not_stated,not_stated
+475,Data Scientist,Python|R|SAS|Machine learning|Statistics|Tableau,Python|SQL|R|SAS|Machine learning|Statistics|Tableau,3,3.0,3-5 years of practical experience,bachelor,bachelor
+476,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|Hive|Statistics,Python|SQL|Java|Scala|Spark|Hadoop|Hive,,6.0,Six or more years of relevant work experience.,bachelor,bachelor
+477,Data Scientist,Python|R|AWS|Azure|GCP|Deep learning|Machine learning|Statistics,Python|R|Machine learning|Deep learning|Statistics|AWS|Azure|GCP,4,2.0,2+ years’ experience programming in R and/or Python,bachelor,bachelor
+478,Data Scientist,Python|R|Hadoop|Hive|Machine learning|Statistics,Python|R|Hadoop|Hive|Machine learning,2,2.0,"2+ years prior research, data science, or engineering experience",bachelor,bachelor
+479,In-Line Inspection Data Analyst,,Excel,,3.0,Minimum of 3-years’ experience analyzing ILI data,not_stated,not_stated
+480,Data Scientist,SQL|AWS,SQL|AWS|Machine learning|Git,,,,master,not_stated
+481,Data Scientist,Python|SQL|Azure|Machine learning|Statistics|Power BI|Excel,Python|SQL|Azure|Power BI|Excel|Machine learning|Statistics,3,3.0,3+ years' practical experience,master,bachelor
+482,Data Scientist,SQL|SAS|Statistics,SAS|SQL,8,8.0,8+ years of experience in one or a combination of the following: reporting or analytics,master,not_stated
+483,Data Scientist,Python|R|Java|C++|Hadoop|Statistics,Python|R|Hadoop|C++|Java,3,3.0,"3 years’ experience integrating data mining, conditioning, and analysis",bachelor,bachelor
+484,Decision Scientist,Spark|Statistics,Statistics,10,10.0,Have 10 years of experience in the defense industry,bachelor,bachelor
+485,Data Scientist,Python|Spark|AWS|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|Spark|AWS|Machine learning|Statistics,5,5.0,5+ years of work experience,master,master
+486,Data Scientist - TS/SCI FSP or CI Required,Python|R|Scala|Spark|Git|Machine learning,Python|R|Scala|Spark|Machine learning|Deep learning,,,,bachelor,bachelor
+487,"Data Scientist, Applied Machine Learning - Bay Area",Python|SQL|AWS|Git|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|Machine learning|Git|AWS,2,2.0,2+ years full time employment experience,not_stated,bachelor
+488,Data Scientist,Python|R|Git|Machine learning|Statistics,Python|R|Machine learning|Statistics|Git,,,,master,not_stated
+489,Data Scientist,Python|R|Scikit-learn|Pandas|Tableau,Python|R|Pandas|Scikit-learn|Tableau,2,2.0,Minimum of 2 years of experience in data science and/or data analytics.,bachelor,bachelor
+490,Data Scientist,Python|SQL|Git|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Git|Pandas|NumPy|Machine learning|Statistics,,,,not_stated,not_stated
+491,Data Analyst,Python|SQL|R|Tableau|Excel,Python|SQL|R|Tableau|Excel,,,,bachelor,bachelor
+492,Data Scientist,SQL|MATLAB|Git|TensorFlow|PyTorch|Deep learning|Machine learning|Statistics,Python|MATLAB|Git|TensorFlow|PyTorch|SQL|Machine learning|Deep learning,,,,bachelor,bachelor
+493,Data Scientist,Python|SQL|Spark|TensorFlow|Deep learning|Machine learning|Statistics,Python|SQL|TensorFlow|Machine learning|Deep learning|Statistics,1,4.0,4+ yrs. without PhD,master,master
+494,Data Scientist,Python|SQL|R|SAS|Hadoop|Hive|NLP|Machine learning|Statistics,SQL|R|SAS|Hadoop|Hive|Machine learning|Statistics|NLP,,10.0,Ten (10) years of work experience,bachelor,bachelor
+495,Data Scientist,Python|R|Scala|Spark|AWS|Machine learning|Statistics,Python|R|Scala|AWS|Spark,3,3.0,Minimum 3+ years experience applying data science techniques,bachelor,bachelor
+501,Data Scientist,Python|SQL|R|C++|MATLAB|Hadoop|Statistics|Tableau,Python|SQL|R|C++|MATLAB|Hadoop|Tableau,3,3.0,3+ Years of experience,bachelor,bachelor
+502,Data Scientist,Python|SQL|Spark|Hadoop|AWS|Azure|GCP|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Statistics|Pandas|NumPy|Scikit-learn|NLP|Deep learning|GCP|AWS|Azure|Spark|Hadoop,5,5.0,5 to 7 years of experience,master,master
+503,Data Scientist,Python|SQL|R|Scala|SAS|Scikit-learn|Pandas|NumPy|Statistics,Python|SQL|R|Scala|SAS|Pandas|Scikit-learn|NumPy,5,5.0,Minimum 5-10 years of hands-on experience,not_stated,not_stated
+504,Data Scientist,SQL,SQL,2,2.0,2-5 years’ experience required,bachelor,bachelor
+505,Data Scientist,Statistics,Statistics,1,1.0,1 year of work experience,bachelor,bachelor
+506,Data Scientist,Python|AWS|NLP|Deep learning|Machine learning|Statistics,Python|Machine learning|Deep learning|NLP|Statistics|AWS,5,3.0,"Master s Degree and job-related experience, 3 years",bachelor,bachelor
+507,Data Scientist - TS/SCI Required,Python|Spark|Kafka|Docker|Scikit-learn|Pandas|NumPy|Machine learning,Python|Machine learning|Spark|Kafka|Docker|Pandas|NumPy|Scikit-learn,3,3.0,3+ years of experience as a Data Scientist,bachelor,bachelor
+508,Senior Principal Data Scientist (Python/R),Python|SQL|R|Spark|Hadoop|Machine learning|Statistics,Python|SQL|R|Spark|Hadoop|Machine learning|Statistics,16,16.0,"Master’s degree (PhD strongly preferred) in a Data Science or related field (e.g. Computer Science, Statistics, Mathematics, Bioinformatics, etc.) required plus 16 years of experience",master,master
+509,"Real World Science, Data Scientist",Python|SQL|R|SAS|MATLAB|Hadoop|Machine learning|Statistics,R|MATLAB|SAS|SQL|Hadoop|Python|Machine learning,,,,master,master
+510,Data Scientist,Python|SQL|R|Statistics,Python|SQL|R|Statistics,2,2.0,2+ years working as a Data Scientist,not_stated,not_stated
+511,Data Scientist(s)/Machine Learning Engineer,Python|Java|Machine learning|Statistics,Python|Java|Machine learning|Statistics,1,1.0,1-3 years of experience using machine learning in an applied setting,bachelor,bachelor
+512,Senior Data Scientist,Python|SQL|R|Java|C++|Docker|Machine learning|Statistics,Python|SQL|R|Java|C++|Machine learning|Deep learning|Docker|Statistics,8,8.0,8 years of professional experience as a Data Scientist,bachelor,bachelor
+513,Data Scientist,Python|SQL|Spark|Hadoop|AWS|Azure|GCP|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics,Machine learning|NLP|Deep learning|SQL|Statistics|Python|Pandas|NumPy|Scikit-learn|GCP|AWS|Azure|Spark|Hadoop,5,5.0,5 to 7 years of experience as a data scientist,master,master
+514,Data Scientist,Python|SQL|R|Java|C++|Spark|Hadoop|Git|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|Java|C++|Hadoop|Spark|Git|Tableau|Machine learning|Deep learning|Statistics,4,10.0,10 years of experience in data science or a related field.,bachelor,bachelor
+515,Data Scientist,Python|SQL|R|SAS|Machine learning|Statistics,Python|R|SQL|SAS|Machine learning|Statistics,,,,phd,phd
+516,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Python|Java|C++,Python|Java|Git,,0.0,0-5 years of experience,bachelor,bachelor
+517,Data Scientist,NLP|Machine learning,NLP|Machine learning,10,10.0,A minimum of ten (10) years of required experience,bachelor,bachelor
+518,Data Science Software Engineer,Python|Kafka|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|Kafka|Machine learning,,,,bachelor,bachelor
+519,"Scientist / Group Lead, Cancer Biology",,,10,0.0,0-3 years industrial experience,master,master
+520,Data Scientist,Python|SQL|R|Java|Spark|Hadoop|Hive|AWS|Azure|Git|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Spark|Hadoop|Hive|Git|AWS|Azure|Tableau|Power BI|Machine learning|Statistics,4,10.0,EXP: 10+ Years,bachelor,bachelor
+521,Data Scientist,Python|SQL|R|SAS|MATLAB|Spark|Hive|Machine learning|Statistics|Excel,Python|SQL|R|SAS|MATLAB|Spark|Hive|Machine learning|Statistics|Excel,6,2.0,Masters and 2 years.,bachelor,bachelor
+522,"Manager, Field Application Scientist, Southeast",,,5,5.0,"5 years lab experience in molecular biology, biochemistry, genomics or genetics.",bachelor,bachelor
+523,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,Python|Java|C++,C++|Python|Java,,0.0,0-5 years of experience,bachelor,bachelor
+524,Data Scientist,R|MATLAB|Spark|Hadoop|Hive|AWS|NumPy|Machine learning|Statistics,R|NumPy|MATLAB|Hadoop|Spark|Hive|Machine learning|Statistics,,2.0,Two or more years of business/marketing analytics experience,phd,master
+525,Data Scientist,Python|SQL|R|Machine learning|Statistics,Python|SQL|R|Statistics|Machine learning,,,,master,not_stated
+526,Scientist - Machine Learning,Machine learning,Machine learning|Deep learning,2,0.0,0 2 years relevant postdoctoral experience,phd,phd
+527,Data Scientist,Python|SQL|SAS|Statistics|Tableau|Excel,Tableau|SAS|SQL|Python|Excel|Statistics,,5.0,5+ years in a similar analytical role,bachelor,bachelor
+528,Data Scientist,Python|SQL|R|Java|C++|SAS|MATLAB|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|SAS|MATLAB|C++|Machine learning|Tableau|Power BI,8,8.0,At least 8 years' relevant experience,bachelor,bachelor
+529,Data Scientist - Image and Video Analytics,Python|Spark|Hadoop|AWS|Docker|Kubernetes|TensorFlow|Keras|Deep learning|Machine learning|Statistics,Python|Keras|TensorFlow|Docker|Kubernetes|Hadoop|Spark|AWS|Machine learning|Deep learning|NLP,8,8.0,8 years of experience,bachelor,bachelor
+530,Data Scientist,,,,,,not_stated,not_stated
+531,Data Scientist,Python|SQL|R|Java|C++|SAS|MATLAB|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|SAS|MATLAB|C++|Tableau|Power BI|Machine learning,3,3.0,At least 3 years' relevant experience,master,master
+532,Data Scientist,Python|SQL|R|Statistics|Tableau,SQL|R|Python|Tableau|Statistics,5,5.0,5+ years of experience,bachelor,bachelor
+533,Senior Data Engineer,Python|Scala|Airflow|AWS|GCP,Python|Scala|AWS|GCP|Airflow,6,6.0,6 or more years of experience working in data or backend engineering,not_stated,not_stated
+534,Data Scientist,NLP|Machine learning,NLP|Machine learning,,5.0,At least five (5) years of experience,bachelor,bachelor
+535,Machine Learning Scientist / Engineer,NLP|Deep learning|Machine learning,Machine learning|Deep learning,,,,bachelor,bachelor
+536,Data Scientist,MATLAB|TensorFlow|PyTorch|Machine learning|Statistics,MATLAB|TensorFlow|PyTorch|Machine learning,5,5.0,5-10 years progressive experience,bachelor,bachelor
+537,Sr. Data Scientist,Python|SQL|Machine learning|Statistics,Python|SQL|Machine learning,,,,bachelor,bachelor
+538,"Intelligence Data Analyst, Senior",Python,Power BI|Python,,,,not_stated,not_stated
+539,Data Science Analyst,Python|SQL|R|Machine learning|Statistics,Python|R|Statistics|Machine learning,2,2.0,2 years of related experience,bachelor,bachelor
+540,Data Scientist,Python|SQL|R|Machine learning,Python|SQL|R|Machine learning,,,,not_stated,not_stated
+541,Data Scientist,Python|SQL|Java|Scala|Kafka|Docker|Kubernetes|NLP|Machine learning|Statistics,Python|SQL|R|Java|Scala|Kafka|Docker|Kubernetes|Machine learning|NLP|Statistics,,,,not_stated,not_stated
+542,COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY,Python|SQL|Java|C++|Kafka|Docker|Kubernetes|Git,C++|Java|Python|Git|Docker|Kubernetes|Kafka,,0.0,0-5 years of experience,bachelor,bachelor
+543,Data Scientist,Python|R|SAS|MATLAB|Machine learning|Statistics,Python|R|MATLAB|SAS|Machine learning|Statistics,3,3.0,At least 3 years of work experience in data analytics/informatics,master,master
+544,Data Modeler (Analytical Systems),SQL|Scala|Spark|Hadoop|Kafka|Snowflake,SQL|Hadoop|Spark|Kafka|Scala,8,8.0,8+ years experiences,bachelor,bachelor
+545,Data Scientist,,,6,6.0,6 years of IC or military data science experience,bachelor,bachelor
+546,Data Scientist,Python|SQL|R|SAS|Machine learning|Statistics,Python|SQL|R|SAS|Statistics|Machine learning,,,,not_stated,not_stated
+547,Data Scientist,Python|SQL|R|Java|Spark|Hadoop|AWS|Azure|Machine learning,Python|SQL|R|Java|Spark|Hadoop|AWS|Azure|Machine learning|Docker|Git,3,3.0,"3+ years of development experience (Java, Python, R)",bachelor,bachelor
+548,"Data Engineer (Analytics, SQL, Python, AWS)",Python|SQL|Spark|Hive|AWS|Git,SQL|Python|Spark|Hive|AWS|Git,,5.0,Five years of experience supporting business technology systems required.,bachelor,not_stated
+549,Data Scientist 3 (718),Python|Machine learning|Statistics,Python|Machine learning|Statistics,1,1.0,Ph.D. plus 1-3 years experience,master,bachelor
+550,Data Scientist,Python|SQL|Spark|AWS|TensorFlow|Deep learning|Machine learning|Statistics,Python|SQL|Spark|AWS|TensorFlow|Machine learning|Deep learning|Statistics,3,3.0,3+ years of relevant experience,bachelor,bachelor
+551,Senior Data Scientist,Python|Spark|Hadoop|Hive|Machine learning|Statistics,Python|Machine learning|Statistics|Hadoop|Hive|Spark,,,,master,master
+552,Senior Data Analyst - Finance & Platform Analytics,Python|SQL|R|Statistics|Tableau,SQL|Tableau|Python|R|Statistics,8,8.0,8+ years of domain experience,bachelor,bachelor
+553,Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),Python|Java|C++|Docker|Scikit-learn|Machine learning|Statistics,Python|Java|C++|Scikit-learn|Docker|Machine learning|Statistics,,,,not_stated,not_stated
+554,IT Partner Digital Health Technology and Data Science,,,10,10.0,10+ years IT/Industry Experience.,bachelor,bachelor
+555,Data Scientist,Python|SQL|R|Java|C++|Spark|NLP|Machine learning|Statistics|Tableau,Java|C++|Python|R|Tableau|Spark|Machine learning|Statistics,3,0.0,0-10+ years of work experience in a Data Scientist role,bachelor,bachelor
+556,"Senior Machine Learning Scientist - Bay Area, CA",Python|SQL|AWS|Docker|Git|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Pandas|NumPy|Scikit-learn|TensorFlow|PyTorch|Machine learning|Statistics|Git|Docker|AWS,5,5.0,5+ years of relevant industry or postdoctoral experience.,phd,phd
+557,Data Scientist,Python|SQL|R|Git|Keras|Machine learning|Statistics,Python|SQL|R|Machine learning|Statistics|TensorFlow|Keras|Git,3,3.0,Minimum 3 years of related technical experience and/or training required,bachelor,master
+558,Clinical Data Analyst,Python|SQL|Pandas|NumPy|Statistics,SQL|Pandas|NumPy|Python,1,1.0,at least 1 year of related experience,bachelor,bachelor
+559,Data Scientist,Hadoop|Machine learning|Statistics,Hadoop|Machine learning|Statistics,,,,not_stated,not_stated
+560,Data Engineer,Python|SQL,Python|SQL,3,3.0,Minimum of 3 years experience.,bachelor,bachelor
+561,Data Scientist Technical Specialist,Python|SQL|Spark|Hadoop|Machine learning|Statistics,Python|SQL|Hadoop|Spark|Machine learning|Statistics,10,10.0,"Have 10 years of experience with scripting languages, such as Python",bachelor,bachelor
+562,Senior Data Scientist,Python|Hadoop|Deep learning|Machine learning|Statistics,Python|Hadoop|Machine learning|Deep learning,5,5.0,5 years experience in predictive analytics,bachelor,bachelor
+563,Data Science Manager,Python|SQL|R|Scala|Spark|Hadoop|Hive|Scikit-learn|Pandas|NLP|Machine learning|Statistics,Python|SQL|R|Scala|Hadoop|Spark|Hive|Pandas|Scikit-learn|NLP|Machine learning|Statistics|Deep learning,4,4.0,"4+ years of experience in data science, machine learning or a related field",master,master
+564,Computer Vision / Deep Learning Scientist,AWS|Docker|TensorFlow|PyTorch|Keras|Deep learning|Machine learning|Statistics,PyTorch|TensorFlow|Keras|Machine learning|Deep learning|Statistics|AWS|Docker,,,,phd,phd
+565,Big Data Engineer,Python|SQL|Scala|Spark|Azure|Machine learning|Power BI,Scala|Spark|Power BI|Azure|Python|SQL,5,5.0,5+ years experience,not_stated,not_stated
+566,Data Architect,Python|SQL|Java|Scala|C++|Spark|Hadoop|Kafka|Airflow|AWS|Statistics,SQL|Python|Java|C++|Scala|Hadoop|Spark|Kafka|Airflow|AWS,1,1.0,1-3+ years of experience,not_stated,master
+567,Machine Learning Engineer,SQL|Hadoop|Machine learning,Machine learning|SQL|Hadoop,,,,not_stated,not_stated
+568,Data Scientist,Python|R|SAS|MATLAB|Machine learning|Statistics,Python|R|SAS|MATLAB|Machine learning|Statistics,2,2.0,2+ years of experience,bachelor,bachelor
+569,Aviation AI/ML Data Scientist,Python|Spark|Hadoop|Azure|TensorFlow|PyTorch|Keras|Scikit-learn|Deep learning|Machine learning|Statistics|Tableau,Python|Scikit-learn|Keras|TensorFlow|PyTorch|Machine learning|Deep learning|Statistics|Spark|Hadoop|Azure|Tableau,5,,,bachelor,bachelor
+570,Data Scientist,Python|Spark|AWS|Machine learning|Statistics,Python|Spark|AWS|Machine learning|Statistics,1,1.0,1+ years’ experience in a data science role,bachelor,bachelor
+571,Data Scientist / Applied Mathematician,Python|SQL|AWS|GCP|TensorFlow|PyTorch|Scikit-learn|Pandas|Deep learning|Machine learning|Statistics,Python|SQL|Pandas|Scikit-learn|Machine learning|Deep learning|TensorFlow|PyTorch|AWS|GCP,,,,bachelor,bachelor
+572,"Machine Learning Engineer, Sr.",Python|C++|MATLAB|TensorFlow|Keras|Scikit-learn|Pandas|Deep learning|Machine learning|Statistics|Excel,Python|C++|MATLAB|TensorFlow|Keras|Scikit-learn|Pandas|Machine learning|Deep learning|Statistics,8,4.0,MS/Ph.D. related degree with 4 years of experience,bachelor,bachelor
+573,Data Scientist (TS/SCI w/ Poly),Python|Git|Machine learning,Python|Git|Machine learning,8,8.0,Requires 8 years of relevant experience.,bachelor,bachelor
+574,Weapons and Sensors Engineer/Scientist,Python|Java|C++|MATLAB,MATLAB|C++|Java|Python,3,3.0,3+ years of applicable experience,bachelor,bachelor
+575,Applied Computer Scientist,Git,Git,,,,bachelor,bachelor
+576,Senior Data Analyst,Python|SQL|R|Java|Machine learning|Statistics,Python|SQL|R|Java,,5.0,Position requires five (5) years of related experience.,bachelor,bachelor
+577,Information Systems Engineering Specialist (Engineering Scientist),Python|C++|Git|Statistics,Python|C++|Git,,3.0,three years of experience in the same,bachelor,bachelor
+578,Cloud Data Engineer (Azure),SQL|Azure|Statistics|Tableau|Power BI,SQL|Machine learning|Statistics|Tableau|Power BI|AWS|Azure|GCP,5,5.0,5 years’ experience working in a cloud computing with Azure experience required,bachelor,bachelor
+579,Scientist/Research Associate-Metabolic Engineering,Statistics,Statistics,,,,master,master
+580,"Vice President, Biometrics and Clinical Data Management",R|SAS|GCP|Statistics|Excel,SAS|R,7,7.0,7+ years of experience in academia or industry,phd,phd
+581,Enterprise Data Analyst (Enterprise Portfolio Management Office),SQL|Spark|Statistics|Tableau|Power BI,SQL|Spark|Power BI|Tableau|Excel|Statistics,,,,bachelor,bachelor
+582,Senior Scientist - Toxicologist - Product Integrity (Stewardship),R,,2,2.0,minimum 2 years of industry experience conducting human safety assessments,master,master
+583,Lead Data Scientist – Network Analysis and Control,Python|SQL|Java|Scala|Spark|Hadoop|Kafka|AWS|Deep learning|Machine learning|Statistics,Python|Scala|Java|Spark|Hadoop|Kafka|AWS|Machine learning|Deep learning|Statistics,8,5.0,five plus years of professional experience,bachelor,bachelor
+584,Senior Machine Learning Engineer,Spark|Hive|AWS|Azure|GCP|TensorFlow|PyTorch|Machine learning,Machine learning|AWS|Azure|GCP|TensorFlow|PyTorch|Spark|Hive,,,,not_stated,not_stated
+585,"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics",,Machine learning,2,2.0,with at least 2 years of hands-on experience,bachelor,bachelor
+586,Data Engineer,Python|SQL|SAS|Azure|Statistics,Python|SQL|SAS|Azure,1,1.0,1-3 years working experience with Python and/or SAS languages,bachelor,bachelor
+587,Developer III - Data Science,SQL|Tableau|Power BI|Excel,SQL|Tableau|Power BI|Excel,,6.0,"Six (6) or more years in analytics, data science and business intelligence.",bachelor,bachelor
+588,Senior Data Engineer,Python|SQL|Spark|Hadoop|Machine learning|Tableau,SQL|Spark|Hadoop|Python|Tableau|Machine learning,2,2.0,with 2 years experience,master,master
+589,Hydrogen/Tritium Materials Scientist (Experienced),,,,,,phd,phd
+590,Data Engineer,Python|SQL|Java|AWS|Git|NLP,Python|Java|AWS|Git|NLP,4,5.0,5 years of development experience.,bachelor,bachelor
+591,Patient Safety- Associate Data Scientist,Python|SQL|R|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|Machine learning|Statistics|Deep learning|NLP|Git,,,,not_stated,not_stated
+592,Senior Data Scientist,Python|SQL|R|Java|Scala|SAS|MATLAB|Spark|Hadoop|Hive|TensorFlow|Scikit-learn|Pandas|Machine learning|Statistics,Python|SQL|R|Java|Scala|SAS|MATLAB|Spark|Hadoop|Hive|Pandas|Scikit-learn|TensorFlow|Statistics|Machine learning,,,,bachelor,bachelor
+593,Data Scientist,Python|SQL|Azure|Machine learning|Statistics|Power BI|Excel,Python|SQL|Azure|Power BI|Excel|Machine learning|Statistics,3,3.0,3+ years' practical experience,master,bachelor
+594,Data Scientist,Python|SQL|R|Java|MATLAB|Hadoop|Tableau,Python|SQL|R|Java|MATLAB|Hadoop|Tableau,4,1.0,M.S. with 1 year of experience,bachelor,bachelor
+595,Data Scientist,Statistics,Statistics,,,,bachelor,bachelor
+596,Data Scientist,Python|SQL|R|Java|Hadoop|AWS|Azure|GCP|Machine learning|Statistics|Tableau,Python|SQL|R|Java|Hadoop|AWS|Azure|GCP|Machine learning|Tableau,3,3.0,3-5 years of experience,bachelor,bachelor
+597,Data Scientist,Python|R|Git|Pandas|NumPy|Machine learning|Statistics,Machine learning|Git|Pandas|NumPy|Python|R|Statistics,2,2.0,2-5 years of data science/analytics experience,not_stated,not_stated
+598,Data Scientist,Python|SQL|R|Java|Scala|Statistics,Python|SQL|R|Java|Scala|Statistics,5,5.0,5+ years of data science/miningexperience,master,master
+599,Data Scientist,Python|SQL|Java|Scala|C++|Spark|Hadoop|Kafka|AWS|Azure|GCP|NLP|Machine learning|Statistics|Tableau|Power BI,Python|SQL|Java|Scala|C++|Spark|Hadoop|Kafka|AWS|Azure|GCP|Machine learning|NLP|Deep learning|Tableau|Power BI,,3.0,Minimum three (3) years of cloud and big data technologies work experience,bachelor,bachelor
+600,Data Scientist,Python|R|Java|C++|Hadoop|Statistics,Python|R|Hadoop|C++|Java|Machine learning|Statistics,3,3.0,"3 years’ experience integrating data mining, conditioning, and analysis",bachelor,bachelor
+601,Data Scientist,Python|R|SAS|Keras|Scikit-learn|NLP|Machine learning|Statistics|Tableau,Python|R|SAS|Scikit-learn|TensorFlow|Keras|NLP|Machine learning|Statistics|Tableau,3,3.0,3+ years experience,master,master
+602,Decision Scientist,Spark|Statistics,Statistics,10,10.0,Have 10 years of experience in the defense industry,bachelor,bachelor
+603,Data Scientist - TS/SCI FSP or CI Required,Python|R|Scala|Spark|Git|Machine learning,Python|R|Scala|Spark|Machine learning|Deep learning,,,,bachelor,bachelor
+604,Data Scientist,Python|R|Scikit-learn|Pandas|Tableau,Python|R|Pandas|Scikit-learn|Tableau,2,2.0,Minimum of 2 years of experience in data science and/or data analytics.,bachelor,bachelor
+605,Data Scientist,Python|SQL|Git|Pandas|NumPy|Machine learning|Statistics,Python|SQL|Git|NumPy|Pandas|Statistics|Machine learning,,,,not_stated,not_stated
+606,Data Scientist,Machine learning,Machine learning,,,,master,not_stated
+607,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|Kafka|AWS|Azure|GCP,Python|Hadoop|Spark|Java|Scala|AWS|Azure|GCP|Kafka,5,5.0,5 years of hands on experience in one or more modern Object Oriented Programming languages,not_stated,bachelor
+608,Data Scientist,Python|NumPy|NLP|Machine learning,Python|NLP|Machine learning|NumPy,1,1.0,Master’s+1yr/Bachelor’s+5yrs,bachelor,bachelor
+609,Data Scientist,MATLAB|TensorFlow|PyTorch|Machine learning|Statistics,MATLAB|TensorFlow|PyTorch|Machine learning,5,5.0,5-10 years progressive experience,bachelor,bachelor
+610,Data Scientist,Python|SQL|R|SAS|Hadoop|Hive|NLP|Machine learning|Statistics,SQL|R|SAS|Hadoop|Hive|Machine learning|Statistics|NLP,,10.0,Ten (10) years of work experience in system engineering or data analysis position,bachelor,bachelor
+611,(Sr.) Data Scientist -,Python|SQL|R|C++|SAS|Machine learning|Statistics,Python|R|SQL|SAS|C++|Machine learning|Statistics,,,,bachelor,bachelor
+612,Senior Data Scientist,Python|SQL|R|Java|Scala|SAS|Spark|Hadoop|Hive|Kafka|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Scala|SAS|Spark|Hadoop|Hive|Kafka|Tableau|Power BI|Machine learning|Statistics,,,,bachelor,bachelor
+613,Data Scientist,Python|SQL|AWS|Machine learning|Statistics,Python|SQL|AWS|Machine learning|Statistics,3,3.0,3+ years of experience working in data science,master,master
+614,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,2,2.0,2 or more years of progressively complex related experience.,not_stated,not_stated
+615,Data Scientist,Statistics|Excel,Excel,1,1.0,1-3 years of experience is required,bachelor,bachelor
+616,Data Scientist,Python|SQL|C++|AWS|Machine learning|Statistics,Python|SQL|C++|AWS|Machine learning|Statistics,,,,bachelor,bachelor
+617,Data Scientist,Python|SQL|Java|Scala|Spark|Hadoop|Kafka|AWS|Azure|GCP,Python|SQL|Java|Scala|Spark|Hadoop|Kafka|AWS|Azure|GCP,5,2.0,2 years of hands on experience implementing batch and real time data integration frameworks,not_stated,bachelor
+618,Data Scientist,AWS,AWS,,10.0,Approximately ten (10) years of experience,bachelor,bachelor
+619,Data Scientist,Python|SQL|Spark|TensorFlow|Keras|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|Spark|Scikit-learn|Keras|TensorFlow|NLP|Deep learning|Machine learning,2,2.0,At least 2-8 years of hands-on experience,not_stated,not_stated
+620,Data Scientist,Python|SQL|R|Hadoop|Hive|Machine learning|Statistics,Python|SQL|R|Hadoop|Hive|Machine learning|Statistics,,2.0,plus two years of related experience,master,bachelor
+621,Data Scientist,Python|SQL|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Deep learning|Statistics,2,2.0,Bachelors degree & 2 years of directly related experience,bachelor,bachelor
+622,Data Engineer,SQL|R|Java|Spark|Hadoop|AWS|Azure|GCP|Statistics|Tableau|Power BI,SQL|R|Spark|Hadoop|AWS|Azure|GCP|Statistics|Tableau|Power BI,7,7.0,"7+ years of business intelligence, reporting and web application development experience",bachelor,bachelor
+623,Data Scientist,Python|SQL|R|Spark|Hadoop|Hive|Machine learning|Statistics|Tableau,Python|SQL|R|Hadoop|Hive|Spark|Machine learning|Deep learning|Statistics|Tableau|Pandas,5,5.0,5-7 years of experience,master,master
+624,Data Scientist,Python|SQL|R|Java|C++|Spark|Hadoop|Git|Tableau,Python|SQL|R|Hadoop|Spark|Java|C++|Git|Tableau,,5.0,5+ (Senior) years of related experience,not_stated,not_stated
+625,Data Scientist,Java|Scala|Spark|Hadoop|Kafka|Statistics,Scala|Java|Spark|Hadoop|Kafka,2,2.0,2+ years of cloud-based data parsing and analysis,bachelor,bachelor
+626,Data Scientist/Data Analytics Practitioner,Python|Scikit-learn|NumPy|Machine learning|Statistics,Python|Machine learning|Statistics|Scikit-learn|NumPy,3,3.0,Minimum 3 years of experience,bachelor,bachelor
+627,Data Scientist,Python|SQL|R|C++|MATLAB|Hadoop|Statistics|Tableau,Python|SQL|R|C++|MATLAB|Hadoop|Tableau,3,3.0,3+ Years of experience,bachelor,bachelor
+628,Data Scientist,Python|SQL|Spark|Kafka|Airflow|GCP|Kubernetes|TensorFlow|PyTorch|Keras|Scikit-learn|Pandas|NumPy|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Deep learning|Statistics|Pandas|NumPy|Scikit-learn|Keras|PyTorch|TensorFlow|Spark|Airflow|Kafka|Kubernetes|GCP,,,,not_stated,bachelor
+629,Data Scientist,Statistics,,1,1.0,1 year of work experience,bachelor,bachelor
+630,Data Scientist,Python|AWS|Machine learning|Excel,Python|AWS|Machine learning,5,5.0,5+ years demonstrable experience building and deploying software,bachelor,bachelor
+631,"Data Scientist, Kinship - NYC/Portland",Python|Spark|Azure|Machine learning|Statistics,Python|Spark|Azure|Machine learning|Statistics,4,4.0,4+ years’ experience in a data science role handling varied and complex data,bachelor,bachelor
+632,Data Scientist,Python|R|Java|Scala|C++|Spark|Hadoop|TensorFlow|Machine learning|Statistics,Python|R|Java|Scala|C++|Hadoop|Spark|TensorFlow|Machine learning|Deep learning|Statistics,4,4.0,4+ years of relevant experience,master,not_stated
+633,Data Scientist,Python|SQL|Spark|Hadoop|AWS|Azure|GCP|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics,Python|SQL|Spark|Hadoop|AWS|Azure|GCP|Machine learning|Deep learning|NLP|Pandas|NumPy|Scikit-learn|Statistics,5,5.0,5 to 7 years of experience as a data scientist,master,master
+634,Data Scientist,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|NLP|Deep learning|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|SAS|Spark|Hadoop|Scala|AWS|Azure|Tableau|Power BI|NLP|Deep learning|Machine learning|Statistics,5,5.0,"5+ years of experience in data analytics, business analytics or business intelligence",bachelor,bachelor
+635,Data Scientist,Python|AWS|NLP|Deep learning|Machine learning|Statistics,Python|AWS|Machine learning|NLP|Deep learning|Statistics,5,5.0,"Job-related experience, 5 years",bachelor,bachelor
+636,Data Scientist - TS/SCI Required,Python|Spark|Kafka|Docker|Scikit-learn|Pandas|NumPy|Machine learning,Python|Machine learning|Spark|Kafka|Docker|Pandas|NumPy|Scikit-learn,3,3.0,3+ years of experience as a Data Scientist,bachelor,bachelor
+637,Data Scientist,SQL,SQL,2,2.0,2-5 years’ experience required,bachelor,bachelor
+638,Senior Data Scientist,Python|SQL|R|Java|C++|Docker|Machine learning|Statistics,Python|SQL|R|Java|C++|Docker|Machine learning|Deep learning|Statistics,8,8.0,8 years of professional experience as a Data Scientist,bachelor,bachelor
+639,Data Scientist,Python|Java|Spark|Hadoop|NLP|Statistics,Python|Java|NLP|Statistics|Spark|Hadoop|Machine learning,2,2.0,2+ years of relevant professional experience,not_stated,not_stated
+640,Data Scientist(s)/Machine Learning Engineer,Python|Java|Machine learning|Statistics,Python|Java|Machine learning,1,1.0,1-3 years of experience using machine learning in an applied setting,bachelor,bachelor
+641,Data Scientist,Python|SQL|R|Scala|MATLAB|Spark|Hadoop|AWS|Kubernetes|TensorFlow|Machine learning|Statistics,R|Python|MATLAB|Spark|Hadoop|SQL|Kubernetes|AWS|TensorFlow|Machine learning|Statistics|NLP,3,3.0,3+ years-experience in machine learning,not_stated,not_stated
+642,Data Engineer,Python|SQL|Java|Spark|Hadoop|Hive|Kafka|Snowflake|AWS,Python|SQL|Java|Spark|Hadoop|Hive|Kafka|Snowflake|AWS,4,4.0,4+ years experience with modern analytics data structures,bachelor,not_stated
+643,Data Scientist,Python|R|NLP|Statistics,Python|R|NLP,,,,master,master
+644,Data Scientist,SQL,,12,4.0,4 Years of job-related experience and Doctorate,bachelor,not_stated
+645,"AI/ML - Machine Learning Scientist, Siri Understanding",Python|C++|TensorFlow|PyTorch|NLP|Deep learning|Machine learning,Python|C++|Deep learning|Machine learning|NLP|TensorFlow|PyTorch,,,,bachelor,bachelor
+646,Data Scientist,Python|SQL|R|Java|C++|Spark|Hadoop|Git|Deep learning|Machine learning|Statistics|Tableau,Python|SQL|R|Java|C++|Hadoop|Spark|Git|Tableau|Machine learning|Deep learning|Statistics,4,10.0,10 years of experience in data science or a related field.,bachelor,bachelor
+647,ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Python|Java|C++,Python|Java|Git|Scikit-learn,,0.0,with 0-5 years of experience,bachelor,bachelor
+648,Data Scientist,Python|SQL|Deep learning|Machine learning|Statistics,Python|SQL|Machine learning|Deep learning|Statistics,2,2.0,Bachelor’ s degree & 2 years of directly related experience,bachelor,bachelor
+649,Data Science Software Engineer,Python|Kafka|Pandas|NumPy|Machine learning|Statistics,Python|NumPy|Pandas|Kafka|Machine learning,,,,bachelor,bachelor
+650,"Scientist / Group Lead, Cancer Biology",,,10,0.0,0-3 years industrial experience,master,phd
+651,AI Ops Data Scientist,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|Docker|Kubernetes|NLP|Machine learning,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|GCP|Kubernetes|Docker|Git|Machine learning|NLP|Statistics,2,2.0,More than 2 years of experience,bachelor,bachelor
+652,Senior Data Scientist,TensorFlow|Machine learning,Machine learning|TensorFlow,,,,not_stated,not_stated
+653,Sr. ML/Data Scientist - AI/NLP/Chatbot,Python|Spark|Kafka|AWS|TensorFlow|Scikit-learn|NumPy|NLP|Machine learning|Statistics,Python|Machine learning|NLP|NumPy|Scikit-learn|TensorFlow|AWS|Spark|Kafka,3,3.0,3+ years experiences building data science-driven solutions,master,master
+654,Data Scientist,NLP|Machine learning,NLP|Machine learning,10,10.0,A minimum of ten (10) years of required experience,bachelor,bachelor
+655,Data Scientist,Python|SQL|R|Java|Spark|Hadoop|Hive|AWS|Azure|Git|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Spark|Hadoop|Hive|AWS|Azure|Git|Machine learning|Statistics|Tableau|Power BI,4,10.0,EXP: 10+ Years,bachelor,bachelor
+656,Data Scientist,AWS|Machine learning|Statistics,AWS,,,,not_stated,not_stated
+657,Data Scientist,Python|SQL|R|Scala|SAS|Spark|Hadoop|AWS|Azure|NLP|Deep learning|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|SAS|Spark|Hadoop|Scala|AWS|Azure|NLP|Deep learning|Machine learning|Tableau|Power BI,5,5.0,"5+ years of experience in data analytics, business analytics or business intelligence",bachelor,bachelor
+658,Data Scientist,Python|SQL|R|SAS|MATLAB|Spark|Hive|Machine learning|Statistics|Excel,Python|SQL|R|SAS|MATLAB|Hive|Spark|Machine learning|Statistics|Excel,6,2.0,Masters and 2 years.,bachelor,bachelor
+659,Data Scientist,Python|Java|C++|Hadoop|Hive|Machine learning,Python|Java|C++|Hadoop|Hive|Machine learning,5,3.0,a Master's with 3 yrs of experience,bachelor,bachelor
+660,Data Scientist,Python|SQL|NLP|Deep learning,Python|SQL|NLP|Deep learning|Machine learning,,,,phd,phd
+661,Data Scientist,Python|SQL|R|SAS|Statistics|Tableau,Python|SQL|R|SAS|Tableau|Statistics,2,2.0,2+ years experience in data integration with SQL,master,master
+662,Data Scientist,Machine learning|Statistics,Machine learning|Statistics,,,,bachelor,bachelor
+663,Data Scientist,Python|SQL|R|Scala|Spark|Hadoop|Hive|TensorFlow|PyTorch|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics,Python|SQL|R|Spark|Hadoop|Hive|Scikit-learn|Pandas|NumPy|NLP|Deep learning|Machine learning|Statistics|TensorFlow|PyTorch,,,,master,master
+664,Data Scientist,Python|Hadoop|Statistics,Python|Hadoop|Statistics,,1.0,At least one year working in the cyber security field,bachelor,bachelor
+665,Data Scientist,Python|SQL|AWS|Git|Statistics|Excel,Python|SQL|Excel|Git|AWS|Statistics,,,,not_stated,not_stated
+666,Data Scientist,Python|SQL|R|Statistics,Python|SQL|R|Statistics,3,3.0,MS with 3-5 years related work experience,master,master
+667,Data Scientist,Python|SQL|Hadoop|Machine learning|Statistics|Tableau|Power BI|Excel,Python|SQL|Excel|Tableau|Power BI|Hadoop|Machine learning,2,2.0,2 years of experience in a data science role,bachelor,bachelor
+668,Data Scientist,Statistics,Statistics,,,,not_stated,not_stated
+669,Data Scientist,Python|SQL|R|Java|Scala|C++|Hadoop|Machine learning|Statistics|Tableau|Power BI,Python|SQL|R|Java|Scala|C++|Statistics|Machine learning|Tableau|Power BI|Hadoop,3,3.0,Minimum 3 years’ experience as a Data Scientist or Data Analyst,bachelor,bachelor
+670,Data Scientist,Python|R|Java|Scala|Spark|Hadoop|Hive|TensorFlow|PyTorch|Keras|Scikit-learn|NLP|Deep learning|Machine learning|Statistics,Python|R|Java|Scala|NLP|Machine learning|Deep learning|Statistics|Scikit-learn|Spark|Hadoop|Hive|PyTorch|TensorFlow|Keras,5,7.0,7 plus years of relevant experience,bachelor,bachelor
+671,Data Scientist,Python|SQL|SAS|Statistics|Tableau|Excel,Tableau|SAS|SQL|Python|Excel|Statistics,,5.0,5+ years in a similar analytical role,bachelor,bachelor

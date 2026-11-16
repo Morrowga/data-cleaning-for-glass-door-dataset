@@ -1,0 +1,45 @@
+STEP 9c - SCORE AGAINST YOUR HAND LABELS
+rows labelled: 30   (20 chosen where rules and AI disagree, 10 where they agree)
+labelled skills outside the 33-skill list (not scored): 77
+
+          years right  degree right  skills F1  precision  recall  rows exact
+rules         24/30        24/30       0.80       0.67    0.99        5/30
+Haiku         26/30        23/30       0.81       0.69    0.99        6/30
+  precision = of the skills it named, how many were right.  recall = of the true skills, how many it found.
+
+ESTIMATE FOR ALL 659 ROWS (sample re-weighted: the labelled rows are harder than average)
+  share of rows where rules and AI disagree: years 17%, degree 12%
+  years   where they disagree (n=7): rules 2 right, Haiku 4 right   ->  estimated accuracy rules 84%, Haiku 89%
+  degree  where they disagree (n=10): rules 5 right, Haiku 4 right   ->  estimated accuracy rules 89%, Haiku 88%
+  (small sample: treat these as rough numbers, not exact)
+
+YEARS: rows where at least one method is wrong
+  index         you       rules       Haiku   Haiku quote
+    368           -           2           -   
+    339           8           -           2   PhD in Computer Science or equivalent experience with two (2
+    632           5           4           4   4+ years of relevant experience
+    230           4           -           4   Four years (within the last seven years) experience conducti
+    555           3           3           0   0-10+ years of work experience in a Data Scientist role
+      2           1           -           1   at least one year of experience in the field
+     66           2           2           -   
+    618          10           -          10   Approximately ten (10) years of experience
+
+DEGREE: rows where at least one method is wrong
+  index         you       rules       Haiku   Haiku quote
+    482      master      master  not_stated   
+    368      master    bachelor    bachelor   Bachelor’ s degree & 2 years of directly related experience
+    234  not_stated  not_stated    bachelor   Degree in computer science, engineering, mathematics, statis
+    632      master      master  not_stated   
+    230      master  not_stated      master   M.A. degree in a data science or related field.
+      7  not_stated      master  not_stated   
+      2         phd         phd  not_stated   
+     66         phd      master         phd   Have a PhD in statistics, machine learning, physics, math, s
+    557    bachelor    bachelor      master   Or Master’s degree plus one-year experience in related disci
+     65    bachelor      master    bachelor   Candidates typically possess an undergraduate degree in a ha
+    628      master  not_stated    bachelor   Graduate or Postgraduate Degree in Computer Science, Softwar
+
+SKILLS: most common mistakes
+  rules  missed (you listed, it did not): {'GCP': 1, 'C++': 1}
+         extra  (it listed, you did not)   : {'Statistics': 20, 'SQL': 6, 'NLP': 5, 'AWS': 4, 'Deep learning': 3, 'R': 3}
+  Haiku  missed (you listed, it did not): {'GCP': 1, 'C++': 1}
+         extra  (it listed, you did not)   : {'Statistics': 17, 'AWS': 4, 'Deep learning': 4, 'NLP': 4, 'SQL': 4, 'R': 3}

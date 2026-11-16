@@ -1,0 +1,73 @@
+STEP 9a - RULES BASELINE
+rows: 659
+
+skills found (rows containing each skill)
+  Python              477   72.4%
+  Statistics          435   66.0%
+  Machine learning    404   61.3%
+  SQL                 340   51.6%
+  R                   284   43.1%
+  Spark               174   26.4%
+  Hadoop              142   21.5%
+  Java                139   21.1%
+  AWS                 136   20.6%
+  Tableau             122   18.5%
+  TensorFlow          103   15.6%
+  Deep learning        97   14.7%
+  NLP                  87   13.2%
+  C++                  84   12.7%
+  Scala                84   12.7%
+  SAS                  82   12.4%
+  Scikit-learn         80   12.1%
+  Excel                78   11.8%
+  Hive                 70   10.6%
+  Git                  67   10.2%
+  Pandas               66   10.0%
+  NumPy                57    8.6%
+  PyTorch              55    8.3%
+  MATLAB               54    8.2%
+  Azure                50    7.6%
+  Kafka                50    7.6%
+  Power BI             48    7.3%
+  Docker               40    6.1%
+  Keras                39    5.9%
+  GCP                  33    5.0%
+  Kubernetes           15    2.3%
+  Snowflake            13    2.0%
+  Airflow               8    1.2%
+rows with no skill found : 37
+skills per row           : median 6, max 16
+
+years of experience
+  read from the text        : 412
+  not found                 : 247
+  2+ different numbers (rules cannot choose, AI may do better): 98
+min_years_rules
+1      30
+2      77
+3     106
+4      27
+5      93
+6      15
+7      12
+8      27
+10     18
+12      4
+15      2
+16      1
+
+degree (lowest degree mentioned)
+degree_rules
+bachelor      344
+not_stated    153
+master        134
+phd            28
+
+CASES THE RULES CANNOT READ WELL (where the AI should help)
+  - years written as words: 'five years', 'three to five years'
+  - 'bachelor preferred' vs 'bachelor required' (the rules ignore required/preferred)
+  - 'or equivalent experience' instead of a degree
+  rows that write years as a word and have no number found: 36
+  rows that say 'equivalent experience' : 42
+
+check: row count same, degree values valid, years between 1 and 20

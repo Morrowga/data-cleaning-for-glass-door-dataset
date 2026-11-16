@@ -1,0 +1,19 @@
+STEP 4 - SALARY
+rows                              : 672
+salary read                       : 672
+salary NOT readable (left empty)  : 0
+min above max                     : 0
+outside $10,000 - $500,000        : 0
+
+by source
+salary_source
+glassdoor_est    652
+employer_est      20
+
+numbers (USD per year)
+     salary_min  salary_max  salary_mid
+min     31000.0     56000.0     43500.0
+50%     91000.0    133000.0    114000.0
+max    212000.0    331000.0    271500.0
+
+check: row count same, text column dropped, min <= max

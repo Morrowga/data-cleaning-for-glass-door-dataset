@@ -1,0 +1,456 @@
+index,Job Title,Job Description,Rating,Company Name,Size,Founded,Type of ownership,Industry,Sector,Revenue,salary_min,salary_max,salary_mid,salary_source,size_min,size_max,revenue_min,revenue_max,company_age,city,state,is_remote,location_level,hq_city,hq_state,hq_country,title_family,seniority,repeat_group_size,kept_index,reason
+135,Machine Learning Engineer,"Role Description
+Triplebyte screens and evaluates thousands of engineers per month to find the best candidates for our partner companies. Human decision making doesn't work at our scale; our marketplace is powered by automated assessment and decision making. Triplebyte has three cornerstone ML products: our quiz, our interview, and our matchmaking. As a machine learning engineer, you'll be responsible for the end-to-end process of designing and running experiments to serving production models at scale. Some of our pipelines use off the shelf components, but we're also implementing custom models and techniques from the latest research papers. We're also building forecasting tools for internal teams to measure and predict outcomes. This is an ideal role for an engineer or data scientist who wants the scope and responsibility to own features/products from the inception and research phase through to measuring real-world results.
+Fields your work will touch on
+Psychometrics
+Recommender systems
+Time series analysis
+Survival analysis
+Bayesian inference
+Probabilistic programming
+Requirements
+Robust exploratory/experimental skills. We have a novel dataset of candidate profiles and interview outcomes from our candidate screening process and our hiring marketplace. You'll be responsible for designing and evaluating experiments to predict downstream outcomes.
+Ability to implement models from research. Some of our best improvements in both speed and predictiveness has come from doing literature surveys and implementing novel techniques from research papers.
+Engineering skills. This is a hybrid research/engineering role. You'll be responsible for productionizing your pipelines/models and integrating against our back-end services.
+About Triplebyte
+Triplebyte is a hiring marketplace used by companies like Apple, Dropbox, Stripe, and Instacart to hire the best technical talent. We are on a mission to build a meritocratic hiring process, and we do all our evaluation background blind. Our ultimate goal is to collect the largest dataset and use this to build the world's best technical hiring process. No other company has successfully done what we're doing in this field.
+We are growing extremely quickly, working on a problem that is fundamental, sitting at the crossroads between the workforce and employers. Ten years from now, it'll look silly to use anything other than Triplebyte for technical hiring.
+Company Culture
+We have a laid-back, friendly office culture. Over lunch you'll often find us discussing the latest in technology, books, and pop culture, and then maybe getting in a quick game of chess or babyfoot (foosball).
+Since we're an early-stage company, we move fast, and it's important that each member of our team is able to take ownership of projects by defining problems, brainstorming solutions, and running experiments.",3.2,Triplebyte,51 to 200 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,,90000,109000,99500,glassdoor_est,51,200,,,5,,,True,remote,San Francisco,CA,United States,ml_engineer,not_stated,2,134,exact copy of another row
+136,Senior Data Engineer,"Lendio is looking to fill a position for a Senior Data Engineer. In addition to reporting to the lead Data Architect, this role will work with engineering leadership, application engineers, members of the BI team, and others to design, maintain, and deliver data from various systems on the front end of the Lendio processes. This includes working with the application database, analytics platforms, and other data sources that run the production application environment but also feed into all reporting systems.
+
+Responsibilities would include working with the engineering team to design and modify the existing data structures to better support reporting, and scaling, and new data needs as features are added to the system. Data migrations, data importing, data cleansing, and reporting will be key technical functions of this role.
+
+Requirements
+1+ years of experience with AWS data solutions (Kinesis, Glue, Step Functions, Lambda)
+1+ years of experience in Python
+2+ years of experience with Big Data technologies (Athena, S3, BigQuery, Redshift, Cassandra)
+3+ years of experience with MySQL
+Experience with data pipeline technologies (Airflow, Apache Beam, Spark, Hadoop)
+Deep knowledge of OLAP vs OLTP database architectures
+Working knowledge in end-user web analytics
+Experience in explaining complex data structures to non-technical users
+Previous experience architecting and building data pipelines from 1st party and 3rd party data sources
+Ability to optimize and improve performance of SQL queries
+Experience in Javascript (specifically NodeJS)
+Benefits
+A full suite of traditional benefits, even for your fur babies!
+Unlimited PTO
+401k with Company-Match & Immediate Vesting
+Company contributes to HSA
+Wellness program
+Work/Life balance
+The best reason to work at Lendio is our culture! Check it out at #LendioLife and Glassdoor",4.9,Lendio,201 to 500 employees,2011,Company - Private,Lending,Finance,$50 to $100 million (USD),90000,109000,99500,glassdoor_est,201,500,50000000,100000000,9,Lehi,UT,False,city,Lehi,UT,United States,data_engineer,senior,2,131,exact copy of another row
+358,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,122000,146000,134000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,357,exact copy of another row
+359,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,122000,146000,134000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,357,exact copy of another row
+360,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,122000,146000,134000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,357,exact copy of another row
+361,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,122000,146000,134000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,357,exact copy of another row
+362,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,122000,146000,134000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,357,exact copy of another row
+389,Data Scientist,"Job Description
+As a Data Scientist, you will apply the latest data mining techniques, using statistical analysis to integrate prediction systems with products and present findings to the business. As a data scientist you will work closely with architects, engineers, account managers and data scientists within and outside the company. You will be involved from pre-sales to support. You will work on next generation algorithms development and help measure, maintain and upgrade current business.
+
+Responsibilities:
+Building algorithms and designing experiments to merge, manage, analyze, and extract data for tailored reports to colleagues, clients or management.
+Gathering, standardizing, and analyzing voluminous electronic data, such as records, general ledgers, sales and inventory data, etc.
+Creating and monitoring anomaly detection systems.
+Own complete life cycle from problem formulation to solution deployment and maintenance
+Must be able to collaborate with architects, engineers, and data scientists within and outside the company
+Building predictive models and presenting information using data visualization tools and techniques.
+Develop proven methods and strategies for the larger Data Scientist team.
+Collaborating with engineering and product development teams.
+Querying and mining large data sets to discover transaction patterns, examining financial data and filtering for targeted information that utilize both traditional and predictive/advanced analytic methodologies.
+Keeping the company current with the latest technology, techniques, and methods.
+Act as a technical thought leader in collaboration with the analytics team, helping to set the strategy and standards for data science and advanced analytics.
+Excellent interpersonal skills with ability to communicate clearly and concisely with executives, engineers, account managers, sales, business partners and data scientists.
+Qualifications
+0-10+ years of work experience in a Data Scientist role (or related field).
+3+ years of outstanding technical abilities with Java, or C/C++ development experience with statistical machine learning models
+Bachelor’s degree or higher in data relevant fields: Computer Science, Mathematics, Physics, Engineering, Statistics, etc.
+Experience with common data science toolkits, such as Python, R etc., with expert proficiency in at least one
+Experience creating, managing, and utilizing high performance relational and NoSQL databases, such as Microsoft SQL Server, Oracle, Microsoft Access, OLAP and other software.
+Experience with a business intelligence tool such as Tableau, Adobe Analytics or Google Analytics
+Experience with Spark, Kaplan, Breeze, MapReduce models a plus
+You can describe and speak in an approachable way about complex analyses and concepts within a cross-functional team. You are a great “analytic translator”. You know how to simplify technical concepts when explaining things to non-technical business leaders.
+Selecting and implementing data mining methods most relevant to company projects and desired outcomes.
+Experience with at least two of Social Network Analysis, Knowledge Graphs, Predictive Modeling, Language Processing (including NLP) is a plus
+Excellent understanding of computer science fundamentals, data structures, and algorithms
+Rounded business skills with the ability to understand customer and/or stakeholder needs
+Have a strong mathematical background and have experience with modeling complex high dimensional problems
+Experience performing petabyte scale data analysis and developing meaningful visualizations
+Must be organized, have an eye for detail, and be able to identify trends within the data and tell that story to business leaders",,HireAi,,,,,,,110000,163000,136500,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,3,388,exact copy of another row
+496,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,95000,119000,107000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,495,exact copy of another row
+497,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,95000,119000,107000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,495,exact copy of another row
+498,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,95000,119000,107000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,495,exact copy of another row
+499,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,95000,119000,107000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,495,exact copy of another row
+500,Data Scientist,"Job Overview: The Data Scientist is a key member of our cross-functional Product team responsible for discovering new and innovative solutions to the challenges within the built environment. Now, more than ever, building owners and operators rely on Hatch Data to get a birds-eye view of asset performance to help them achieve ambitious goals around sustainable financial, environmental, and social impact. We are actively seeking an exceptional Data Scientist to help us take one of the worlds most extensive data sets for commercial building operations and transform it into amazing products for our customers.
+
+Responsibilities and Duties:
+Partner with Product Management, to Investigate high-level questions to discover new relationships between operations and outcomes
+Maintain and improve upon the accuracy and utility of existing machine-learning algorithms
+Own the long-term Data Science Roadmap, including prototype solutions in ""green field"" problem spaces
+Support ad-hoc data analysis in support of customer success and marketing efforts
+Collaborate closely with domain experts in energy and mechanical engineering, as well as with the software engineering team
+Coach and mentor others to amplify your impact and continuously demonstrate the value of data science
+Experience:
+Bachelors degree in Data Science, Computer Science, Math, or related technical field.
+Minimum 3+ years experience applying data science techniques to drive product development and decision-making.
+Demonstrated track record of solving problems in industry with machine learning
+Expertise in statistical methods and experimental design and analysis
+Fluent in at least one modern language for data processing (R, Python, and Scala experience ideal).
+Comfortable with AWS and distributed data processing systems (e.g., Spark)
+Familiarity with energy-efficiency, commercial building domain, regression and baseline techniques, weather normalization, etc. a plus
+Experience using APIs to manipulation and move data in and out of systems.
+Must possess outstanding written and verbal communication skills in English.
+Ability to prioritize development and operational tasks in a dynamic and challenging environment.
+About You:
+Care about leaving the world better than you found it.
+Mission-driven and leads by example with equal parts brain and heart.
+Operationally-minded, empathetic, self-starter, driven, and gets things done.
+Natural communicator that instills confidence and trust with internal and external stakeholders.
+Excited to join a small company, with big company benefits, and upside potential.
+Ideally based in the San Francisco Bay Area.
+About Us:
+
+Climate change is real. Addressing this is the biggest issue of our time. While moving the world from dirty energy sources to clean ones matters, there is also an enormous opportunity to use existing resources more efficiently. Buildings consume up to 40% of the energy in North America alone. This is a big opportunity to create change. We bring our values to work and every day push to solve these problems at scale.
+
+Our team applies their knowledge of energy systems, mechanical engineering, IoT, machine learning and the built environment, to design cutting edge software that reduces the negative environmental impact of our indoor spaces while improving the bottom line for owners and operators. Our software platform has been proven across more than 400M square feet of commercial real estate with marquee customers, and were doubling down our efforts in the coming months as we prepare to accelerate growth and impact.
+
+This is a unique opportunity to join a company that does well by doing good and is positioned for significant expansion. Youll enjoy comprehensive benefits, competitive salary, and meaningful equity. We offer a flexible work environment and the opportunity to work alongside an incredibly talented, fun, and highly motivated team.
+
+How to Apply:
+
+Does this sound like you? If so, please submit your resume and cover letter and provide any context you think would be helpful as we learn about you. Well be interested in understanding why youre excited about joining us, why this role seems like a perfect fit for your talents, and what success looks like for you, personally, over the next few years.",,Hatch Data Inc,,,,,,,95000,119000,107000,glassdoor_est,,,,,,San Francisco,CA,False,city,,,,data_scientist,not_stated,12,495,exact copy of another row

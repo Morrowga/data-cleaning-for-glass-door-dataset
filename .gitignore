@@ -1,0 +1,9 @@
+# secrets and local environment: never commit
+.env
+.env.*
+.venv/
+__pycache__/
+.DS_Store
+
+# raw Kaggle file: download it yourself (see README), not committed
+Uncleaned_DS_jobs.csv

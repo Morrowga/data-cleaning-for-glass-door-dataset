@@ -1,0 +1,51 @@
+STEP 6 - LOCATION AND HEADQUARTERS
+rows: 672
+
+Location level
+location_level
+city       649
+country     11
+remote       6
+state        6
+remote jobs: 6
+
+Top 8 job states
+state
+CA    166
+VA     89
+MA     62
+NY     52
+MD     40
+IL     30
+DC     26
+TX     18
+
+Headquarters country
+hq_country
+United States     596
+NaN                33
+United Kingdom     14
+Switzerland         9
+France              4
+Canada              4
+India               3
+Singapore           2
+Japan               2
+Bermuda             2
+Israel              1
+Sweden              1
+Spain               1
+
+Top 5 headquarters states
+hq_state
+CA    134
+VA     82
+MA     54
+NY     38
+MD     35
+
+NOT UNDERSTOOD (left empty, please look)
+  index  373 Headquarters 'New York, 061'
+  index  525 Headquarters 'New York, 061'
+
+check: row count same, every state code is a real US state, original text dropped

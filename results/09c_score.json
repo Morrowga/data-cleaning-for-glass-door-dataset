@@ -1,0 +1,29 @@
+{
+  "labelled_rows": 30,
+  "methods": {
+    "rules": {
+      "years_right": 24,
+      "degree_right": 24,
+      "skills_f1": 0.801,
+      "skills_precision": 0.675,
+      "skills_recall": 0.986
+    },
+    "Haiku": {
+      "years_right": 26,
+      "degree_right": 23,
+      "skills_f1": 0.813,
+      "skills_precision": 0.691,
+      "skills_recall": 0.986
+    }
+  },
+  "estimate_all_rows": {
+    "years": {
+      "rules": 0.84,
+      "haiku": 0.89
+    },
+    "degree": {
+      "rules": 0.895,
+      "haiku": 0.882
+    }
+  }
+}

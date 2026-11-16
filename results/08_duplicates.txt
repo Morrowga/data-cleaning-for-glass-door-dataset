@@ -1,0 +1,26 @@
+STEP 8 - DUPLICATES
+rows before : 672
+exact copies removed : 13
+rows after  : 659
+
+possible repeats (same job, different salary) among the kept rows
+  rows flagged possible_repeat : 311
+  jobs with 2+ salary versions : 146
+  rows in jobs seen once       : 346
+
+biggest jobs by raw copies
+   12 copies  Hatch Data Inc              Data Scientist
+    4 copies  Southwest Research InstituteENGINEER - COMPUTER SCIENTIST - RESEARCH
+    4 copies  Maxar Technologies          Senior Data Scientist
+    4 copies  Klaviyo                     Data Science Software Engineer
+    4 copies  Phoenix Operations Group    Data Scientist - TS/SCI FSP or CI Requir
+    3 copies  Johns Hopkins University AppDecision Scientist
+
+removed rows (first 5)
+  index  135 = copy of  134   Triplebyte | Machine Learning Engineer
+  index  136 = copy of  131   Lendio | Senior Data Engineer
+  index  358 = copy of  357   Hatch Data Inc | Data Scientist
+  index  359 = copy of  357   Hatch Data Inc | Data Scientist
+  index  360 = copy of  357   Hatch Data Inc | Data Scientist
+
+check: no rows lost, no exact copies left, group sizes fit
